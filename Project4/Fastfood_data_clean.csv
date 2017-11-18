@@ -1,0 +1,1828 @@
+Restaurant,Meal_Type,Food_Types,Food_Item,Serving,Weight_(g),Calories,Carbs_(g),Fiber_(g),Protein_(g),Fat_(g),Perc_Cals_from_Fat,Saturated_Fat_(g),Trans_Fat_(g),Cholesterol_(mg),Sodium_(mg)
+Arbys $,break-fast,break-fast Items,"Bacon, Egg & Cheese Biscuit",NA,160,450,34,1,18,26,52,15,0,165,1610
+Arbys$,break-fast,break-fast Items,"Bacon, Egg & Cheese Croissant",NA,134,390,24,1,16,24,55,12,0.5,190,1010
+Arbys$,break-fast,break-fast Items,"Bacon, Egg & Cheese Sourdough",NA,170,490,46,2,24,22,40,7,0,170,1450
+Arbys$,break-fast,break-fast Items,"Bacon, Egg & Cheese Wrap",NA,203,560,45,3,21,29,47,10,0,170,1870
+Arbys$,break-fast,break-fast Items,Biscuit,NA,83,250,32,1,6,11,40,9,0,80,780
+Arbys$,break-fast,break-fast Items,Blueberry Muffin,NA,85,270,33,1,4,14,47,2.5,0,55,260
+Arbys$,break-fast,break-fast Items,break-fast Syrup,NA,43,120,31,0,0,0,0,0,0,0,35
+Arbys$,break-fast,break-fast Items,Chicken Biscuit,NA,185,530,60,1,18,24,41,16,0,45,1310
+Arbys$,break-fast,break-fast Items,French Toastix,NA,124,330,47,2,6,13,35,2,0,0,500
+Arbys$,break-fast,break-fast Items,Ham & Cheese Croissant,NA,120,270,22,1,15,14,55,8,0,60,920
+Arbys$,break-fast,break-fast Items,"Ham, Egg & Cheese Biscuit",NA,195,420,34,1,22,22,47,14,0,180,1720
+Arbys$,break-fast,break-fast Items,"Ham, Egg & Cheese Croissant",NA,169,360,24,1,19,20,50,10,0,205,1130
+Arbys$,break-fast,break-fast Items,"Ham, Egg & Cheese Sourdough",NA,200,440,45,2,26,17,35,5,0,180,1440
+Arbys$,break-fast,break-fast Items,"Ham, Egg & Cheese Wrap",NA,234,520,45,3,22,24,42,8,0,180,1900
+Arbys$,break-fast,break-fast Items,Sausage Biscuit,NA,135,460,33,1,13,31,61,17,0,40,1230
+Arbys$,break-fast,break-fast Items,Sausage Gravy Biscuit,NA,305,590,48,1,14,38,58,20,0,40,1930
+Arbys$,break-fast,break-fast Items,"Sausage, Omelet & Cheese Sourdough",NA,197,580,45,2,25,34,53,12,0,185,1280
+Arbys$,break-fast,break-fast Items,Sausage Egg & Cheese Croissant,NA,173,530,24,1,18,40,68,18,0.5,220,1090
+Arbys$,break-fast,break-fast Items,Sausage Egg & Cheese Wrap,NA,237,690,45,3,21,43,56,15,0,195,1810
+Arbys$,break-fast,break-fast Items,Sausage Egg & Cheese Biscuit,NA,199,590,35,1,20,42,64,21,0,195,1680
+Arbys$,break-fast,break-fast Items,Sausage Egg & Cheese Sourdough,NA,204,610,46,2,25,37,55,13,0,195,1390
+Arbys$,break-fast,break-fast Items,Bacon & Egg w/Biscuit break-fast Platter,NA,236,570,43,2,23,30,47,15,0,280,1690
+Arbys$,break-fast,break-fast Items,Bacon & Egg w/Blueberry Muffin break-fast Platter,NA,238,600,44,2,21,33,50,8,0,335,1170
+Arbys$,break-fast,break-fast Items,Ham & Egg w/Biscuit break-fast Platter,NA,267,530,43,2,24,26,44,13,0,290,1730
+Arbys$,break-fast,break-fast Items,Ham & Egg w/Blueberry Muffin break-fast Platter,NA,270,560,44,2,23,29,47,6,0,345,1200
+Arbys$,break-fast,break-fast Items,Sausage & Egg w/Biscuit break-fast Platter,NA,270,700,43,2,23,44,57,20,0,305,1640
+Arbys$,break-fast,break-fast Items,Sausage & Egg w/Blueberry Muffin break-fast Platter,NA,272,720,44,2,22,48,60,13,0,360,1120
+Arbys$,break-fast,break-fast Items,French Toastix w/Bacon break-fast Platter,NA,142,430,48,2,13,19,40,4,0,10,990
+Arbys$,break-fast,break-fast Items,French Toastix w/Ham break-fast Platter,NA,173,380,48,2,14,15,36,2.5,0,20,1030
+Arbys$,break-fast,break-fast Items,French Toastix w/Sausage break-fast Platter,NA,176,550,48,2,13,33,54,9,0,35,940
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Regular Roast Beef,NA,154,340,38,2,23,11,29,4,NA,45,970
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Medium Roast Beef,NA,210,430,39,2,33,16,33,6,1,80,1380
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Regular Beef n Cheddar,NA,195,420,43,2,23,18,39,5,0.5,50,1260
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Medium Beef n Cheddar,NA,251,510,44,2,34,23,41,7,1,80,1670
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Large Beef n Cheddar,NA,329,630,47,2,44,29,41,9,1,115,2270
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,All-American Roastburger,NA,245,390,44,2,20,15,35,5,0,45,1730
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Bacon Cheddar Roastburger,NA,235,420,42,2,26,16,34,8,0.5,60,1840
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Super Roast Beef,NA,229,420,45,3,23,17,36,5,0.5,45,1080
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Arbys$ Melt,NA,175,370,40,2,23,13,32,4,0.5,50,1150
+Arbys$,Lunch/Dinner,Arbys$ Roast Beef Sandwiches,Ham & Swiss$Melt,NA,131,300,37,2,18,8,24,3.5,0,35,1070
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Sandwich-Crispy,NA,200,530,52,4,25,25,42,4,0,60,1310
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Sandwich-Roast,NA,189,400,40,3,24,16,36,3,0,50,870
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Bacon & Swiss-Crispy,NA,205,600,55,4,33,27,41,7,0,75,1750
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Bacon & Swiss-Roast,NA,194,470,43,2,32,19,36,5,0,65,1310
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Cordon Bleu-Crispy,NA,241,620,53,3,36,30,44,6,0,95,2040
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Chicken Cordon Bleu-Roast,NA,230,490,40,2,35,21,39,5,0,85,1600
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Roast Chicken Club,NA,258,500,41,2,31,23,41,7,0,70,1320
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Prime-Cut Chicken Tenders$Regular,NA,131,360,31,2,21,17,43,2.5,0,50,1160
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Prime-Cut Chicken Tenders$Large,NA,219,610,52,3,35,28,41,4,0,85,1940
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Tangy Barbeque Sauce,NA,28,45,11,0,0,0,0,0,0,0,350
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Buffalo Dipping Sauce,NA,28,10,1,0,0,1,90,0,0,0,720
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Honey Dijon Mustard Sauce,NA,28,140,5,0,0,13,84,2,0,10,130
+Arbys$,Lunch/Dinner,Arbys$ Chicken,Ranch Dipping Sauce,NA,43,160,2,0,1,16,90,3.5,0,30,280
+Arbys$,Salad,Market Fresh Sandwiches,Reuben Sandwich,NA,309,700,64,4,38,32,42,9,0,65,1870
+Arbys$,Salad,Market Fresh Sandwiches,Roast Turkey & Swiss$Sandwich,NA,332,710,78,5,39,28,35,7,0,75,1780
+Arbys$,Salad,Market Fresh Sandwiches,"Roast Turkey, Ranch & Bacon Sandwich",NA,351,810,78,5,46,36,40,10,0.5,95,2270
+Arbys$,Salad,Market Fresh Sandwiches,Pecan Chicken Salad Sandwich,NA,311,750,85,4,29,34,41,4.5,0,55,1350
+Arbys$,Salad,Market Fresh Sandwiches,Roast Beef & Swiss$Sandwich,NA,332,770,78,5,38,35,41,10,1,85,1680
+Arbys$,Salad,Market Fresh Sandwiches,Roast Ham & Swiss$Sandwich,NA,332,710,78,5,36,30,38,8,0,75,2010
+Arbys$,Salad,Market Fresh Sandwiches,Ultimate BLT Sandwich,NA,284,820,78,5,32,44,48,9,0,45,1690
+Arbys$,Salad,Arbys$ Toasted Sandwiches,Philly Beef Toasted Sub,NA,254,560,56,3,28,25,40,7,0.5,65,1490
+Arbys$,Salad,Arbys$ Toasted Sandwiches,French Dip & Swiss$Toasted Sub w/Au Jus,NA,314,500,61,2,29,15,27,6,0.5,60,2220
+Arbys$,Salad,Arbys$ Toasted Sandwiches,Classic Italian Toasted Sub,NA,289,590,57,3,24,30,46,8,0,55,1870
+Arbys$,Salad,Arbys$ Toasted Sandwiches,Turkey Bacon Club Toasted Sub,NA,290,560,56,3,32,23,37,6,0,60,1710
+Arbys$,Salad,Market Fresh Chopped Salads,Turkey and Ham,NA,307,250,10,3,23,14,50,7,0,60,910
+Arbys$,Salad,Market Fresh Chopped Salads,Buttermilk Ranch Dressing,NA,43,210,2,0,1,23,99,3.5,0,10,380
+Arbys$,Salad,Market Fresh Chopped Salads,Salad-Crispy,NA,337,430,30,4,27,24,50,8,0,65,1150
+Arbys$,Salad,Market Fresh Chopped Salads,Salad-Roast,NA,307,250,11,3,23,13,47,7,0,60,680
+Arbys$,Salad,Market Fresh Chopped Salads,Dijon Honey Mustard Dressing,NA,43,180,8,0,0,16,80,2.5,0,15,260
+Arbys$,Salad,Market Fresh Chopped Salads,Balsamic Vinaigrette Dressing,NA,43,130,5,0,0,12,83,2,0,0,470
+Arbys$,Salad,Market Fresh Chopped Salads,Chopped Side Salad,NA,120,70,4,1,4,5,64,3,0,15,100
+Arbys$,Sides,Sides$& Sidekickers,Curly Fries-small,NA,128,450,55,4,4,24,48,3,0,20,1160
+Arbys$,Sides,Sides$& Sidekickers,Curly Fries-medium,NA,170,600,74,5,6,31,47,4,0,25,1550
+Arbys$,Sides,Sides$& Sidekickers,Curly Fries-large,NA,201,710,87,6,7,37,47,5,0,30,1840
+Arbys$,Sides,Sides$& Sidekickers,Cheddar Cheese Sauce,NA,43,50,4,0,1,3.5,63,0.5,0,0,360
+Arbys$,Sides,Sides$& Sidekickers,Potato Cakes-small (2),NA,100,260,28,2,2,15,52,2,0,0,400
+Arbys$,Sides,Sides$& Sidekickers,Potato Cakes-medium (3),NA,150,390,42,3,3,23,53,3.5,0,0,600
+Arbys$,Sides,Sides$& Sidekickers,Potato Cakes-large (4),NA,200,510,57,4,4,30,53,4.5,0,0,790
+Arbys$,Sides,Sides$& Sidekickers,Homestyle Fries-small,NA,128,360,52,4,4,16,40,2,0,0,1020
+Arbys$,Sides,Sides$& Sidekickers,Homestyle Fries-medium,NA,170,480,69,5,5,21,39,3,0,0,1360
+Arbys$,Sides,Sides$& Sidekickers,Homestyle Fries-large,NA,213,610,86,7,6,26,38,3.5,0,0,1700
+Arbys$,Sides,Sides$& Sidekickers,Loaded Potato Bites-regular (5),NA,112,350,32,3,9,21,54,6,0,40,810
+Arbys$,Sides,Sides$& Sidekickers,Loaded Potato Bites-large (8),NA,179,570,51,5,14,34,54,10,0.5,60,1300
+Arbys$,Sides,Sides$& Sidekickers,Ranch Dipping Sauce,NA,43,160,2,0,1,16,90,3.5,0,30,280
+Arbys$,Sides,Sides$& Sidekickers,Mozzarella Sticks-regular (4),NA,137,440,39,2,21,23,47,9,0.5,5,1190
+Arbys$,Sides,Sides$& Sidekickers,Mozzarella Sticks-large (6),NA,206,660,59,3,31,34,46,13,1,5,1780
+Arbys$,Sides,Sides$& Sidekickers,Marinara Sauce,NA,43,35,5,1,1,1.5,38,0,0,0,160
+Arbys$,Sides,Sides$& Sidekickers,Jalapeno Bites-regular (5),NA,110,300,31,2,5,17,51,6,0,25,740
+Arbys$,Sides,Sides$& Sidekickers,Jalapeno Bites-large (8),NA,176,470,49,4,8,27,52,10,1,40,1180
+Arbys$,Sides,Sides$& Sidekickers,Bronco Berry Sauce,NA,43,90,22,0,0,0,0,0,0,0,30
+Arbys$,Sides,Sides$& Sidekickers,Steakhouse Onion Rings$(5),NA,132,460,56,3,6,24,47,3,0,0,1400
+Arbys$,Kids,Kids$Meal,Jr. Roast Beef,NA,87,200,24,1,12,6,27,2,0,25,530
+Arbys$,Kids,Kids$Meal,Prime-Cut Chicken Tenders$(2),NA,87,240,21,1,14,11,41,1.5,0,35,770
+Arbys$,Kids,Kids$Meal,Potato Cakes$(2),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arbys$,Kids,Kids$Meal,Homestyle Fries-kids,NA,85,240,35,3,3,10,38,1.5,0,0,680
+Arbys$,Kids,Kids$Meal,Applesauce,NA,113,80,21,2,0,0,0,0,0,0,10
+Arbys$,Kids,Kids$Meal,Chocolate Shake-small,NA,369,450,75,1,12,12,24,8,0,45,350
+Arbys$,Kids,Kids$Meal,Chocolate Shake-regular,NA,468,570,98,1,15,15,24,10,0,55,450
+Arbys$,Kids,Kids$Meal,Jamocha Shake-small,NA,369,440,75,1,11,12,25,8,0,45,350
+Arbys$,Kids,Kids$Meal,Jamocha Shake-regular,NA,468,570,97,1,14,15,24,10,0,55,440
+Arbys$,Kids,Kids$Meal,Vanilla Shake-small,NA,340,380,60,0,11,12,28,8,0,45,310
+Arbys$,Kids,Kids$Meal,Vanilla Shake-regular,NA,425,480,74,0,14,15,28,10,0,55,390
+Arbys$,Kids,Kids$Meal,Chocolate Chunk Cookies$(2),NA,91,420,54,2,4,21,45,10,0,30,320
+Arbys$,Kids,Kids$Meal,Jr. Roast Beef Sandwich,NA,87,200,24,1,12,6,27,2,0,25,530
+Arbys$,Kids,Kids$Meal,Jr. Chicken Sandwich,NA,122,340,33,2,13,17,45,3,0,25,690
+Arbys$,Kids,Kids$Meal,Jr. Ham & Cheddar Sandwich,NA,115,210,26,1,13,6,26,1.5,0,25,930
+Arbys$,Kids,Kids$Meal,Jr. Deluxe Sandwich,NA,128,260,25,2,13,12,42,3,0,30,570
+Arbys$,Kids,Kids$Meal,Curly Fries-value,NA,77,270,33,2,3,14,47,2,0,10,700
+Arbys$,Kids,Kids$Meal,W Apple Turnover,NA,89,310,38,1,5,16,46,7,0,0,190
+Arbys$,Kids,Kids$Meal,W Cherry Turnover,NA,89,310,37,2,5,16,46,7,0,0,240
+Arbys$,Kids,Kids$Meal,Jr. Chocolate Shake,NA,284,350,60,1,9,9,23,6,0,30,280
+Arbys$,Kids,Kids$Meal,Jr. Jamocha Shake,NA,284,350,60,0,9,9,23,6,0,30,270
+Arbys$,Kids,Kids$Meal,Jr. Vanilla Shake,NA,255,290,45,0,8,9,28,6,0,30,230
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Hamburger,NA,109,260,28,1,13,13,45,4,0,35,490
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Cheeseburger,NA,121,300,28,1,16,16,48,6,0,45,710
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Double Hamburger,NA,146,360,28,1,22,22,55,8,0,70,520
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Double Cheeseburger,NA,171,450,29,1,26,26,52,12,1,95,960
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Buck Double,NA,158,410,28,1,24,24,53,10,0.5,85,740
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Rodeo Cheeseburger,NA,128,350,37,2,16,16,41,7,0,45,600
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Bacon Cheeseburger,NA,126,330,28,1,18,18,49,7,0,55,810
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Double Bacon Cheeseburger,NA,181,510,29,1,31,31,55,14,1,105,1150
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,BK Double Stacker,NA,173,560,29,1,30,30,48,15,1,110,1040
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,BK Triple Stacker,NA,227,740,30,1,43,43,52,22,1.5,165,1390
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,BK Quad Stacker,NA,282,920,31,1,58,58,57,28,2,220,1730
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,A1 Steakhouse XT,NA,338,970,54,4,42,42,39,23,1,135,1920
+Burger King$,Lunch/Dinner,Flame Broiled Burgers,Steakhouse XT,NA,306,770,52,3,36,36,42,17,0,115,1330
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",TENDERGRILLL Chicken Sandwich on ciabata,NA,250,470,40,2,37,37,71,3.5,0,85,1100
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",TENDERGRILLL Chicken Sandwich on ciabata w/o Mayo,NA,236,360,40,2,37,37,92,1.5,0,75,1010
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",TENDERCRISP Chicken Sandwich,NA,284,800,68,3,32,32,36,8,0.5,70,1640
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",TENDERGRILLL Chicken Sandwich on ciabata w/o Mayo,NA,256,590,68,3,31,31,47,4,0,55,1450
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Original Chicken Sandwich,NA,218,630,46,3,24,24,34,7,0.5,65,1390
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Original Chicken Sandwich w/o Mayo,NA,190,420,46,3,24,24,51,3.5,0,45,1210
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",American Original Chicken Sandwich,NA,271,730,49,3,29,29,36,12,1,85,1830
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Original Chicken Club Sandwich,NA,256,690,48,3,29,29,38,9,0.5,75,1590
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Italian Original Chicken Sandwich,NA,246,520,50,3,32,32,55,7,0,65,1670
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Spicy CHICK$N CRISP Sandwich,NA,136,460,34,2,13,13,25,5,0,30,810
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Spicy CHICK$N CRISP Sandwich w/o Mayo,NA,114,300,35,2,12,12,36,2.5,0,20,670
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",CHICKEN TENDERs$(4 pc),NA,62,180,13,0,9,9,45,2,0,30,310
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",CHICKEN TENDERs$(5 pc),NA,78,230,16,0,11,11,43,2.5,0,35,380
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",CHICKEN TENDERs$(6 pc),NA,93,270,19,0,14,14,47,3,0,45,460
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",CHICKEN TENDERs$(8 pc),NA,123,360,25,0,18,18,45,4,0,60,610
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",CHICKEN TENDERs$Sandwich,NA,142,440,35,1,12,12,24,4.5,0,35,610
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",KRAFT Macaroni and Cheese,NA,113,160,22,1,7,7,39,1.5,0,10,340
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Tacos$(2),NA,174,330,18,5,14,14,38,8,0.5,30,750
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Spicy Chicken BK Wrapper,NA,135,360,32,2,14,14,35,5,0,30,1010
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",BK Chicken Fries$(6 pc),NA,85,250,16,1,14,14,50,2.5,0,30,820
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",BK Chicken Fries$(9 pc),NA,127,380,24,2,21,21,50,4,0,40,1220
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",BK Chicken Fries$(12 pc),NA,170,500,32,3,28,28,50,5,0,55,1630
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",Country Pork Sandwich,NA,298,810,78,4,29,29,32,13,0,75,1910
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",BK BIG FISH Sandwich,NA,248,640,67,3,23,23,32,5,0.5,45,1560
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",w/o Tartar Sauce,NA,219,460,64,3,23,23,45,2.5,0,30,1320
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",BK VEGGIE Burger **,NA,209,410,44,7,22,22,48,2.5,0,5,1030
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",w/ Cheese,NA,221,450,44,7,24,24,48,5,0,20,1250
+Burger King$,Lunch/Dinner,"Chicken, Fish, Veggie and Kids",w/o Mayo,NA,198,320,43,7,22,22,62,1,0,0,960
+Burger King$,Sides,Side Orders,BK Fresh Apple Fries,NA,57,25,6,1,0,0,0,0,0,0,0
+Burger King$,Sides,Side Orders,Low fat Caramel Sauce,NA,14,45,10,0,0,0.5,10,0,0,0,35
+Burger King$,Sides,Side Orders,Motts$ Harvest Plus$Applesauce,NA,108,50,13,1,0,0,0,0,0,0,0
+Burger King$,Sides,Side Orders,Onion Rings$- value,NA,43,150,17,1,2,8,48,1.5,0,0,230
+Burger King$,Sides,Side Orders,Onion Rings$- small,NA,91,310,36,3,4,17,49,3,0,0,490
+Burger King$,Sides,Side Orders,Onion Rings$- medium,NA,117,400,47,4,6,21,47,3.5,0,0,630
+Burger King$,Sides,Side Orders,Onion Rings$- large,NA,142,490,57,5,7,26,48,4.5,0,0,770
+Burger King$,Sides,Side Orders,French Fries$- value (Salted),NA,74,220,28,2,2,11,45,2.5,0,0,340
+Burger King$,Sides,Side Orders,French Fries$- small (Salted),NA,116,340,44,4,4,17,45,3.5,0,0,530
+Burger King$,Sides,Side Orders,French Fries$- medium (Salted),NA,148,440,56,5,5,22,45,4.5,0,0,670
+Burger King$,Sides,Side Orders,French Fries$- large (Salted),NA,182,540,69,6,6,27,45,6,0,0,830
+Burger King$,Sides,Side Orders,Mozzarella Sfcks$(4 pc),NA,88,280,24,2,11,15,48,5,0,35,650
+Burger King$,Salad,BK Salad Condition,TENDERGRILL Chicken Garden Salad,NA,286,230,9,3,34,8,31,3.5,0,85,930
+Burger King$,Salad,BK Salad Condition,TENDERCRISP Chicken Garden Salad,NA,284,410,27,4,27,23,50,6,0,65,1060
+Burger King$,Salad,BK Salad Condition,Garden Salad (no chicken),NA,162,70,7,3,4,4,51,2.5,0,10,100
+Burger King$,Salad,BK Salad Condition,Side Salad,NA,99,40,2,1,3,2,45,1,0,5,45
+Burger King$,Condiments,BK Salad Condition,KEN$s$Light Italian Dressing (2 oz),NA,56,120,5,0,0,11,82,1.5,0,0,440
+Burger King$,Condiments,BK Salad Condition,KEN$s$Ranch Dressing (2 oz),NA,56,190,2,0,1,20,94,3,0,20,550
+Burger King$,Condiments,BK Salad Condition,KEN$s$Creamy Caesar Dressing (2 oz),NA,56,210,4,0,3,21,90,4,0,25,610
+Burger King$,Condiments,BK Salad Condition,KEN$s$Fat Free Ranch Dressing (2 oz),NA,56,60,15,2,0,0,0,0,0,0,740
+Burger King$,Condiments,BK Salad Condition,KEN$s$Honey Mustard Dressing (2 oz),NA,56,270,15,0,1,23,77,3,0,20,510
+Burger King$,Condiments,BK Salad Condition,Garlic Parmesan Croutons,NA,14,60,9,0,1,2,30,0,0,0,120
+Burger King$,break-fast,break-fast,BK break-fast Bowl,NA,243,540,17,2,24,42,70,13,0.5,375,1020
+Burger King$,break-fast,break-fast,BK break-fast Muffin Sandwich,NA,137,410,24,1,17,26,57,9,0.5,125,860
+Burger King$,break-fast,break-fast,BK Kids$break-fast Muffin Sandwich,NA,93,240,23,1,9,11,41,4,0,95,550
+Burger King$,break-fast,break-fast,Bk Ulfmate break-fast Plater,NA,487,1310,134,5,32,72,49,26,1,455,2490
+Burger King$,break-fast,break-fast,BK break-fast Plater,NA,301,810,57,4,25,54,60,22,1,360,1790
+Burger King$,break-fast,break-fast,BK break-fast Ciabata Club Sandwich,NA,219,480,41,2,24,23,43,7,0,210,1270
+Burger King$,break-fast,break-fast,Enormous$Omelet Sandwich,NA,266,760,44,2,35,44,52,15,1,405,1840
+Burger King$,break-fast,break-fast,CROISSAN$WICH Egg & Cheese,NA,115,320,26,0,11,16,45,7,0,180,680
+Burger King$,break-fast,break-fast,CROISSAN$WICH Sausage & Cheese,NA,106,380,26,0,14,24,57,10,0,50,780
+Burger King$,break-fast,break-fast,"CROISSAN$WICH Sausage, Egg & Cheese",NA,159,490,27,0,18,31,57,11,0.5,215,990
+Burger King$,break-fast,break-fast,"CROISSAN$WICH Ham, Egg & Cheese",NA,149,350,27,0,18,17,44,7,0,200,1110
+Burger King$,break-fast,break-fast,"CROISSAN$WICH Bacon, Egg & Cheese",NA,122,360,26,0,14,19,47,8,0.5,190,830
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Sausage, Egg, & cheese",NA,215,700,29,0,29,49,63,18,1,255,1510
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Bacon, Egg,",NA,142,440,27,0,20,25,51,11,0.5,210,1190
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Ham, Egg, & cheese",NA,196,440,28,0,26,22,45,10,0.5,230,1740
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Sausage, Bacon, Egg & cheese",NA,179,570,28,0,24,37,58,15,1,235,1350
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Ham, Bacon, Egg & cheese",NA,169,440,28,0,23,24,49,10,0.5,220,1470
+Burger King$,break-fast,break-fast,"DOUBLE CROISSAN$WICH w/ Ham, Sausage, Egg & cheese",NA,206,570,28,0,28,35,55,14,1,240,1630
+Burger King$,break-fast,break-fast,Cheesy Bacon BK WRAPPER,NA,137,380,28,2,13,24,57,7,0.5,185,1020
+Burger King$,break-fast,break-fast,Sausage Biscuit,NA,126,420,32,1,13,27,58,15,0.5,35,1090
+Burger King$,break-fast,break-fast,"Ham, Egg, & Cheese Biscuit",NA,164,420,33,1,16,22,47,15,0.5,185,1410
+Burger King$,break-fast,break-fast,"Sausage, Egg, & Cheese Biscuit",NA,191,570,34,1,20,37,58,19,1,210,1510
+Burger King$,break-fast,break-fast,"Bacon, Egg & Cheese Biscuit",NA,155,420,34,1,16,25,54,16,1,185,1360
+Burger King$,break-fast,break-fast,Pancakes$(3) and 1 oz break-fast syrup,NA,187,500,77,1,7,19,34,4.5,0,95,700
+Burger King$,break-fast,break-fast,Pancake Plater w/ Sausage & 1 oz break-fast Syrup,NA,231,670,78,1,14,34,46,9,0,125,1010
+Burger King$,break-fast,break-fast,Side of Eggs,NA,96,160,3,0,10,12,67,3,0,330,320
+Burger King$,break-fast,break-fast,Side of Southwest Potatoes,NA,77,90,12,2,2,3.5,35,1,0,0,220
+Burger King$,break-fast,break-fast,Hash Browns$- small,NA,84,250,24,3,2,16,58,3.5,0,0,410
+Burger King$,break-fast,break-fast,Hash Browns$- medium,NA,168,500,48,7,4,33,59,7,0,0,810
+Burger King$,break-fast,break-fast,Hash Browns$- large,NA,224,670,65,9,5,44,59,9,0,0,1080
+Burger King$,break-fast,break-fast,Mini Blueberry Biscuits$with icing (4pc),NA,113,390,57,1,5,15,35,15,0,0,830
+Burger King$,break-fast,break-fast,Cini-minis$(4 minis),NA,108,400,52,2,7,18,40,7,0,20,380
+Burger King$,break-fast,break-fast,Vanilla Icing,NA,28,90,22,0,0,0,0,0,0,0,25
+Burger King$,break-fast,break-fast,French Toast Sfcks$(3 piece),NA,65,230,29,1,3,11,43,2,0,0,260
+Burger King$,break-fast,break-fast,French Toast Sfcks$(5 piece),NA,109,380,49,2,5,18,43,3,0,0,430
+Burger King$,break-fast,break-fast,Prime Rib Premium Skillet*,NA,21,850,64,7,41,46,49,15,0,540,2080
+Burger King$,break-fast,break-fast,Ultimate Skillet,NA,15,740,34,6,27,56,71,17,0,475,1470
+Burger King$,break-fast,break-fast,Santa Fe Skillet,NA,14,710,30,5,33,52,66,15,0,485,1490
+Burger King$,break-fast,break-fast,"Bacon Chipotle Chicken Skillet* (add sides, bread and drink)",NA,7,360,4,0,47,18,45,7,0,125,800
+Burger King$,break-fast,break-fast,Meat Lover$s$Scramble,NA,21,1140,94,5,49,63,50,27,0,565,3410
+Burger King$,break-fast,break-fast,Heartland Scramble,NA,21,1160,110,7,38,63,49,19,0,520,2930
+Burger King$,break-fast,break-fast,Moons$Over My Hammy (add choices$),NA,13,760,51,2,44,41,48,15,0,530,2320
+Burger King$,break-fast,break-fast,Country Fried Steak & Eggs$(add choices),NA,11,660,29,3,39,43,59,15,2,490,1620
+Burger King$,break-fast,break-fast,Southwestern Steak Burrito w/Hash Browns,NA,19,1120,101,7,36,63,51,16,0,285,2610
+Burger King$,break-fast,break-fast,Bacon Avacado Burrito w/Hash Browns,NA,17,1010,91,8,29,59,53,15,0,275,2210
+Burger King$,break-fast,break-fast,T-bone Steak & Eggs* (add choices),NA,16,780,4,0,10,36,42,19,0,605,1210
+Burger King$,Sides,Sides,Bacon Strips$(4),NA,4 sl,140,1,0,9,11,71,4,0,30,467
+Burger King$,Sides,Sides,Turkey Bacon (4),NA,4 sl,150,1,0,17,8,48,2,0,65,650
+Burger King$,Sides,Sides,Sausage Links$(4),NA,3 oz,370,4,3,9,34,83,13,0,70,660
+Burger King$,Sides,Sides,Chicken Sausage Patty (2),NA,3 oz,220,1,0,15,18,78,6,0,90,530
+Burger King$,Sides,Sides,Grilled Honey Ham Slice,NA,3 oz,120,8,0,14,5,37,4,1,45,710
+Burger King$,Sides,Sides,Eggs* (each) 2 oz = 1 egg,NA,2 oz,120,0,0,6,11,82,3,0,210,125
+Burger King$,Sides,Sides,"Eggs, white",NA,4 oz,50,1,0,11,0.5,9,0,0,0,180
+Burger King$,Sides,Sides,Hash Browns,NA,1 Serv,210,26,2,2,12,51,2.5,0,0,650
+Burger King$,Sides,Sides,Cheddar Cheese Hash Browns,NA,5 oz,300,26,2,8,19,57,7,0,20,780
+Burger King$,Sides,Sides,"Everything Hash Browns$w/Onions, Cheese, Gravy",NA,8,340,33,2,8,21,56,8,0,20,1010
+Burger King$,Sides,Sides,Red Skinned Potatoes,NA,4 oz,210,27,3,4,7,30,2,0,0,630
+Burger King$,Sides,Sides,Pancake Puppies$(6),NA,6 pcs,370,68,3,8,8,19,4,0,0,980
+Burger King$,Sides,Sides,Bagels$and Cream Cheese,NA,6 oz,428,48,2,11,12,25,7,0,35,560
+Burger King$,Sides,Sides,Toast w/ margarine,NA,2 sl,270,31,1,5,13,43,3,0,0,110
+Burger King$,Sides,Sides,Buttermilk Biscuit,NA,1 pc,190,24,1,3,9,43,5,0,0,570
+Burger King$,Sides,Sides,English Muffin/no margarine,NA,1 pc,130,25,1,4,1,7,0,0,0,250
+Burger King$,Sides,Sides,Grits$w/ margarine,NA,12 oz,220,44,3,5,3,12,1,0,0,15
+Burger King$,Sides,Sides,Oatmeal w/ 8oz milk,NA,16 oz,290,39,4,12,8,25,4,0,20,300
+Burger King$,Sides,Sides,Granola 4 oz w/ milk,NA,1 serv,550,103,7,17,10,16,3,0,20,350
+Burger King$,Sides,Sides,Seasonal Fruit,NA,4 oz,70,18,3,1,0,0,0,0,0,7
+Burger King$,Sides,Sides,Yogurt Low Fat,NA,6 oz,160,30,0,6,1.5,8,1,0,5,100
+Burger King$,Sides,Sides,Banana,NA,1 ea,110,29,4,1,0,0,0,0,0,0
+Burger King$,Sides,Sides,Grapes,NA,3 oz,55,29,4,1,0,0,0,0,0,0
+Denny$s,Appetizers,Appetizers,Sampler,NA,17 oz,1380,139,6,53,71,46,6,0,80,3710
+Denny$s,Appetizers,Appetizers,Half size/mini sampler (add sauce),NA,11 oz,870,83,3,42,42,43,5,0,75,2420
+Denny$s,Appetizers,Appetizers,The Big Dipper w/ salsa (add sauce),NA,10 pcs,1230,145,14,50,50,36,23,0,85,1640
+Denny$s,Appetizers,Appetizers,Basket of Puppies$w/o syrup,NA,10 pcs,520,94,3,11,11,19,2,0,0,1640
+Denny$s,Appetizers,Appetizers,Chicken Strips$w/ Buffalo Sauce (add dipping sauce),NA,13 oz,720,52,0,57,32,40,0,0,115,2780
+Denny$s,Appetizers,Appetizers,Sweet and Tangy BBQ Chicken Strips$( add dipping sauce),NA,13 oz,820,83,2,58,30,33,0,0,115,2160
+Denny$s,Appetizers,Appetizers,Zesty Nachos,NA,22 oz,1340,140,12,62,61,41,29,0,210,2800
+Denny$s,Appetizers,Appetizers,Half size Zesty Nachos,NA,10 oz,570,67,5,23,24,38,12,0,75,101
+Denny$s,Appetizers,Appetizers,Mozzarella Cheese Sticks$(add marinara sauce),NA,8 oz,560,58,2,38,20,32,17,0,185,2480
+Denny$s,Appetizers,Appetizers,Chicken Wings$w/ Baffalo Sauce (add dipping sauce),NA,8 oz,330,3,1,34,20,54,5,0,185,1860
+Denny$s,Appetizers,Appetizers,Sweet and Tangy BBQ Chicken Wings,NA,8 oz,450,40,1,35,18,36,5,0,185,1400
+Denny$s,Appetizers,Appetizers,Smothered Cheese Fries,NA,10 oz,860,75,7,21,53,55,17,0.5,65,990
+Denny$s,Appetizers,Appetizers,Three-Dip & Chips,NA,12 oz,560,72,7,19,25,40,11,0,70,1430
+Denny$s,Appetizers,Appetizers,Tsing Tsing Chicken,NA,14 oz,900,114,4,52,26,26,5,0,130,2760
+Denny$s,Appetizers,Appetizers,Cheese Quesadilla,NA,8 oz,690,48,6,25,42,55,21,0.5,75,1300
+Denny$s,break-fast,BYO Grand Slams,Bacon Strips,NA,2 sl,70,1,0,5,5,64,2,0,15,230
+Denny$s,break-fast,BYO Grand Slams,Buttermilk Biscuit,NA,1 pc,190,24,1,3,9,43,5,0,0,570
+Denny$s,break-fast,BYO Grand Slams,Chicken Sausage Patty (1 patty),NA,1.5 oz,110,0,0,7,9,74,3,0,45,260
+Denny$s,break-fast,BYO Grand Slams,Eggs$Whites$(2),NA,4 oz,50,1,0,11,0,0,0,0,0,180
+Denny$s,break-fast,BYO Grand Slams,Eggs$Scrambled (2),NA,4 oz,260,1,0,14,21,73,6,0,480,400
+Denny$s,break-fast,BYO Grand Slams,English Muffin / no margarine,NA,1 pc,130,25,1,4,1,62,0,0,0,250
+Denny$s,break-fast,BYO Grand Slams,Grits$w/ margarine,NA,12 oz,220,44,3,5,3,12,1,0,0,15
+Denny$s,break-fast,BYO Grand Slams,Hash Browns,NA,1 serv,210,26,2,2,12,51,2.5,0,0,650
+Denny$s,break-fast,BYO Grand Slams,"Pancakes, Hearty Wheat",NA,2/serv,310,64,8,10,1.5,4,0,0,15,950
+Denny$s,break-fast,BYO Grand Slams,Oatmeal w/ 8oz milk,NA,16 oz,290,39,4,14,8,25,4,0,20,300
+Denny$s,break-fast,BYO Grand Slams,Buttermilk Pancake,NA,2/serv,330,67,2,8,4,11,0.5,0,0,1170
+Denny$s,break-fast,BYO Grand Slams,Sausage Links,NA,2 links,180,2,1,5,17,85,6,0,35,330
+Denny$s,break-fast,BYO Grand Slams,Toast Slice w/ margarine,NA,2 sl,270,31,1,5,13,43,2,0,0,110
+Denny$s,break-fast,BYO Grand Slams,Turkey Bacon Strips,NA,2 sl,70,1,1,9,4,51,1,0,30,330
+Denny$s,break-fast,BYO Grand Slams,Granola 4 oz w/ 8 oz milk,NA,1 Serv,550,103,7,17,10,16,3,1,20,350
+Denny$s,break-fast,BYO Grand Slams,Yogurt Low Fat,NA,6 oz,160,30,0,6,1.5,8,1,0,5,100
+Denny$s,break-fast,BYO Grand Slams,Seasonal Fruit,NA,4 oz,70,18,3,1,0,0,0,0,0,7
+Denny$s,break-fast,BYO Grand Slams,The Grand Slamwiches* w/ hash Browns,NA,16 oz,1310,71,3,51,89,61,42,0,540,2900
+Denny$s,break-fast,Slams,All American Slam* (add choices),NA,10 oz,800,5,1,40,68,76,25,0,775,1410
+Denny$s,break-fast,Slams,French Toast Slam,NA,15 oz,940,66,3,42,55,53,17,0,850,1780
+Denny$s,break-fast,Slams,Belgian Waffle Slam * w/ margarine no syrup,NA,13 oz,1030,50,2,30,77,8,27,0,715,1765
+Denny$s,break-fast,Slams,Lumberjack Slam (add choices),NA,15 oz,940,80,4,46,47,45,17,1,555,2900
+Denny$s,break-fast,Slams,Every Day Value Slam* w/Sausage,NA,13 oz,760,70,3,25,42,50,12,0,460,1750
+Denny$s,break-fast,Slams,Every Day Value Slam* w/Bacon,NA,12 oz,650,69,2,25,30,41,8,0,440,1660
+Denny$s,break-fast,Slams,"Grand Slam Slugger (add choice, bread & drink)",NA,13 oz,780,71,3,29,42,48,13,0,475,1930
+Denny$s,break-fast,Omelettes,Moon Over My Hammy Omelette w/ Hash Browns$(add choices),NA,10 oz,770,31,2,42,53,62,18,0,790,2590
+Denny$s,break-fast,Omelettes,Veggie-Cheese Omelette (add choices),NA,13 oz,460,9,2,28,33,64,12,0,740,680
+Denny$s,break-fast,Omelettes,Western Omelette w/ Hash Browns$(add choices),NA,16 oz,700,32,2,38,46,59,13,0,770,2180
+Denny$s,break-fast,Omelettes,Ultimate Omelette (add choices),NA,12 oz,620,8,2,36,48,70,11,0,740,1170
+Denny$s,break-fast,Omelettes,Southern Omelette w/ Hash Browns$( add bread),NA,18 oz,1070,47,4,38,80,67,30,0,795,2500
+Denny$s,break-fast,Sweets,Banana Foster French Toast Skillet* (add meat),NA,15 oz,860,107,3,32,33,34,9,0,720,1270
+Denny$s,break-fast,Sweets,Chocolate Chip Pancake Platter* (add meat),NA,13 oz,640,87,4,24,22,31,9,0,480,1480
+Denny$s,Lunch/Dinner,Better Burgers,Classic Burger & Fries,NA,19 oz,1190,101,8,56,62,47,21,0,110,1190
+Denny$s,Lunch/Dinner,Better Burgers,Western Burger* (add Choice of side),NA,17 oz,1120,73,6,51,61,49,24,0,130,1580
+Denny$s,Lunch/Dinner,Better Burgers,Veggie Burger w/ dressing (add choice),NA,11 oz,520,75,9,29,12,21,5,0,20,1250
+Denny$s,Lunch/Dinner,Better Burgers,Fit Fare Veggie Burger* (add fruit/veggie choice),NA,10 oz,460,65,8,29,10,20,5,0,20,1040
+Denny$s,Lunch/Dinner,Better Burgers,Mushroom Swiss$Burger (add choice of side),NA,18 oz,880,56,4,50,49,50,22,0,130,1800
+Denny$s,Lunch/Dinner,Better Burgers,Bacon Cheddar Burger 8 (add choices),NA,15 oz,900,50,3,60,50,50,22,0,160,1850
+Denny$s,Lunch/Dinner,Better Burgers,Bacon Slamburger w/ Fries,NA,15 oz,1030,61,2,57,59,52,24,0,350,1780
+Denny$s,Lunch/Dinner,Better Burgers,Double Cheeseburger* (add choices),NA,23 oz,1420,53,4,87,87,55,41,0,260,2720
+Denny$s,Lunch/Dinner,Sandwiches,Prime Rib Philly Melt* (add choices),NA,13 oz,670,52,3,35,36,48,11,0,75,1710
+Denny$s,Lunch/Dinner,Sandwiches,The Super Bird (add choices),NA,11 oz,620,52,4,35,31,45,10,0,65,2170
+Denny$s,Lunch/Dinner,Sandwiches,Club Sandwich * (add choices),NA,10 oz,550,30,3,24,32,52,5,0,50,1530
+Denny$s,Lunch/Dinner,Sandwiches,Patty Melt * (add choices),NA,13 oz,1040,41,4,50,73,63,29,0,160,2180
+Denny$s,Lunch/Dinner,Sandwiches,Spicy Buffalo Chicken Melt* (add choices),NA,15 oz,860,76,3,32,48,50,12,0,70,3760
+Denny$s,Lunch/Dinner,Sandwiches,Chicken Ranch Melt* (add choices),NA,12 oz,790,74,3,36,38,43,11,0,85,2640
+Denny$s,Lunch/Dinner,Sandwiches,Smoked Chicken Melt* (add choices),NA,12 oz,840,72,3,38,45,48,14,0,105,1820
+Denny$s,Lunch/Dinner,Sandwiches,"Bacon, Lettuce & Tomato* (add choices)",NA,7 oz,520,35,2,15,35,61,8,0,35,620
+Denny$s,Lunch/Dinner,Sandwiches,Hickory Grilled Chicken Sandwich * (add choices),NA,15 oz,1020,72,4,50,60,53,14,0,115,1530
+Denny$s,Lunch/Dinner,Sandwiches,Fried Cheese Mlt w/ Marinara Sauce (add choices),NA,12 oz,830,82,3,36,40,43,17,0,75,2920
+Denny$s,Lunch/Dinner,Sandwiches,Buffalo Chicken Wrap,NA,14 oz,830,108,8,40,28,30,7,0,65,2280
+Denny$s,Lunch/Dinner,Sandwiches,Pulled BBQ Chicken Sandwich w/ coleslaw (add fries),NA,14 oz,670,96,4,21,23,31,24,0,60,1680
+Denny$s,Salads,"Soups, Salads, and Sides",Chicken Deluxe Salad Chicken Strip*(add choices),NA,18 oz,590,43,4,42,29,44,5,0,90,1180
+Denny$s,Salads,"Soups, Salads, and Sides",Chicken Deluxe Salad-Grilled Chicken * (add choices),NA,17 oz,340,13,4,44,13,34,6,0,110,530
+Denny$s,Salads,"Soups, Salads, and Sides",Fit-Fare Grilled Chicken Breast Salad w/ Lemon oe Lime wedge,NA,16 oz,340,13,4,44,13,34,6,0,110,530
+Denny$s,Salads,"Soups, Salads, and Sides",Cranberry Apple Salad (w/chicken) no/dressing,NA,11 oz,320,22,3,36,10,28,2,0,90,400
+Denny$s,Salads,"Soups, Salads, and Sides",Half size Cranberry Apple /no dressing,NA,8 oz,220,5,1,36,6,24,2,0,90,360
+Denny$s,Salads,"Soups, Salads, and Sides",Nacho Salad,NA,20 oz,850,48,9,48,52,55,27,1,165,2140
+Denny$s,Soups,"Soups, Salads, and Sides",Chicken Noodle Soup,NA,12 oz,140,35,2,12,4,26,2,0,110,1150
+Denny$s,Soups,"Soups, Salads, and Sides",Broccoli & Cheddar Soup,NA,12 oz,370,48,7,9,16,39,10,0,40,1650
+Denny$s,Soups,"Soups, Salads, and Sides",Vegetable Beef Soup,NA,12 oz,140,17,3,7,5,32,0,0,10,1290
+Denny$s,Soups,"Soups, Salads, and Sides",Clam Chowder,NA,12 oz,270,24,1,5,17,57,12,0,35,1840
+Denny$s,Soups,"Soups, Salads, and Sides",Loaded Baked Potatoe Soup,NA,12 oz,310,22,2,5,23,67,11,0,45,1520
+Denny$s,Sides,"Soups, Salads, and Sides",Seasoned Fries,NA,5 oz,510,48,5,6,33,58,6,0,0,1010
+Denny$s,Sides,"Soups, Salads, and Sides","French Fries, salted",NA,5 oz,430,50,5,5,23,48,5,0,0,95
+Denny$s,Sides,"Soups, Salads, and Sides",Hash Browns,NA,1 serv,210,26,2,2,12,51,2.5,0,0,650
+Denny$s,Sides,"Soups, Salads, and Sides",Onion Rings,NA,5 oz,620,48,3,6,36,52,2,0,0,980
+Denny$s,Sides,"Soups, Salads, and Sides",Garden Salad w/o dressing,NA,7 oz,120,7,2,7,7,52,6,0,20,150
+Denny$s,Sides,"Soups, Salads, and Sides",Dippable Veggies$w/ ranch dressing,NA,4 oz,210,5,1,1,20,86,4,0,10,350
+Denny$s,Sides,"Soups, Salads, and Sides",Garlic Dinner Bread,NA,2 pc,170,21,1,4,9,48,2,0,0,350
+Denny$s,Lunch/Dinner,American Dinner Classics,Mushroom Swiss$Chopped Steak* (add choices),NA,13 oz,900,13,1,54,66,66,28,1,165,1890
+Denny$s,Lunch/Dinner,American Dinner Classics,Chicken Strips$(add choices),NA,8 oz,560,41,0,45,24,38,0,0,90,1300
+Denny$s,Lunch/Dinner,American Dinner Classics,Sweet & Tangy BBQ Chicken,NA,20 oz,760,105,3,79,19,22,6,0,195,1820
+Denny$s,Lunch/Dinner,American Dinner Classics,Fit-Fare Sweet & Tangy BBQ Chicken w/ vegetables$& Tomatoes,NA,13 oz,640,56,2,75,14,19,4,0,180,1430
+Denny$s,Lunch/Dinner,American Dinner Classics,Homestyle Meatloaf w/ gravy,NA,7 oz,600,14,0,33,46,69,17,3,200,1880
+Denny$s,Lunch/Dinner,American Dinner Classics,Country- Fried Steak w/ gravy,NA,13 oz,990,54,6,52,65,59,23,0,75,2580
+Denny$s,Lunch/Dinner,American Dinner Classics,"Spicy Cowboy Chopped Steak (add sides, bread & drink)",NA,15 oz,1050,57,3,55,63,54,27,0,170,1700
+Denny$s,Lunch/Dinner,American Dinner Classics,Prime Rib & Chicken Sizzlin$ Skillet,NA,15 oz,740,66,8,33,37,45,14,0,80,1990
+Denny$s,Lunch/Dinner,American Dinner Classics,"Bacon Chipotle Chicken Skillet* (add sides, bread & drink)",NA,7 oz,360,4,0,47,18,45,7,0,125,800
+Denny$s,Lunch/Dinner,American Dinner Classics,T-bone Steak* (add choices),NA,12 oz,640,6,0,59,42,59,14,1,135,1250
+Denny$s,Lunch/Dinner,American Dinner Classics,T-Bone Steak & Shrimp Skewer,NA,12 oz,730,6,0,73,46,57,15,1,270,1410
+Denny$s,Lunch/Dinner,American Dinner Classics,T-Bone Steak & Breaded Shrimp,NA,13 oz,830,25,2,68,50,54,15,1,204,2000
+Denny$s,Lunch/Dinner,American Dinner Classics,Haddock Fillet (add dinner bread choice),NA,20 oz,1330,116,8,36,81,55,14,1,130,2100
+Denny$s,Lunch/Dinner,American Dinner Classics,Lemon Pepper Tilapia* (add choice),NA,13 oz,640,39,2,55,27,38,14,0,160,1190
+Denny$s,Lunch/Dinner,American Dinner Classics,Fit-Fare Grilled Talapia,NA,17 oz,600,66,3,58,11,16,3,0,110,1560
+Denny$s,Lunch/Dinner,American Dinner Classics,Talapia Ranchero* (add bread choice),NA,19 oz,450,56,4,54,15,30,5,0,120,1020
+Denny$s,Lunch/Dinner,American Dinner Classics,Fried Shrimp Platter* w/ fries$(add dinner bread & drink),NA,18 oz,1050,109,13,27,59,51,11,0,150,2410
+Denny$s,Sides,Dinner Sides,Coleslaw,NA,5 oz,260,15,3,2,22,26,4,0,35,520
+Denny$s,Sides,Dinner Sides,Corn,NA,4 oz,130,26,1,4,3,21,0,0,0,250
+Denny$s,Sides,Dinner Sides,Cottage Cheese,NA,3 oz,70,5,0,9,2,26,1,0,1,300
+Denny$s,Sides,Dinner Sides,Dippable Veggies$/ no dressing,NA,2.5 oz,30,5,1,0,0,0,0,0,0,70
+Denny$s,Sides,Dinner Sides,Fiesta Corn,NA,4 oz,100,21,3,3,0,0,0,0,0,45
+Denny$s,Sides,Dinner Sides,French Fries$salted,NA,5 oz,430,50,5,5,23,48,5,0,0,95
+Denny$s,Sides,Dinner Sides,Green Beans$(canned),NA,4 oz,45,7,3,2,1,20,0,0,0,480
+Denny$s,Sides,Dinner Sides,Green Beans$(frozen),NA,3 oz,25,4,2,1,0,0,0,0,0,10
+Denny$s,Sides,Dinner Sides,Spinach Sauteed,NA,2 oz,70,5,2,1,6,77,1,0,0,125
+Denny$s,Sides,Dinner Sides,Spinach w/ Pico de Gallo & Bacon,NA,3 oz,110,6,2,3,8,65,2,0,5,260
+Denny$s,Sides,Dinner Sides,Hash Browns,NA,1 serv,210,26,2,2,12,51,3,0,0,650
+Denny$s,Sides,Dinner Sides,Mashed Potatoes,NA,5 oz,170,76,1,2,7,37,1,0,20,510
+Denny$s,Sides,Dinner Sides,Smoked Cheddar Mashed Potatoes,NA,4 oz,120,49,1,4,5,37,3,0,10,390
+Denny$s,Sides,Dinner Sides,Red Skinned Potatoes,NA,4 oz,210,27,3,4,7,30,2,0,0,630
+Denny$s,Sides,Dinner Sides,Onion Rings,NA,5 oz,520,48,3,6,36,62,2,0,0,980
+Denny$s,Sides,Dinner Sides,Tomato Slices$(3 slices),NA,2 sl,10,2,1,1,0,0,0,0,0,3
+Denny$s,Sides,Dinner Sides,Vegetable Rice Pilaf,NA,5 oz,190,35,2,4,3,14,0,0,0,490
+Denny$s,Sides,Dinner Sides,Breaded Shrimp (6 count),NA,6 pcs,190,20,2,9,8,38,2,0,70,750
+Denny$s,Sides,Dinner Sides,Grilled Shrimp Skewer (1),NA,1 sk,90,1,0,14,4,40,1,0,135,160
+Denny$s,Sides,Dinner Sides,Garlic Dinner Bread,NA,2 pc,170,21,1,4,9,48,2,0,0,350
+Denny$s,Desserts,Desserts,Apple Pie,NA,7 oz,480,67,3,4,22,41,9,0,0,580
+Denny$s,Desserts,Desserts,Coconut Cream Pie,NA,7 oz,630,65,1,6,39,56,24,0,0,370
+Denny$s,Desserts,Desserts,Cookies$& Cream Pie,NA,7 oz,630,67,3,5,39,56,29,0,5,510
+Denny$s,Desserts,Desserts,French Silk Pie,NA,5 oz,770,59,2,6,57,67,30,1.5,105,400
+Denny$s,Desserts,Desserts,Key Lime Pie,NA,7 oz,560,87,0,9,20,32,8,3.5,25,320
+Denny$s,Desserts,Desserts,Lemon Maringue Pie,NA,7 oz,500,82,1,2,19,34,11,0,0,380
+Denny$s,Desserts,Desserts,Pecan Pie,NA,7 oz,730,98,2,7,36,44,12,0,110,740
+Denny$s,Desserts,Desserts,Chocolate Peanut Butter Silk Pie,NA,6 oz,680,59,4,8,47,62,24,0,70,400
+Denny$s,Desserts,Desserts,Pumpkin Pie,NA,7 oz,500,77,3,8,18,32,8,0,80,570
+Denny$s,Desserts,Desserts,Apple Crisp a la mode,NA,13 oz,740,134,5,7,21,26,9,0,35,570
+Denny$s,Desserts,Desserts,New York Style Cheesecake,NA,7 oz,640,58,0,9,41,58,26,0,195,350
+Denny$s,Desserts,Desserts,Carrot Cake,NA,8 oz,820,100,2,9,45,49,16,0,125,660
+Denny$s,Desserts,Desserts,Hershey$s$Chocolate Cake,NA,5 oz,580,75,2,6,28,43,15,0,40,400
+Denny$s,Desserts,Desserts,Hot Fudge Brownie a la mode,NA,9 oz,830,122,4,9,37,40,17,0,65,520
+Denny$s,Desserts,Desserts,Double Scoop/ Sundae,NA,5 oz,280,38-50,1,5,18-Dec,44,12-Jul,0,50,80-135
+Denny$s,Desserts,Desserts,Single Scoop/Sundae (delicious$dip),NA,4 oz,300,36,1,4,16,48,11,0,40,90
+Denny$s,Desserts,Desserts,Milk Shake (Van/Choc/Strawb),NA,12 oz,560,76,1,11,26,42,16,0,100,272
+Denny$s,Desserts,Desserts,Floats$(Root Beer or Cola),NA,16 oz,430,69,0,6,17,36,9,0,65,120
+Denny$s,Desserts,Desserts,Oreo Sundae,NA,9 oz,760,103,3,9,37,44,21,0,60,470
+Denny$s,Desserts,Desserts,Oreo Blender Blaster,NA,14 oz,890,113,3,15,44,44,20,0,105,580
+Denny$s,Desserts,Desserts,Chocolate Topping,NA,2 oz,133,34,1,2,0.5,3,0,0,0,109
+Denny$s,Desserts,Desserts,Cherry Topping,NA,2 oz,57,14,0,0,0,0,0,0,0,3
+Denny$s,Desserts,Desserts,Fudge Topping,NA,2 oz,210,30,1,1,10,43,7,0,3,96
+Denny$s,Desserts,Desserts,Strawberry Topping,NA,2 oz,77,17,1,1,1,11,0,0,0,8
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Seniors$Scrambled eggs$& Cheddar,NA,13 oz,870,72,4,35,48,50,18,0,525,2200
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Seniors$French Toast Slam w/ Egg* (add choices),NA,5 oz,300,29,1,13,14,42,4,0,280,550
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Belgian Waffle Slam w/ Egg* (add choices),NA,8 oz,450,29,0,15,31,62,16,0,455,640
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Omelette (add choices),NA,9 oz,470,7,1,26,37,71,15,0,510,820
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Starter (add choices),NA,3 oz,210,1,1,9,19,81,6,0,230,290
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Bacon Cheddar Mini Burgers* (add choices),NA,11 oz,720,46,2,41,39,49,19,0,115,1270
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Club Sandwich,NA,10 oz,570,37,4,29,34,48,7,0,60,1340
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Grilled Cheese Delux Sandwich (add choice),NA,7 oz,520,49,2,16,28,48,11,0,40,1430
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Grilled Shrimp Skewer*,NA,8 oz,280,36,2,18,6,19,2,0,135,650
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Homestyle Meatloaf*,NA,4 oz,290,5,0,16,23,71,9,1,100,760
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Lemon Pepper Grilled Talapia*(add choices),NA,9 oz,450,5,1,51,24,48,14,0,160,700
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Grilled Chicken*,NA,5 oz,200,0,0,36,6,27,2,0,90,360
+Denny$s,Lunch/Dinner,Seniors$(55 & Older),Senior Country-Fried Steak*,NA,8 oz,520,30,3,26,34,59,12,3,40,1460
+Denny$s,Kids,Kid$s$Meal - Entrees,Jr. Grand Slam,NA,5 oz,380,39,2,15,19,45,6,0,235,1000
+Denny$s,Kids,Kid$s$Meal - Entrees,Slam Dribblers,NA,6 oz,410,74,2,9,11,24,3,0,10,750
+Denny$s,Kids,Kid$s$Meal - Entrees,Softball Pancake w/meat,NA,4 oz,250,30,1,7,11,40,4,0,20,730
+Denny$s,Kids,Kid$s$Meal - Entrees,Chocolate Chip-In Pancakes,NA,7 oz,450,61,3,11,18,36,7,0,25,1160
+Denny$s,Kids,Kid$s$Meal - Entrees,Spaghetti Set-Go (add sides),NA,6 oz,260,40,3,7,7,24,2,0,0,470
+Denny$s,Kids,Kid$s$Meal - Entrees,Slap Shot Slider (one) (add side),NA,4 oz,310,22,1,20,15,43,6,1,60,470
+Denny$s,Kids,Kid$s$Meal - Entrees,Slap Shot Slider (two) (add side),NA,8 oz,620,43,1,41,30,43,12,2,125,930
+Denny$s,Kids,Kid$s$Meal - Entrees,Track & Cheese (add side),NA,7 oz,340,48,2,12,11,29,3,0,25,830
+Denny$s,Kids,Kid$s$Meal - Entrees,Tripple Play Nuggets$w/ BBQ sauce (add side),NA,4 oz,290,33,0,14,11,34,3,0,50,830
+Denny$s,Kids,Kid$s$Meal - Entrees,Cheesy the Plate (add side),NA,4 oz,380,32,1,15,21,50,13,0,55,670
+Denny$s,Kids,Kid$s$Meal - Entrees,Pit Stop Pizza (add side),NA,8 oz,590,70,5,23,26,40,6,0,35,890
+Denny$s,Kids,Kid$s$Meal - Entrees,Tumbling Vanilla Yogurt,NA,6 oz,160,30,0,6,1.5,8,1,0,5,100
+Denny$s,Kids,Kid$s$Meal - Entrees,Apple Dunkers$w/ caramel sauce,NA,3 oz,130,30,2,0,0,0,0,0,0,55
+Denny$s,Kids,Kid$s$Meal - Entrees,High Diving Veggies$w/ dip,NA,4 oz,210,5,1,1,20,86,4,0,10,350
+Denny$s,Kids,Kid$s$Meal - Entrees,Game on Grapes,NA,3 oz,55,29,4,1,0,0,0,0,0,0
+Denny$s,Kids,Kid$s$Meal - Entrees,Fishing Goldfish Crackers,NA,2 oz,260,38,0,7,10,35,2,0,10,490
+Denny$s,Kids,Kid$s$Meal - Entrees,Home Plate mashed Potatoes$w/ brown gravy,NA,5 oz,140,52,1,2,6,38,1,0,15,650
+Denny$s,Kids,Kid$s$Meal - Entrees,Finish Line Fries,NA,5 oz,430,50,5,5,23,48,5,0,0,95
+Denny$s,Kids,Kid$s$Meal - Dessert,Sundae Sundae Sundae!,NA,4 oz,300,36,1,4,16,48,11,0,40,90
+Denny$s,Kids,Kid$s$Meal - Dessert,Soccer Shake- Vanilla/ Chocolate/Strawberry,NA,11 oz,400,54-63,1,10,17-31,48,17-31,0,50-140,120-170
+Denny$s,Kids,Kid$s$Meal - Dessert,Kids$ OREO Blender Blaster,NA,12 oz,680,88,3,12,33,44,17,0,90,450
+Denny$s,Condiments,Condiments,"Balsamic Vinaigrette, Low Fat",NA,1 oz,35,7,0,0,1,26,0,0,0,140
+Denny$s,Condiments,Condiments,Bleu Cheese Dressing,NA,1 oz,110,1,0,1,11,90,3,0,20,220
+Denny$s,Condiments,Condiments,French Dressing,NA,1 oz,74,8,0,0,5,61,0,0,7,248
+Denny$s,Condiments,Condiments,Ranch Dressing,NA,1 oz,130,0,0,0,14,97,3,0,5,220
+Denny$s,Condiments,Condiments,Thousand Island Dressing,NA,1 oz,107,5,0,0,10,84,0,2,14,275
+Denny$s,Condiments,Condiments,Caesar Dressing,NA,1 oz,100,0,0,1,10,90,0,2,5,300
+Denny$s,Condiments,Condiments,Honey Mustard Dressing,NA,1 oz,160,5,0,0,15,84,0,3,10,140
+Denny$s,Condiments,Condiments,Fat Free Ranch Dressing,NA,1 oz,25,5,1,0,0,0,0,0,0,230
+Denny$s,Condiments,Condiments,Fat Free Italian Dressing,NA,1 oz,9,3,0,0,0,0,0,0,0,367
+Denny$s,Condiments,Condiments,Pico de Gallo,NA,3 oz,21,5,1,1,0,0,0,0,0,125
+Denny$s,Condiments,Condiments,Croutons$(for salad),NA,0.25 oz,90,15,0,3,3,30,0,0,0,240
+Denny$s,Condiments,Condiments,Sour Cream,NA,1.5 oz,91,2,0,1,9,89,0,6,19,23
+Denny$s,Condiments,Condiments,BBQ Sweet & Spicy,NA,1.5 oz,110,30,1,0,0,0,0,0,0,470
+Denny$s,Condiments,Condiments,Maple-Flavored Syrup (3 Tbsp),NA,1.5 oz,143,36,0,0,0,0,0,0,0,26
+Denny$s,Condiments,Condiments,Sugar- Free Maple Syrup,NA,1.5 oz,23,9,0,0,0,0,0,0,0,71
+Denny$s,Condiments,Condiments,Whipped Margarine,NA,1 tbsp,50,0,0,0,6,10,2,0,0,40
+Denny$s,Condiments,Condiments,Cherry Topping,NA,3 oz,86,21,0,0,0,0,0,0,0,7
+Dunkin$ Donuts,break-fast,Bagel Twists,Tomato Basil Bagel Twist,1,N/A,360,55,4,15,9,23,4.5,0,20,760
+Dunkin$ Donuts,break-fast,Bagel Twists,Chocolate Chip Bagel Twist,1,N/A,340,66,4,10,4,11,1.5,0,0,530
+Dunkin$ Donuts,break-fast,Bagel Twists,Cheddar Cheese Bagel Twist,1,N/A,400,63,5,17,9,20,4.5,0,20,800
+Dunkin$ Donuts,break-fast,Bagel Twists,French Toast Bagel Twist,1,N/A,330,66,4,10,2.5,7,0,0,0,540
+Dunkin$ Donuts,break-fast,Bagels,Blueberry,1,NA,330,65,5,11,3,8,1,0,0,620
+Dunkin$ Donuts,break-fast,Bagels,Cinnamon Raisin,1,NA,330,65,5,11,3.5,10,0.5,0,0,450
+Dunkin$ Donuts,break-fast,Bagels,Everything,1,NA,350,66,5,13,4.5,12,0.5,0,0,660
+Dunkin$ Donuts,break-fast,Bagels,Multigrain,1,NA,390,65,9,14,8,18,0.5,0,0,560
+Dunkin$ Donuts,break-fast,Bagels,Onion,1,NA,310,63,3,11,2,6,0,0,0,380
+Dunkin$ Donuts,break-fast,Bagels,Plain,1,NA,320,63,5,11,2.5,7,0.5,0,0,660
+Dunkin$ Donuts,break-fast,Bagels,Poppyseed,1,NA,350,64,5,13,6,15,0.5,0,0,660
+Dunkin$ Donuts,break-fast,Bagels,Salt,1,NA,320,63,5,11,2.5,7,0.5,0,0,3420
+Dunkin$ Donuts,break-fast,Bagels,Sesame,1,NA,360,63,5,13,6,15,0.5,0,0,660
+Dunkin$ Donuts,break-fast,Bagels,Garlic,1,NA,340,68,6,12,2.5,7,0.5,0,0,660
+Dunkin$ Donuts,break-fast,Bagels,Wheat,1,NA,320,61,5,12,3.5,10,0,0,0,550
+Dunkin$ Donuts,break-fast,Bagels,Plain Cream Cheese,1,NA,150,3,0,3,15,90,9,0.5,40,250
+Dunkin$ Donuts,break-fast,Muffins,Gingerbread,1,NA,530,82,2,9,19,32,3.5,0,75,660
+Dunkin$ Donuts,break-fast,Muffins,Pumpkin,1,NA,660,83,3,7,26,35,6,0,55,520
+Dunkin$ Donuts,break-fast,Muffins,Blueberry,1,NA,480,81,2,6,15,28,1.5,0,15,470
+Dunkin$ Donuts,break-fast,Muffins,"Blueberry, Reduced Fat 25% Less$Fat than our regular Blueberry Muffin",1,NA,430,80,2,6,9,19,1,0,15,650
+Dunkin$ Donuts,break-fast,Muffins,Chocolate Chip,1,NA,590,92,3,7,22,34,6,0,20,490
+Dunkin$ Donuts,break-fast,Muffins,Coffee Cake Muffin,1,NA,630,95,1,7,25,36,7,0,15,510
+Dunkin$ Donuts,break-fast,Muffins,Corn,1,NA,490,80,1,6,16,29,1.5,0,20,820
+Dunkin$ Donuts,break-fast,Muffins,English Muffin,1,2.5 oz,160,31,1,5,2,11,0,0,0,350
+Dunkin$ Donuts,break-fast,Muffins,Honey Bran Raisin,1,NA,480,82,5,6,13,24,1.5,0,15,430
+Dunkin$ Donuts,break-fast,Danish,Apple Cheese,1,NA,330,41,1,4,16,43,7,0,0,270
+Dunkin$ Donuts,break-fast,Danish,Cheese,1,NA,330,39,1,5,17,46,8,0,5,270
+Dunkin$ Donuts,break-fast,Danish,Strawberry Cheese,1,NA,320,40,1,4,16,45,7,0,0,260
+Dunkin$ Donuts,break-fast,Munchkins,Cinnamon Cake Munchkin,1,N/A,60,6,0,1,3.5,53,1.5,0,5,65
+Dunkin$ Donuts,break-fast,Munchkins,Glazed Cake Munchkin,1,N/A,70,8,0,1,3.5,45,1.5,0,5,65
+Dunkin$ Donuts,break-fast,Munchkins,Plain Cake Muchkin,1,N/A,60,6,0,1,3.5,53,1.5,0,5,65
+Dunkin$ Donuts,break-fast,Munchkins,Powdered Cake Munchkin,1,N/A,60,7,0,1,3.5,53,1.5,0,5,65
+Dunkin$ Donuts,break-fast,Munchkins,Glazed Chocolate Cake Munchkin,1,N/A,70,8,0,1,3.5,45,1.5,0,0,85
+Dunkin$ Donuts,break-fast,Munchkins,Glazed Munchkin,1,N/A,70,7,0,1,4,51,2,0,0,80
+Dunkin$ Donuts,break-fast,Munchkins,Jelly Filled Munchkin,1,N/A,80,9,0,1,4,45,2,0,0,85
+Dunkin$ Donuts,break-fast,Munchkins,Sugared Munchkin,1,N/A,60,6,0,1,3.5,53,1.5,0,5,65
+Dunkin$ Donuts,break-fast,Donuts,Apple Crumb,1,NA,490,80,2,4,18,33,9,0,0,350
+Dunkin$ Donuts,break-fast,Donuts,Apple N$ Spice,1,NA,270,32,1,3,14,47,6,0,0,350
+Dunkin$ Donuts,break-fast,Donuts,Bavarian Kreme,1,NA,270,31,1,4,15,50,7,0,0,350
+Dunkin$ Donuts,break-fast,Donuts,Blueberry Cake,1,NA,340,44,1,4,17,45,8,0,30,570
+Dunkin$ Donuts,break-fast,Donuts,Blueberry Crumb,1,NA,500,84,2,4,18,32,9,0,0,350
+Dunkin$ Donuts,break-fast,Donuts,Boston Kreme,1,NA,310,39,1,3,16,46,7,0,0,370
+Dunkin$ Donuts,break-fast,Donuts,Chocolate Coconut Cake,1,NA,550,47,2,5,39,64,25,0,0,390
+Dunkin$ Donuts,break-fast,Donuts,Chocolate Frosted Cake,1,NA,370,45,1,4,23,56,10,0,25,320
+Dunkin$ Donuts,break-fast,Donuts,Chocolate Frosted,1,NA,270,31,1,3,15,50,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Chocolate Glazed Cake,1,NA,370,35,1,3,24,58,11,0,0,390
+Dunkin$ Donuts,break-fast,Donuts,Chocolate Kreme Filled,1,NA,370,42,1,4,21,51,10,0,0,370
+Dunkin$ Donuts,break-fast,Donuts,Cinnamon Cake,1,NA,340,38,1,3,22,58,10,0,25,300
+Dunkin$ Donuts,break-fast,Donuts,Double Chocolate Cake,1,NA,380,36,2,4,25,59,11,0,0,410
+Dunkin$ Donuts,break-fast,Donuts,Glazed Cake Donut,1,NA,360,44,1,3,22,55,10,0,25,300
+Dunkin$ Donuts,break-fast,Donuts,Glazed Donut,1,NA,260,31,1,3,14,48,6,0,0,330
+Dunkin$ Donuts,break-fast,Donuts,Jelly Filled,1,NA,290,36,1,3,14,43,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Maple Frosted,1,NA,270,32,1,3,15,50,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Marble Frosted Donut,1,N/A,270,340,32,3,15,50,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Old Fashioned Cake,1,NA,320,33,1,3,22,62,10,0,25,300
+Dunkin$ Donuts,break-fast,Donuts,Monkey See Monkey Donut,1,N/A,340,43,2,5,17,45,8,0,0,360
+Dunkin$ Donuts,break-fast,Donuts,Pina Colada Donut,1,N/A,330,42,1,4,17,46,9,0,0,380
+Dunkin$ Donuts,break-fast,Donuts,Pina Boom Donut,1,N/A,270,32,1,4,15,50,7,0,0,350
+Dunkin$ Donuts,break-fast,Donuts,Guayaba Burst Donut,1,N/A,300,38,1,4,15,45,7,0,0,330
+Dunkin$ Donuts,break-fast,Donuts,Dulce de Chocolate Donut,1,N/A,350,45,1,4,17,44,7,0,5,360
+Dunkin$ Donuts,break-fast,Donuts,Dulce de Leche Donut,1,N/A,290,31,1,4,16,50,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Gingerbread Donut,1,N/A,310,42,1,4,14,41,6,0,25,360
+Dunkin$ Donuts,break-fast,Donuts,Powdered Cake Donut,1,N/A,340,38,1,4,22,58,10,0,25,300
+Dunkin$ Donuts,break-fast,Donuts,Pumpkin Donut,1,N/A,340,38,1,3,19,50,9,0,25,260
+Dunkin$ Donuts,break-fast,Donuts,Strawberry Frosted Donut,1,N/A,280,32,1,3,15,48,7,0,0,340
+Dunkin$ Donuts,break-fast,Donuts,Sugar Raised Donut,1,N/A,230,22,1,3,14,55,6,0,0,330
+Dunkin$ Donuts,break-fast,Donuts,Vannila Kreme Filled Donut,1,N/A,380,42,1,4,23,54,10,0,0,370
+Dunkin$ Donuts,break-fast,Donuts,French Cruller,1,N/A,250,18,0,2,20,72,9,0,35,105
+Dunkin$ Donuts,break-fast,Donuts,Sprinkle the Cheer Donut,1,N/A,290,35,1,3,15,47,7,0,0,330
+Dunkin$ Donuts,break-fast,Fancies,Biscuit,1,NA,280,32,1,3,14,45,8,0,0,620
+Dunkin$ Donuts,break-fast,Fancies,Apple Fritter,1,N/A,410,60,2,6,17,37,7,0,0,380
+Dunkin$ Donuts,break-fast,Fancies,Chocolate Iced Bismark,1,N/A,390,52,2,5,19,44,8,0,0,360
+Dunkin$ Donuts,break-fast,Fancies,Bow Tie Donut,1,N/A,310,39,1,4,15,44,7,0,0,400
+Dunkin$ Donuts,break-fast,Fancies,Eclair Donut,1,N/A,390,52,2,5,19,44,8,0,0,360
+Dunkin$ Donuts,break-fast,Fancies,Glazed Fritter,1,N/A,410,60,2,6,17,37,7,0,0,380
+Dunkin$ Donuts,break-fast,Fancies,Maple Frosted Coffee Roll,1,N/A,410,54,3,7,19,42,8,0,0,410
+Dunkin$ Donuts,break-fast,Fancies,Vannila Frosted Coffee Roll,1,N/A,410,54,3,7,19,42,8,0,0,410
+Dunkin$ Donuts,break-fast,Fancies,Coffee Roll,1,N/A,400,53,3,7,18,41,7,0,0,400
+Dunkin$ Donuts,break-fast,Fancies,Chocolate Frosted Coffee Roll,1,N/A,410,53,3,7,19,42,8,0,0,420
+Dunkin$ Donuts,break-fast,Fancies,"Croissant, Plain",1,N/A,310,35,1,7,16,46,7,0,0,350
+Dunkin$ Donuts,break-fast,Fancies,Brownies,1,N/A,440,58,1,3,23,47,5,0,55,250
+Dunkin$ Donuts,break-fast,Sticks,Plain Cake,1,NA,330,36,1,4,18,49,8,0,35,420
+Dunkin$ Donuts,break-fast,Sticks,Jelly,1,NA,420,60,1,4,18,39,8,0,35,440
+Dunkin$ Donuts,break-fast,Sticks,Powdered Cake,1,NA,360,43,2,5,18,45,8,0,35,420
+Dunkin$ Donuts,break-fast,Sticks,Cinnamon Cake,1,NA,350,44,2,4,18,46,8,0,35,420
+Dunkin$ Donuts,break-fast,Sticks,Glazed Chocolate Cake,1,NA,390,40,2,3,25,58,11,0,0,540
+Dunkin$ Donuts,break-fast,Sticks,Glazed Cake,1,NA,370,48,1,4,18,44,8,0,35,420
+Dunkin$ Donuts,break-fast,Other Oven Toasted Items,Sausage Pancake Bites,3,N/A,300,23,1,7,20,60,7,0,20,550
+Dunkin$ Donuts,break-fast,Other Oven Toasted Items,Hash Brown,9,N/A,20,22,3,2,11,49,1.5,0,0,730
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Maple Cheddar,1,N/A,720,42,2,26,49,61,20,0.5,240,1140
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon,Egg & Cheese on Croissant",1,N/A,530,38,2,20,33,56,13,0.5,205,1030
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon, Egg & Cheese on Biscuit",1,N/A,490,35,1,18,30,55,14,0.5,205,1300
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon,Egg & Cheese on English Muffin",1,N/A,370,34,1,18,18,44,6,0,205,1030
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon, Egg White & Cheese on English Muffin",1,N/A,300,33,1,19,10,30,4.5,0,15,1040
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon, Egg White & Cheese on WheatEnglish Muffin",1,N/A,290,32,2,20,10,31,4.5,0,15,1050
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg & Cheese on Bagel,1,N/A,480,66,5,20,15,28,5,0,200,1130
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg & Cheese on Biscuit,1,N/A,440,35,1,14,27,55,13,0.5,200,1090
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg & Cheese on Croissant,1,N/A,480,38,2,16,29,54,12,0.5,200,820
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg&Cheese on English Muffin,1,N/A,320,34,1,14,15,42,5,0,200,820
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg White & Cheese on English Muffin,1,N/A,250,33,1,15,7,25,3,0,10,830
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Egg White & Cheese on Wheat English Muffin,1,N/A,250,32,2,15,7,25,3,0,10,840
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage,Egg & Cheese on Criossant",1,N/A,680,39,2,24,46,61,18,0.5,250,1280
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Bacon,Egg & Cheese on Bagel",1,N/A,530,66,5,24,19,32,7,0,205,1340
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham,Egg & Cheese on English Muffin",1,N/A,360,34,1,20,16,40,6,0,215,1080
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham, Egg White & Cheese on English Muffin",1,N/A,280,33,1,21,8,26,3.5,0,25,1090
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham,Egg White & Cheese on Wheat English Muffin",1,N/A,280,32,2,21,8,26,3.5,0,25,1110
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage,Egg & Cheese on Bagel",1,N/A,680,67,5,29,32,42,12,0,250,1590
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage,Egg & Cheese on English Muffin",1,N/A,520,34,1,23,31,54,12,0,250,1280
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage, Egg White& Cheese on English Muffin",1,N/A,450,34,1,24,23,46,9,0,60,1290
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage, Egg White& Cheese on Wheat English Muffin",1,N/A,450,33,2,24,23,46,9,0,60,1310
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Sausage,Egg & Cheese on Biscuit",1,N/A,640,36,1,22,44,62,19,0.5,250,1550
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham,Egg & Cheese on Bagel",1,N/A,510,66,5,26,16,28,6,0,215,1390
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham,Egg & Cheese on Croissant",1,N/A,510,38,2,21,31,55,12,0.5,215,1080
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,"Ham, Egg & Cheese on Biscuit",1,N/A,480,35,1,19,28,53,14,0.5,215,1350
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Sausage Biscuit,1,N/A,450,33,1,12,28,56,14,0,45,1020
+Dunkin$ Donuts,break-fast,Oven Toasted break-fast Sandwiches,Chicken Biscuit,1,N/A,500,48,2,20,25,45,10,0,35,1260
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Egg White Veggie Flat Bread,1,N/A,330,35,4,20,12,33,5,0,25,820
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Egg WhiteTurkey Sausage Flat Bread,1,N/A,290,34,3,21,8,25,3,0,20,600
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Egg White & Cheese Wake-Up Wrap,1,N/A,150,13,1,8,7,42,3,0,10,480
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Bacon, Egg White & Cheese Wake Up-Wrap",1,N/A,170,13,1,10,8,42,3.5,0,10,580
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Ham, Egg White & Cheese Wake-Up Wrap",1,N/A,160,13,1,11,7,39,3.5,0,20,610
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Sausage, Egg White & Cheese Wake-Up Wrap",1,N/A,250,14,1,12,15,54,6,0,35,710
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Egg & Cheese Wake-Up wrap,1,N/A,180,14,1,8,11,55,4,0,105,470
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Bacon, Egg & Cheese Wake-Up Wrap",1,N/A,210,14,1,10,12,51,5,0,105,580
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Sausage, Egg & Cheese Wake-Up Wrap",1,N/A,280,14,1,12,19,61,7,0,130,700
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps","Ham,Egg & Cheese Wake-Up Wrap",1,N/A,200,14,1,11,11,50,4.5,0,115,600
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Tuna Salas$Sandwich on a Plain Bagel,1,N/A,540,69,5,18,20,33,3,0,30,1070
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Ham & Cheese Flatbread,1,N/A,320,34,1,20,11,31,5,0,40,960
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Turkey Cheddar & Bacon Flatbread,1,N/A,410,36,1,21,20,44,7,0,50,1110
+Dunkin$ Donuts,break-fast,"Oven Toasted Flats, Sandwiches$& Wraps",Grilled Cheese Flatbread,1,N/A,380,35,1,16,18,43,9,0.5,45,850
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Pressed Cuban,1,N/A,680,50,2,46,33,44,13,0,120,2000
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Chicken Bruschetta,1,NA,580,49,2,37,26,40,7,0,80,1200
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Chipotle Chicken,1,NA,600,50,3,43,25,38,8,0,85,1380
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Pastrami Supreme,1,NA,750,51,3,48,39,47,16,0,125,2060
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Tuna (Albacore),1,N/A,660,56,3,31,19,26,2.5,0,5,1280
+Dunkin$ Donuts,Lunch/Dinner,Cravings$Sandwiches,Turkey and Cheese,1,NA,450,52,3,35,13,26,4.5,0,60,1500
+Dunkin$ Donuts,Lunch/Dinner,Favorite Sandwiches,Tuna Melt Sandwich,1,N/A,770,57,3,36,30,35,7,0,70,1560
+Dunkin$ Donuts,Lunch/Dinner,Favorite Sandwiches,Chicken Cordon Bleu,1,NA,550,51,4,45,19,31,7,0,95,1370
+Dunkin$ Donuts,Lunch/Dinner,Favorite Sandwiches,Toasted Italian,1,N/A,560,52,3,33,25,40,9,0,75,2630
+Dunkin$ Donuts,Lunch/Dinner,Favorite Sandwiches,Steak and Cheese,1,N/A,470,50,2,31,16,31,6,0,75,2040
+Dunkin$ Donuts,Lunch/Dinner,Favorite Sandwiches,Turkey and Bacon Club,1,N/A,440,51,3,35,13,27,3,0,45,1800
+Dunkin$ Donuts,Salads,Salads,Caesar,NA,7.3 oz,320,11,3,6,29,82,6,0,30,790
+Dunkin$ Donuts,Salads,Salads,Chicken Caesar,NA,10.4 oz,440,11,3,25,33,68,7,0,75,1020
+Dunkin$ Donuts,Salads,Salads,Garden,NA,12.3 oz,180,21,4,8,6,30,3,0,15,500
+Dunkin$ Donuts,Soups,Soups,Broccoli Cheddar Soup,NA,8 oz,190,14,2,10,11,52,6,0,35,990
+Dunkin$ Donuts,Soups,Soups,Chicken Noodle,NA,8 oz,130,19,1,7,3,21,1,0,45,970
+Dunkin$ Donuts,Desserts,Cookies,Reverse Chocolate Chunk,1,NA,380,50,2,5,18,43,10,0,40,320
+Dunkin$ Donuts,Desserts,Cookies,Triple Chocolate Chunk Cookie,1,NA,360,53,2,5,15,38,8,0,35,380
+Dunkin$ Donuts,Desserts,Cookies,Gingerbread,1,NA,140,23,0,2,4.5,29,2.5,0,5,125
+Dunkin$ Donuts,Desserts,Cookies,Oatmeal Raisin,1,N/A,320,54,3,5,9,25,4.5,0,30,210
+Dunkin$ Donuts,Drinks,Coolatta,Vanilla Bean Coolatta Sm,NA,16 fl oz,430,91,0,3,6,13,3.5,0,20,170
+Dunkin$ Donuts,Drinks,Coolatta,Vanilla Bean Coolatta Med,NA,24 fl oz,650,136,0,4,9,12,5,0,30,260
+Dunkin$ Donuts,Drinks,Coolatta,Vanilla Bean Coolatta Lg,NA,32 fl oz,860,181,0,6,12,13,7,0,45,350
+Dunkin$ Donuts,Drinks,Coolatta,Coffee Coolatta with Milk Sm,NA,16 fl oz,240,50,0,4,4,15,2.5,0,15,90
+Dunkin$ Donuts,Drinks,Coolatta,Coffee Coolatta with Milk Med,NA,24 fl oz,360,75,0,6,6,15,3.5,0,25,130
+Dunkin$ Donuts,Drinks,Coolatta,Coffee Coolatta with Milk Lg,NA,32 fl oz,480,100,0,8,8,15,5,0,35,180
+Jack in the Box,Appetizers,Healthy Choices,Chicken Fajita Pita made with Whole Grain (no salsa),NA,192,320,33,4,24,11,31,5,0,65,870
+Jack in the Box,Appetizers,Healthy Choices,Chicken Teriyaki Bowl,NA,499,690,133,5,27,6,8,1,0,40,1700
+Jack in the Box,Appetizers,Healthy Choices,Fruit Cup,NA,116,50,14,1,1,0,0,0,0,0,10
+Jack in the Box,Appetizers,Healthy Choices,Grilled Chicken Salad,NA,400,240,15,5,28,8,30,3.5,0,70,650
+Jack in the Box,Condiments,Healthy Choices,Grilled Chicken Strips$with Teriyaki Dipping Sauce,NA,226,300,18,0,45,6,18,1,0,115,1510
+Jack in the Box,Lunch/Dinner,Healthy Choices,Hamburger Deluxe,NA,161,360,33,2,15,19,47,6,1,40,580
+Jack in the Box,Drinks,Healthy Choices,Mango Smoothie,16,411,290,72,0,2,0,0,0,0,0,75
+Jack in the Box,Lunch/Dinner,Healthy Choices,Steak Teriyaki Bowl,NA,499,750,133,5,31,11,13,3,0,45,1750
+Jack in the Box,Drinks,Healthy Choices,Strawberry Banana Smoothie,16,420,290,73,1,2,0,0,0,0,0,70
+Jack in the Box,Salads,Salads,Bacon Ranch Dressing,NA,57,260,3,0,2,26,90,4,0.5,30,700
+Jack in the Box,Salads,Salads,Chicken Club Salad with Crispy Chicken Strips,NA,404,510,37,5,32,27,48,8,0,65,700
+Jack in the Box,Salads,Salads,Chicken Club Salad with Grilled Chicken Strips,NA,405,350,13,4,37,18,46,7,0,95,1210
+Jack in the Box,Salads,Salads,Creamy Southwest Dressing,NA,57,220,3,0,1,22,90,3.5,0,20,850
+Jack in the Box,Salads,Salads,Gourmet Seasoned Croutons,NA,28,100,17,1,3,6,54,1,0.5,0,310
+Jack in the Box,Salads,Salads,Grilled Chicken Salad,NA,400,240,15,5,28,8,30,3.5,0,70,650
+Jack in the Box,Salads,Salads,Lite Ranch Dressing,NA,57,150,3,0,1,15,90,2.5,0,20,560
+Jack in the Box,Salads,Salads,Low Fat Balsamic Vinaigrette,NA,57,35,5,0,0,1.5,39,0,0,0,480
+Jack in the Box,Salads,Salads,Side Salad,NA,115,20,4,2,1,0,0,0,0,0,10
+Jack in the Box,Salads,Salads,Southwest Chicken Salad with Crispy Chicken Strips,NA,460,500,53,8,29,23,41,7,0,55,1260
+Jack in the Box,Salads,Salads,Southwest Chicken Salad with Grilled Chicken Strips,NA,461,340,29,7,34,14,37,6,0,85,1000
+Jack in the Box,Salads,Salads,Spicy Corn Sticks,NA,28,140,18,1,2,7,45,1,0,0,140
+Jack in the Box,Lunch/Dinner,Burgers$& More,Bacon Ultimate Cheeseburger,NA,301,940,45,2,41,66,63,27,3,125,1840
+Jack in the Box,Lunch/Dinner,Burgers$& More,Big Cheeseburger,NA,200,610,44,2,23,38,56,15,1.5,65,1110
+Jack in the Box,Lunch/Dinner,Burgers$& More,Hamburger,NA,110,290,32,1,14,12,37,4.5,1,30,570
+Jack in the Box,Lunch/Dinner,Burgers$& More,Hamburger with Cheese,NA,122,330,32,1,17,15,41,7,1,40,770
+Jack in the Box,Lunch/Dinner,Burgers$& More,Hamburger Deluxe,NA,161,360,33,2,15,19,47,6,1,40,580
+Jack in the Box,Lunch/Dinner,Burgers$& More,Hamburger Deluxe with Cheese,NA,184,440,34,2,19,26,53,10,1,60,990
+Jack in the Box,Lunch/Dinner,Burgers$& More,Jumbo Jack,NA,237,540,45,2,19,32,53,11,1,45,850
+Jack in the Box,Lunch/Dinner,Burgers$& More,Jumbo Jack with Cheese,NA,260,620,45,2,23,39,57,15,1.5,65,1250
+Jack in the Box,Lunch/Dinner,Burgers$& More,Junior Bacon Cheeseburger,NA,127,420,32,1,18,24,51,8,1,50,860
+Jack in the Box,Lunch/Dinner,Burgers$& More,Mini Sirloin Burgers,NA,278,750,77,4,43,30,36,13,1,110,1410
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sirloin Cheeseburger,NA,363,900,52,3,40,60,60,19,1.5,140,1870
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sirloin Cheeseburger with Bacon,NA,374,960,52,3,44,64,60,20,2,150,2220
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sirloin Swiss$& Grilled Onion Burger,NA,364,880,52,3,40,59,60,18,1.5,140,1550
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sirloin Swiss$& Grilled Onion Burger with Bacon,NA,376,950,52,3,45,63,60,19,2,150,1900
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sourdough Jack,NA,228,680,40,3,27,46,61,17,1.5,70,1220
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sourdough Steak Melt,NA,228,650,38,3,37,38,53,13,0.5,95,1300
+Jack in the Box,Lunch/Dinner,Burgers$& More,Sourdough Ultimate Cheeseburger,NA,280,900,38,3,37,67,67,27,2.5,115,1430
+Jack in the Box,Lunch/Dinner,Burgers$& More,Ultimate Cheeseburger,NA,290,870,44,2,36,61,63,26,2.5,115,1490
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Chicken Fajita Pita made with Whole Grain (no Salsa),NA,192,100,33,4,24,11,99,5,0,65,870
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Chicken Fajita Pita made with Whole Grain (with Salsa),NA,215,100,35,4,24,11,99,5,0,65,990
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Chicken Sandwich,NA,151,210,42,2,15,23,99,4,0,35,910
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Chicken Sandwich with Bacon,NA,158,230,42,2,19,26,102,5,0,40,1140
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Crispy Chicken Strips$(4 pc.),NA,195,220,53,3,33,24,98,3,0,60,1580
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Grilled Chicken Strips$(4 pc.),NA,198,50,5,0,43,6,108,1,0,115,1060
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Fish and Chips$with sm French Fries,NA,229,320,68,4,19,35,98,3,0,35,1390
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Fish and Chips$with medium French Fries,NA,267,370,85,6,21,41,100,3.5,0,35,1610
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Fish and Chips$with lg French Fries,NA,315,430,105,7,22,48,100,4.5,0,35,1880
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Fish Sandwich,NA,201,160,59,3,18,18,101,2,0,25,1030
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Homestyle Ranch Chicken Club,NA,265,300,65,3,36,33,99,7,0.5,75,1940
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Jack$s$Spicy Chicken,NA,254,230,60,3,28,25,98,4,0,55,950
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Jack$s$Spicy Chicken with Cheese,NA,277,280,62,3,32,31,100,8,0.5,75,1240
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Mini Buffalo Ranch Chicken Sandwiches,NA,291,250,90,5,32,28,101,4.5,0,45,1950
+Jack in the Box,Lunch/Dinner,Chicken & Fish,Sourdough Grilled Chicken Club,NA,263,260,38,3,37,29,100,7,0.5,90,1490
+Jack in the Box,Lunch/Dinner,Something Different,Chicken Fajita Pita made with Whole Grain (no Salsa),NA,192,320,33,4,24,11,31,5,0,65,870
+Jack in the Box,Lunch/Dinner,Something Different,Chicken Fajita Pita made with Whole Grain (with Salsa),NA,215,330,35,4,24,11,30,5,0,65,990
+Jack in the Box,Lunch/Dinner,Something Different,Deli Trio Grilled Sandwich,NA,499,690,133,5,27,6,8,1,0,40,1700
+Jack in the Box,Lunch/Dinner,Something Different,Chicken Teriyaki Bowl,NA,271,630,53,5,37,29,41,10,0.5,80,2460
+Jack in the Box,Lunch/Dinner,Something Different,Steak Teriyaki Bowl,NA,499,750,133,5,31,11,13,3,0,45,1750
+Jack in the Box,Lunch/Dinner,Something Different,"Turkey, Bacon and Cheddar Grilled Sandwich",NA,247,650,54,5,39,30,42,11,0.5,95,2130
+Jack in the Box,Sides,Snacks$& Sides,Bacon Cheddar Potato Wedges,NA,260,710,58,5,20,45,57,12,0,45,910
+Jack in the Box,Sides,Snacks$& Sides,Beef Taco,NA,74,180,17,2,6,10,50,2.5,0,10,270
+Jack in the Box,Sides,Snacks$& Sides,Egg Roll (1 pc.),NA,58,150,15,2,5,7,42,1.5,0,5,320
+Jack in the Box,Sides,Snacks$& Sides,Egg Roll (3 pc.),NA,174,440,46,7,16,22,45,5,0,20,950
+Jack in the Box,Sides,Snacks$& Sides,French Fries$- Small,NA,93,290,39,3,3,13,40,1,0,0,530
+Jack in the Box,Sides,Snacks$& Sides,French Fries$- Medium,NA,131,410,56,4,5,19,42,1.5,0,0,750
+Jack in the Box,Sides,Snacks$& Sides,French Fries$- Large,NA,179,560,76,6,6,26,42,2.5,0,0,1020
+Jack in the Box,Sides,Snacks$& Sides,Fruit Cup,NA,116,50,14,1,1,0,0,0,0,0,10
+Jack in the Box,Sides,Snacks$& Sides,Mozzarella Cheese Sticks$(3 pc.),NA,74,280,22,2,12,16,51,6,0,25,590
+Jack in the Box,Sides,Snacks$& Sides,Mozzarella Cheese Sticks$(6 pc.),NA,149,560,43,3,24,33,53,11,1,45,1190
+Jack in the Box,Sides,Snacks$& Sides,Onion Rings,NA,97,450,45,3,6,28,56,2,0,0,620
+Jack in the Box,Sides,Snacks$& Sides,"Pita Snack, Crispy Chicken",NA,158,410,43,3,16,19,42,4,0,30,860
+Jack in the Box,Sides,Snacks$& Sides,"Pita Snack, Fish",NA,155,390,40,3,13,20,46,4,0,30,760
+Jack in the Box,Sides,Snacks$& Sides,"Pita Snack, Grilled Chicken",NA,159,330,31,3,19,14,38,3.5,0,45,730
+Jack in the Box,Sides,Snacks$& Sides,"Pita Snack, Steak",NA,152,350,31,3,19,16,41,4.5,0,45,640
+Jack in the Box,Sides,Snacks$& Sides,Sampler Trio,NA,261,790,73,7,28,43,49,13,0.5,55,1950
+Jack in the Box,Sides,Snacks$& Sides,Seasoned Curly Fries$- Small,NA,85,280,30,3,3,16,51,1.5,0,0,610
+Jack in the Box,Sides,Snacks$& Sides,Seasoned Curly Fries$- Medium,NA,130,430,46,4,5,25,52,2,0,0,940
+Jack in the Box,Sides,Snacks$& Sides,Seasoned Curly Fries$- Large,NA,177,580,63,5,7,34,53,3,0,0,1280
+Jack in the Box,Sides,Snacks$& Sides,Stuffed Jalapenos$(3 pc.),NA,71,220,21,1,6,12,49,4.5,0,15,730
+Jack in the Box,Sides,Snacks$& Sides,Stuffed Jalapenos$(7 pc.),NA,165,510,49,3,14,29,51,10,0.5,40,1690)
+Jack in the Box,Desserts,Shakes$& Desserts,Cheesecake,NA,92,310,32,1,7,17,49,9,0,25,260
+Jack in the Box,Desserts,Shakes$& Desserts,Chocolate Overload Cake,NA,93,300,57,2,4,7,21,1.5,0,40,350
+Jack in the Box,Drinks,Shakes$& Desserts,Chocolate Shake with Whipped Topping,16,376,800,101,1,13,38,43,26,1.5,125,300
+Jack in the Box,Drinks,Shakes$& Desserts,Chocolate Shake with Whipped Topping,24,543,1150,146,2,19,55,43,37,2.5,185,440
+Jack in the Box,Desserts,Shakes$& Desserts,Mini Churros$(5 pc.),NA,86,350,42,2,4,18,46,3.5,0,5,280
+Jack in the Box,Desserts,Shakes$& Desserts,Mini Churros$(10 pc.),NA,172,690,84,4,7,37,48,7,0,10,550
+Jack in the Box,Drinks,Shakes$& Desserts,Oreo Cookie Shake with Whipped Topping,16,362,810,92,1,13,43,48,27,1.5,125,380
+Jack in the Box,Drinks,Shakes$& Desserts,Oreo Cookie Shake with Whipped Topping,24,521,1170,134,2,19,61,47,38,2.5,185,560
+Jack in the Box,Drinks,Shakes$& Desserts,Strawberry Shake w/Whipped Topping,16,374,780,95,0,12,38,44,26,1.5,125,260
+Jack in the Box,Drinks,Shakes$& Desserts,Strawberry Shake w/Whipped Topping,24,539,1120,138,1,17,54,43,36,2.5,185,380
+Jack in the Box,Drinks,Shakes$& Desserts,Vanilla Shake w/Whipped Topping,16,339,700,76,0,12,38,49,26,1.5,125,250
+Jack in the Box,Drinks,Shakes$& Desserts,Vanilla Shake w/Whipped Topping,24,486,1000,109,1,17,54,49,36,2.5,185,360
+Jack in the Box,break-fast,break-fast,Bacon break-fast Jack,NA,112,300,30,1,16,13,39,5,0,240,760
+Jack in the Box,break-fast,break-fast,"Bacon, Egg & Cheese Biscuit",NA,138,420,36,2,15,24,51,11,0,240,1040
+Jack in the Box,break-fast,break-fast,"break-fast Bowl, Denver",NA,311,790,44,4,26,57,65,16,0.5,460,1350
+Jack in the Box,break-fast,break-fast,"break-fast Bowl, Hearty",NA,288,850,41,4,27,65,69,18,0.5,465,1390
+Jack in the Box,break-fast,break-fast,break-fast Jack,NA,124,280,30,1,16,11,35,4.5,0,240,790
+Jack in the Box,break-fast,break-fast,Chorizo Sausage Burrito (no Salsa),NA,297,720,59,6,29,41,51,12,0,440,1380
+Jack in the Box,break-fast,break-fast,Chorizo Sausage Burrito (with Salsa),NA,321,730,61,6,29,41,51,12,0,440,1500
+Jack in the Box,break-fast,break-fast,Extreme Sausage Sandwich,NA,210,660,32,2,29,47,64,17,1.5,310,1360
+Jack in the Box,break-fast,break-fast,French Toast Sticks$(4 pc.),NA,141,600,68,3,9,33,49,3.5,0,20,530
+Jack in the Box,break-fast,break-fast,Hash Brown Sticks$(5 pc.),NA,83,280,26,2,3,19,61,2,0,0,400
+Jack in the Box,break-fast,break-fast,Meaty break-fast Burrito (no Salsa),NA,233,600,38,4,32,37,55,15,0.5,465,1500
+Jack in the Box,break-fast,break-fast,Meaty break-fast Burrito (with Salsa),NA,257,610,40,4,33,37,55,15,0.5,465,1620
+Jack in the Box,break-fast,break-fast,Sausage Biscuit,NA,128,460,36,2,12,30,59,12,0.5,35,870
+Jack in the Box,break-fast,break-fast,Sausage break-fast Jack,NA,152,440,31,1,20,27,55,9,1,265,870
+Jack in the Box,break-fast,break-fast,Sausage Croissant,NA,166,570,32,2,20,40,63,16,1,275,780
+Jack in the Box,break-fast,break-fast,"Sausage, Egg & Cheese Biscuit",NA,178,570,37,2,19,39,62,16,1,270,1150
+Jack in the Box,break-fast,break-fast,Sourdough break-fast Sandwich,NA,151,410,34,2,20,21,46,8,0,250,1020
+Jack in the Box,break-fast,break-fast,Spicy Chicken Biscuit,NA,183,570,54,2,25,29,46,9,0,50,1010
+Jack in the Box,break-fast,break-fast,Steak & Egg Burrito (no Salsa),NA,296,810,55,5,37,50,55,15,1,465,1500
+Jack in the Box,break-fast,break-fast,Steak & Egg Burrito (with Salsa),NA,319,820,57,5,37,50,55,15,1,465,1620
+Jack in the Box,break-fast,break-fast,Supreme Croissant,NA,143,440,32,2,18,26,53,11,0.5,255,870
+Jack in the Box,break-fast,break-fast,Ultimate break-fast Sandwich,NA,225,510,41,2,31,24,42,9,0,490,1650
+Jack in the Box,Kids,Kid$s$Meals,break-fast Jack,NA,124,280,30,1,16,11,35,4.5,0,240,790
+Jack in the Box,Kids,Kid$s$Meals,"Chicken Strips, Crispy (2 pc.)",NA,98,280,26,1,17,12,39,1.5,0,30,790
+Jack in the Box,Kids,Kid$s$Meals,"Chicken Strips, Grilled (2 pc.)",NA,99,120,2,0,22,3,22,0.5,0,55,530
+Jack in the Box,Kids,Kid$s$Meals,Grilled Cheese,NA,56,180,24,2,2,8,40,0.5,0,0,320
+Jack in the Box,Kids,Kid$s$Meals,French Toast Sticks$(2 pc.),NA,73,300,34,2,4,16,48,1.5,0,10,260
+Jack in the Box,Kids,Kid$s$Meals,Hamburger,NA,94,330,34,2,11,16,44,6,0,20,800
+Jack in the Box,Kids,Kid$s$Meals,Hamburger with Cheese,NA,110,290,32,1,14,12,37,4.5,1,30,570
+Jack in the Box,Kids,Kid$s$Meals,French Fries$- Kids,NA,122,330,32,1,17,15,41,7,1,40,770
+Jack in the Box,Lunch/Dinner,Value Menu,Big Cheeseburger,NA,200,610,44,2,23,38,56,15,1.5,65,1110
+Jack in the Box,Lunch/Dinner,Value Menu,Chicken Sandwich,NA,151,440,42,2,15,23,47,4,0,35,910
+Jack in the Box,Lunch/Dinner,Value Menu,Grilled Cheese,NA,94,330,34,2,11,16,44,6,0,20,800
+Jack in the Box,Lunch/Dinner,Value Menu,Hamburger Deluxe,NA,161,360,33,2,15,19,47,6,1,40,580
+Jack in the Box,Lunch/Dinner,Value Menu,Hamburger Deluxe with Cheese,NA,184,440,34,2,19,26,53,10,1,60,990
+Jack in the Box,Lunch/Dinner,Value Menu,Jumbo Jack,NA,237,540,45,2,19,32,53,11,1,45,850
+Jack in the Box,Lunch/Dinner,Value Menu,Jumbo Jack with Cheese,NA,260,620,45,2,23,39,57,15,1.5,65,1250
+Jack in the Box,Lunch/Dinner,Value Menu,Junior Bacon Cheeseburger,NA,127,420,32,1,18,24,51,8,1,50,860
+Jack in the Box,Lunch/Dinner,Value Menu,Side Salad,NA,123,50,5,2,3,3,54,1.5,0,10,65
+Jack in the Box,Lunch/Dinner,Value Menu,Two Tacos,NA,147,360,33,4,11,21,52,5,0.5,20,540
+Jack in the Box,Condiments,Cheeses,American Cheese,NA,11,40,0,0,2,3.5,79,2,0,10,200
+Jack in the Box,Condiments,Cheeses,Swiss$Style Cheese,NA,18,70,0,*,5,6,77,3.5,0,20,80
+Jack in the Box,Condiments,Cheeses,Real Swiss$Cheese,NA,11,40,1,*,2,3,67,2,0,10,140
+Jack in the Box,Condiments,Dipping Sauces,Barbecue Dipping Sauce,NA,28,40,10,0,0,0,0,0,0,0,360
+Jack in the Box,Condiments,Dipping Sauces,Buttermilk House Dipping Sauce,NA,25,130,3,0,0,13,90,2,0,10,210
+Jack in the Box,Condiments,Dipping Sauces,Fire Roasted Salsa,NA,21,5,1,0,0,0,0,0,0,0,105
+Jack in the Box,Condiments,Dipping Sauces,Frank$s$Red Hot Sauce,NA,28,10,2,0,0,0,0,0,0,0,840
+Jack in the Box,Condiments,Dipping Sauces,Honey Mustard Dipping Sauce,NA,28,60,11,0,0,2,30,0,0,0,220
+Jack in the Box,Condiments,Dipping Sauces,Log Cabin Syrup,NA,62,190,49,0,0,0,0,0,0,0,35
+Jack in the Box,Condiments,Dipping Sauces,Sweet & Sour Dipping Sauce,NA,28,45,11,0,0,0,0,0,0,0,160
+Jack in the Box,Condiments,Dipping Sauces,Tartar Sauce,NA,43,210,2,0,0,22,94,3.5,0,20,370
+Jack in the Box,Condiments,Dipping Sauces,Teriyaki Dipping Sauce,NA,28,60,11,0,1,1,15,0,0,0,530
+Jack in the Box,Condiments,Dipping Sauces,Zesty Marinara Sauce,NA,25,15,4,0,0,0,0,0,0,0,200
+Jack in the Box,Condiments,Substitute Sauces,Chipotle Sauce,0.7,20,110,1,0,0,12,98,2,0,10,230
+Jack in the Box,Condiments,Substitute Sauces,Creamy Ranch Sauce,0.53,15,80,1,0,0,9,101,1.5,0,10,160
+Jack in the Box,Condiments,Substitute Sauces,Frank$s$Red Hot Sauce,0.52,15,5,1,0,0,0,0,0,0,0,400
+Jack in the Box,Condiments,Substitute Sauces,Ketchup,0.57,16,20,4,0,0,0,0,0,0,0,180
+Jack in the Box,Condiments,Substitute Sauces,Mayo-onion,0.51,14,90,1,0,0,10,100,1.5,0,10,90
+Jack in the Box,Condiments,Substitute Sauces,Mustard,0.23,7,5,0,0,0,0,0,0,--,0,75
+Jack in the Box,Condiments,Substitute Sauces,Peppercorn Mayo,1,28,190,1,0,0,20,95,3.5,0,15,250
+Jack in the Box,Condiments,Other,Ketchup,NA,14,35,9,0,0,0,0,0,0,0,10
+Jack in the Box,Condiments,Other,Mayonnaise,NA,20,10,2,0,0,0,0,0,0,0,0
+Jack in the Box,Condiments,Other,Mustard,NA,9,10,2,0,0,0,0,0,0,0,150
+Jack in the Box,Condiments,Other,Taco Sauce,NA,9,0,0,0,0,0,0,0,0,0,20
+Jack in the Box,Condiments,Other,Soy Sauce,NA,12,80,0,0,0,9,101,1.5,0,5,40
+Jack in the Box,Condiments,Other,Malt Vinegar,NA,6,5,1,0,0,0,0,0,0,0,50
+Jack in the Box,Condiments,Other,Grape Jelly,NA,5,20,0,0,0,2.5,112,0.5,0,0,45
+Jack in the Box,Condiments,Other,Strawberry Jelly,NA,9,5,1,0,0,0,0,0,0,0,0
+Jack in the Box,Condiments,Other,Sour Cream,NA,28,60,2,1,1,5,75,3,0,15,25
+Jack in the Box,Condiments,Other,Pride Margarine Spread,NA,9,5,1,0,1,*,*,*,*,*,480
+Jack in the Box,Condiments,Other,Red Onion (2 pc.),NA,14,35,9,0,0,0,0,0,0,0,5
+Jack in the Box,Condiments,Other,Grilled Onions,NA,9,0,0,0,0,0,0,0,0,0,80
+KFC,Lunch/Dinner,KFC$s$Chicken,OR Chicken- Whole Wing,NA,48,140,4,0,12,8,51,2,0,50,390
+KFC,Lunch/Dinner,KFC$s$Chicken,OR Chicken- Breast,NA,164,320,4,0,42,15,42,3.5,0,110,710
+KFC,Lunch/Dinner,KFC$s$Chicken,OR Chicken-Breast without skin or breading,NA,116,150,0,0,31,2.5,15,0.5,0,85,430
+KFC,Lunch/Dinner,KFC$s$Chicken,OR Chicken- Drumstick,NA,53,120,3,0,12,7,53,1.5,0,50,340
+KFC,Lunch/Dinner,KFC$s$Chicken,OR Chicken- Thigh,NA,94,220,5,0,18,15,61,4,0,80,620
+KFC,Lunch/Dinner,KFC$s$Chicken,EC Chicken- Whole Wing,NA,56,190,6,0,12,13,62,2.5,0,55,410
+KFC,Lunch/Dinner,KFC$s$Chicken,EC Chicken- Breast,NA,176,510,16,0,39,33,58,7,0,110,1010
+KFC,Lunch/Dinner,KFC$s$Chicken,EC Chicken- Drumstick,NA,59,150,5,0,12,10,60,2,0,55,360
+KFC,Lunch/Dinner,KFC$s$Chicken,EC Chicken- Thigh,NA,110,340,10,0,20,24,64,5,0,80,780
+KFC,Lunch/Dinner,KFC$s$Chicken,Spicy Crispy- Whole Wing,NA,51,170,6,0,11,12,64,2.5,0,45,470
+KFC,Lunch/Dinner,KFC$s$Chicken,Spicy Crispy- Breast,NA,178,420,12,1,38,25,54,5,0,110,1250
+KFC,Lunch/Dinner,KFC$s$Chicken,Spicy Crispy- Drumstick,NA,55,160,5,0,11,10,56,2,0,50,440
+KFC,Lunch/Dinner,KFC$s$Chicken,Spicy Crispy- Thigh,NA,111,360,13,1,17,27,68,6,0,85,1010
+KFC,Lunch/Dinner,KFC$s$Chicken,Grilled Chicken- Whole Wing,NA,37,80,1,0,9,5,56,1.5,0,40,250
+KFC,Lunch/Dinner,KFC$s$Chicken,Grilled Chicken- Breast,NA,123,210,0,0,34,8,34,2.5,0,105,460
+KFC,Lunch/Dinner,KFC$s$Chicken,Grilled Chicken- Drumstick,NA,42,80,0,0,11,4,49,1,0,55,230
+KFC,Lunch/Dinner,KFC$s$Chicken,Grilled Chicken- Thigh,NA,71,160,0,0,16,11,62,3,0,85,420
+KFC,Lunch/Dinner,KFC$s$Strips$& Filets,Crispy Strips$(3),NA,172,340,27,3,33,11,29,4,0,70,1280
+KFC,Lunch/Dinner,KFC$s$Strips$& Filets,Crispy Strips$(2),NA,115,230,18,2,22,7,27,2.5,0,50,850
+KFC,Lunch/Dinner,KFC$s$Strips$& Filets,KFC Grilled Filet,NA,102,140,1,0,26,3,19,1,0,70,560
+KFC,Lunch/Dinner,KFC$s$Strips$& Filets,KFC OR Filet,NA,96,170,4,1,23,7,37,1.5,0,55,360
+KFC,Lunch/Dinner,KFC$s$Popcorn Chicken,Popcorn Chicken-Kids,NA,85,290,16,2,16,19,59,3.5,0,40,850
+KFC,Lunch/Dinner,KFC$s$Popcorn Chicken,Popcorn Chicken-Individual,NA,116,400,22,3,21,26,59,4.5,0,60,1160
+KFC,Lunch/Dinner,KFC$s$Popcorn Chicken,Popcorn Chicken-Large,NA,160,550,30,3,29,35,57,6,0,80,1600
+KFC,Lunch/Dinner,KFC$s$Wings,Boneless$HBBQ Wings$(1),NA,33,80,7,1,5,3.5,39,0.5,0,10,340
+KFC,Lunch/Dinner,KFC$s$Wings,Boneless$Fiery Buffalo Wings$(1),NA,34,80,6,1,5,3.5,39,0.5,0,10,390
+KFC,Lunch/Dinner,KFC$s$Wings,HBBQ Wings$(1),NA,26,80,5,1,4,5,56,1,0,20,170
+KFC,Lunch/Dinner,KFC$s$Wings,Fiery Buffalo Wings$(1),NA,28,80,4,1,4,5,56,1,0,20,230
+KFC,Lunch/Dinner,KFC$s$Wings,Hot Wings$(1),NA,22,70,3,0,4,5,64,1,0,20,150
+KFC,Lunch/Dinner,KFC$s$Wings,HBBQ Hot Wings$(1),NA,31,90,7,0,4,5,50,1,0,20,260
+KFC,Lunch/Dinner,KFC$s$Wings,Fiery Buffalo Hot Wings$(1),NA,29,80,5,1,4,5,56,1,0,20,280
+KFC,Lunch/Dinner,KFC$s$Wings,Fiery Grilled Wings$(1),NA,31,70,0,0,8,4,51,1,0,35,210
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,KFC Snacker with Crispy Strip,NA,121,290,33,3,15,11,34,2.5,0,30,730
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,KFC Snacker with Crispy Strip without Sauce,NA,112,240,33,2,15,6,23,1.5,0,25,600
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,"KFC Snacker with Crispy Strip, Buffalo",NA,121,250,35,3,15,6,22,1.5,0,25,770
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,"KFC Snacker, Fish",NA,116,320,31,2,16,14,39,3,0,60,640
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,"KFC Snacker, Fish without Sauce",NA,105,290,29,1,16,12,37,2.5,0,55,550
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,"KFC Snacker with Crispy Strip, Ultimate Cheese",NA,121,270,34,2,16,8,27,2.5,0,25,750
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,"KFC Snacker, Honey BBQ",NA,98,210,32,2,13,3,13,1,0,35,470
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Honey BBQ Sandwich,NA,161,320,47,3,24,3.5,10,1,0,70,770
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Double Crunch Sandwich with Crispy Strip,NA,227,500,51,4,28,20,36,4.5,0,55,1150
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Double Crunch Sandwich with Crispy Strip without Sauce,NA,203,390,50,4,28,9,21,3,0,50,1020
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Crispy Twister with Crispy Strip,NA,252,560,59,4,29,23,37,6,0,55,1600
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Crispy Twister with Crispy Strip without Sauce,NA,229,460,58,4,29,13,25,4.5,0,50,1480
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Grilled Twister,NA,239,470,42,2,33,19,36,4.5,0,80,1300
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Grilled Twister without Sauce,NA,217,370,41,2,33,8,19,3,0,70,1180
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,OR Filet Sandwich,NA,196,480,42,3,26,23,43,4,0,60,1160
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,OR Filet Sandwich without Sauce,NA,172,370,41,3,25,12,29,2,0,50,1030
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Crispy Strip,NA,139,350,33,2,17,17,44,6,0,40,900
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Crispy Strip without Sauce,NA,125,280,32,2,17,10,32,4.5,0,35,820
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Tender Roast Filet,NA,140,310,24,1,21,15,44,5,0,55,700
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Tender Roast Filet without Sauce,NA,126,240,23,1,20,8,30,3.5,0,50,630
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Grilled Filet,NA,134,310,24,1,20,15,44,5,0,50,760
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Toasted Wrap with Grilled Filet without Sauce,NA,120,240,23,1,19,8,30,4,0,45,680
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Mini Melt,NA,108,250,31,2,15,7,25,3,0,45,690
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Double Down with Grilled Filet,NA,253,480,4,0,60,25,47,9,0,180,1760
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Double Down with OR Filet,NA,241,540,11,1,53,32,53,10,0.5,145,1380
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Doublicious$with Grilled Filet,NA,197,380,35,2,35,11,26,4,0,85,950
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Doublicious$with OR Filet,NA,185,480,36,2,33,23,43,6,0,80,990
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Grilled Filet Sandwich,NA,196,400,33,2,32,16,36,3.5,0,80,850
+KFC,Lunch/Dinner,KFC$s$Sandwiches$& Wraps,Grilled Filet Sandwich without Sauce,NA,172,290,32,2,32,4.5,14,1.5,0,70,720
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Chicken Pot Pie,NA,369,690,57,3,27,40,52,31,0,95,1760
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",KFC Famous$Bowls$- Mashed Potato with Gravy,NA,525,700,77,6,26,32,41,8,1,55,2260
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Snack-Size Bowl,NA,232,320,34,3,12,15,42,4.5,0.5,30,990
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Popcorn Chicken Value Box,NA,218,660,55,5,25,38,52,7,0.5,60,1900
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Hot Wings$Value Box,NA,169,470,41,4,16,27,52,6,0,65,1190
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Fiery Buffalo Hot Wings$Value Box,NA,190,500,46,4,16,27,49,6,0,65,1580
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",HBBQ Hot Wings$Value Box,NA,195,520,53,4,16,27,47,6,0,65,1530
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Grilled Drumstick Value Box,NA,156,370,36,3,15,18,44,3.5,0,55,1050
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",OR Drumstick Value Box,NA,166,410,40,3,16,21,46,4,0,55,1170
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",EC Drumstick Value Box,NA,172,440,41,3,16,24,49,4.5,0,55,1190
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",Grilled Thigh Value Box,NA,185,450,36,3,20,25,50,6,0,90,1250
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",OR Thigh Value Box,NA,207,510,41,3,22,29,51,6,0,85,1450
+KFC,Lunch/Dinner,"KFC$s$Pot Pie, Bowls, & Value Boxes",EC Thigh Value Box,NA,223,630,47,3,24,38,54,6,0,80,1600
+KFC,Salads,KFC$s$Salads$& More,Grilled Chicken Caesar Salad without Dressing & Croutons,NA,263,210,5,2,33,7,30,3.5,0,85,740
+KFC,Salads,KFC$s$Salads$& More,Crispy Chicken Caesar Salad without Dressing & Croutons,NA,275,300,22,4,28,11,33,5,0,60,1030
+KFC,Salads,KFC$s$Salads$& More,Caesar Side Salad without Dressing & Croutons,NA,76,35,2,1,3,2,8,1,0,5,90
+KFC,Salads,KFC$s$Salads$& More,Grilled Chicken BLT Salad without Dressing,NA,316,230,7,3,34,8,31,2.5,0,90,920
+KFC,Salads,KFC$s$Salads$& More,Crispy Chicken BLT Salad without Dressing,NA,328,320,24,5,30,12,34,4,0,65,1210
+KFC,Salads,KFC$s$Salads$& More,House Side Salad without Dressing,NA,87,15,2,1,1,0,0,0,0,0,10
+KFC,Condiments,KFC$s$Salads$& More,Heinz Buttermilk Ranch Dressing (1),NA,28,160,1,0,0,17,96,2,0,10,220
+KFC,Condiments,KFC$s$Salads$& More,Ranch Fat Free Dressing (1),NA,43,35,8,0,1,0,0,0,0,0,410
+KFC,Condiments,KFC$s$Salads$& More,Marzetti Light Italian Dressing (1),NA,28,10,2,0,0,0.5,45,0,0,0,510
+KFC,Condiments,KFC$s$Salads$& More,Caesar Dressing (1),NA,57,260,4,0,2,26,90,5,0,15,540
+KFC,Condiments,KFC$s$Salads$& More,Parmesan Garlic Croutons$Pouch (1),NA,14,70,8,1,2,3,39,0,0,0,140
+KFC,Sides,KFC$s$Sides,Green Beans,NA,86,20,3,1,1,0,0,0,0,0,290
+KFC,Sides,KFC$s$Sides,Mashed Potatoes$with Gravy,NA,145,120,19,1,2,4,30,1,0,0,530
+KFC,Sides,KFC$s$Sides,Mashed Potatoes$without Gravy,NA,102,90,15,1,2,3,30,0.5,0,0,320
+KFC,Sides,KFC$s$Sides,Macaroni and Cheese,NA,137,170,19,1,6,8,42,2.5,0,5,730
+KFC,Sides,KFC$s$Sides,Potato Wedges,NA,102,260,33,3,4,13,45,2.5,0,0,740
+KFC,Sides,KFC$s$Sides,"Corn on the Cob (3"")",NA,71,77,16,2,2,0.5,6,0,0,0,0
+KFC,Sides,KFC$s$Sides,"Corn on the Cob (5.5"")",NA,146,140,33,4,5,1,6,0,0,0,5
+KFC,Sides,KFC$s$Sides,BBQ Baked Beans,NA,130,200,39,9,8,1.5,7,0,0,0,680
+KFC,Sides,KFC$s$Sides,Potato Salad,NA,128,200,24,3,2,10,45,2,0,5,540
+KFC,Sides,KFC$s$Sides,Cole Slaw,NA,130,180,19,2,1,11,55,1.5,0,0,160
+KFC,Sides,KFC$s$Sides,Biscuit,NA,54,180,23,1,4,8,40,6,0,0,530
+KFC,Sides,KFC$s$Sides,Sweet Kernel Corn,NA,102,110,23,2,4,0.5,4,0,0,0,0
+KFC,Sides,KFC$s$Sides,Macaroni Salad,NA,107,180,20,1,3,9,40,2,0,5,400
+KFC,Sides,KFC$s$Sides,Three Bean Salad,NA,87,70,14,3,3,0,0,0,0,0,170
+KFC,Sides,KFC$s$Sides,KFC Red Beans$with Sausage and Rice,NA,144,160,26,4,24,2.5,14,0.5,0,5,340
+KFC,Sides,KFC$s$Sides,KFC Cornbread Muffin,NA,52,210,28,1,3,9,34,1.5,0,35,240
+KFC,Sides,KFC$s$Sides,Sargento Light String Cheese,NA,21,50,1,0,6,2.5,45,1.5,0,10,160
+KFC,Sides,KFC$s$Sides,KFC Gizzards,NA,55,200,15,1,11,11,50,2,0,100,800
+KFC,Sides,KFC$s$Sides,KFC Livers,NA,55,180,11,0,11,10,50,2,0,200,620
+KFC,Sides,KFC$s$Sides,Country Fried Steak without Peppered White Gravy,NA,111,360,19,2,16,24,60,8,1,40,1040
+KFC,Sides,KFC$s$Sides,Country Fried Steak with Peppered White Gravy,NA,155,390,23,2,16,26,60,8,1,40,1200
+KFC,Sides,KFC$s$Sides,Jalapeno Peppers,NA,32,20,1,1,0,1.5,68,0,0,0,480
+KFC,Sides,KFC$s$Sides,Honey Sauce Packet,NA,9,30,8,0,0,0,0,0,0,0,0
+KFC,Sides,KFC$s$Sides,Colonel$s$Buttery Spread,NA,6,30,0,0,0,3.5,100,0.5,0,0,30
+KFC,Sides,KFC$s$Sides,KFC Signature Sauce Dipping Cup,NA,25,70,5,0,0,5,64,1,0,10,135
+KFC,Sides,KFC$s$Sides,Spicy Chipotle Dipping Sauce Cup,NA,25,70,8,1,0,3.5,45,1,0,10,220
+KFC,Sides,KFC$s$Sides,Fiery Buffalo Dipping Sauce Cup,NA,25,25,6,0,0,0,0,0,0,0,530
+KFC,Sides,KFC$s$Sides,Sweet and Sour Dipping Sauce Cup,NA,25,45,12,0,0,0,0,0,0,0,95
+KFC,Sides,KFC$s$Sides,Honey Mustard Dipping Sauce Cup,NA,25,120,6,0,0,10,75,1.5,0,5,110
+KFC,Sides,KFC$s$Sides,Creamy Ranch Dipping Sauce Cup,NA,25,140,1,0,0,15,97,2.5,0,10,230
+KFC,Sides,KFC$s$Sides,HBBQ Dipping Sauce Cup,NA,25,40,9,0,0,0,0,0,0,0,310
+KFC,Desserts,KFC$s$Desserts,Apple Turnover (1),NA,86,260,35,1,2,13,45,3,0,0,170
+KFC,Desserts,KFC$s$Desserts,Brownie Minis$(1 pack),NA,57,280,31,1,3,16,51,6,0,30,180
+KFC,Desserts,KFC$s$Desserts,Cafe Valley Bakery Chocolate Chip Cake (6 slices$per cake) g/slice,NA,76,280,47,1,3,9,29,3.5,0,30,160
+KFC,Desserts,KFC$s$Desserts,Lil$ Bucket Lemon Crme Parfait Cup,NA,127,390,60,0,7,14,32,8,0,0,220
+KFC,Desserts,KFC$s$Desserts,Lil$ Bucket Chocolate Crme Parfait Cup,NA,113,280,37,1,2,14,45,9,0,0,220
+KFC,Desserts,KFC$s$Desserts,Lil$ Bucket Strawberry Shortcake Parfait Cup,NA,99,230,39,1,2,8,31,4,0,35,220
+KFC,Desserts,KFC$s$Desserts,Strawberry Cream Cheese Pie Slice,NA,78,270,31,0,3,15,50,10,0,5,220
+KFC,Desserts,KFC$s$Desserts,Pecan Pie Slice,NA,95,410,52,1,4,21,46,6,0,70,220
+KFC,Desserts,KFC$s$Desserts,Lemon Meringue Pie Slice,NA,81,250,42,0,4,7,25,3.5,0,35,210
+KFC,Desserts,KFC$s$Desserts,Dutch Apple Pie Slice,NA,108,320,47,1,2,14,39,6,0,0,300
+KFC,Desserts,KFC$s$Desserts,Cookie Dough Pie Slice,NA,68,240,31,1,3,12,45,7,0,10,190
+KFC,Desserts,KFC$s$Desserts,Reese$s$Peanut Butter Pie Slice,NA,71,310,31,1,5,19,55,10,0,5,200
+KFC,Desserts,KFC$s$Desserts,Oreo Cookies$and Crme Pie Slice,NA,74,290,34,1,3,16,50,10,0,5,210
+KFC,Desserts,KFC$s$Desserts,Sara Lee Sweet Potato Pie Slice,NA,113,340,46,0,5,16,50,7,0,20,330
+KFC,Desserts,KFC$s$Desserts,Sweet Life Sugar Cookie,NA,35,160,22,0,2,7,39,3,0,10,125
+KFC,Desserts,KFC$s$Desserts,Sweet Life Oatmeal Raisin Cookie,NA,35,150,23,1,2,6,36,2.5,0,10,130
+KFC,Desserts,KFC$s$Desserts,Sweet Life Chocolate Chip Cookie,NA,35,170,23,1,2,8,42,4,0,10,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Apple Fritter,NA,87,210,18,1,3,14,60,7,0,5,110
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Baseball Doughnut,NA,68,290,33,NA,4,17,53,8,0,0,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Caramel Kreme Crunch,NA,96,390,50,NA,4,20,46,10,0,5,170
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Cake,NA,71,280,34,NA,3,15,48,7,0,20,320
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Custard Filled,NA,89,310,36,NA,4,17,49,8,0,0,150
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Glazed,NA,64,240,33,NA,2,11,41,5,0,5,95
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Glazed Cruller,NA,70,260,38,NA,2,12,42,5,0,15,260
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Glazed Football Stamp,NA,72,290,31,NA,4,17,53,8,0,0,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Glazed Hearts$w/Strawberry - Kreme Filling and Red Drizzle,NA,93,360,43,NA,4,20,50,10,0,0,150
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Kreme Filling,NA,89,360,40,NA,4,21,53,10,0,0,140
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Kreme Filling Web (Halloween),NA,100,400,51,NA,4,20,45,10,0,0,140
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Glazed w/ Sprinkles,NA,72,270,41,NA,2,11,37,5,0,5,95
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Chocolate Iced Raspberry Filled,NA,89,310,36,NA,4,17,49,8,0,0,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Cinnamon Apple Filled,NA,81,290,33,NA,3,16,50,8,0,5,150
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Cinnamon Bun,NA,67,260,28,NA,3,16,55,8,0,5,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Cinnamon Twist,NA,59,240,23,NA,3,15,56,7,0,5,130
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts$Holes,Blueberry Cake,4,51,190,26,NA,2,8,38,4,0,15,210
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts$Holes,Doughnut Hole Glazed Cake,4,51,200,26,NA,2,10,45,4.5,0,15,220
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts$Holes,Chocolate Cake,4,51,190,25,1,2,9,43,4.5,0,15,200
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts$Holes,Doughnut Hole Original Glazed,4,54,200,26,0,2,11,50,4.5,0,0,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts$Holes,Doughnut Hole Pumpkin Spice,4,51,210,29,0,2,10,43,4.5,0,15,240
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Dulce de Leche,NA,75,300,31,NA,3,18,54,9,0,5,160
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Eclair - Chocolate Iced Banana Filled w/Yellow Drizzle,NA,99,290,41,NA,3,13,40,6,0,0,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Eclair - Chocolate Iced Chocolate Filledw/Chocolate Drizzle,NA,99,290,39,2,4,16,50,7,0,0,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Eclair - White Iced Strawberries$& Kreme Filling w/Pink Drizzle,NA,99,330,43,NA,3,16,44,8,0,5,110
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Blueberry Cake,NA,80,300,42,NA,2,14,42,7,0,20,230
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Chocolate Cake,NA,80,300,41,2,3,15,45,7,0,20,230
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Cinnamon,NA,53,200,25,NA,2,11,50,4.5,0,0,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Cruller,NA,56,220,27,NA,2,12,49,5,0,15,260
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Kreme Filling,NA,84,340,38,NA,3,20,53,10,0,5,140
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Lemon Filled,NA,85,290,35,NA,3,16,50,8,0,5,135
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Raspberry Filled,NA,84,290,36,NA,3,16,50,8,0,5,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Glazed Sour Cream,NA,80,310,43,NA,2,14,41,7,0,20,250
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Jack o$ Lantern,NA,74,280,38,NA,3,13,42,6,0,0,110
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Maple Iced Glazed,NA,64,230,32,NA,2,11,43,5,0,0,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Mini Chocolate Iced Glazed,NA,30,110,16,0,1,5,41,2.5,0,0,45
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Mini Chocolate Iced with Sprinkles,NA,35,130,20,0,1,5,35,2.5,0,0,45
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Mini Original Glazed,NA,23,90,10,0,1,5,50,2.5,0,0,40
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,New York Cheesecake,NA,96,350,36,NA,4,21,54,10,0,10,200
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Original Glazed,NA,49,190,21,0,2,11,52,5,0,0,90
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Powdered Blueberry Filled,NA,84,300,34,NA,4,17,51,8,0,0,135
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Powdered Cake,NA,54,220,27,0,2,11,45,5,0,15,240
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Powdered Strawberry Filled,NA,81,290,33,NA,3,16,50,8,0,5,135
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Pumpkin Spice,NA,81,300,42,NA,2,14,50,7,0,20,240
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,"Pumpkin, Football, Egg Shape Iced & Stamped",NA,70,280,29,NA,3,17,55,8,0,5,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Sugar,NA,46,190,20,0,2,11,52,5,0,0,85
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Tennis$Ball,NA,73,290,32,NA,4,17,53,8,0,0,125
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,Traditional Cake,NA,57,190,19,0,2,12,57,6,0,15,260
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Egg with Easter Sprinkles,NA,74,340,41,NA,4,18,48,8,0,0,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Glazed Hearts,NA,81,320,38,NA,3,17,48,8,0,0,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Glazed Snowman w/Stamp,NA,66,280,29,NA,3,17,55,8,0,5,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Heart w/Valentine Sprinkles,NA,69,300,35,NA,3,16,48,8,0,0,115
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Shamrock with St. Patrick$s$Sprinkles,NA,68,300,31,NA,3,18,54,8,0,0,120
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Doughnuts,White Iced Star with Patriotic Sprinkles,NA,69,300,31,NA,3,18,54,8,0,0,120
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Plain Bagel,NA,108,260,54,2,10,1,3,0,0,0,490
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Cinnamon Raisin Bagel,NA,108,250,54,3,9,1,4,0,0,0,440
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Wholegrain/Whole Wheat Bagel,NA,108,290,54,9,11,5,16,0.5,0,0,500
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Everything Bagel,NA,108,280,54,3,10,3.5,11,0,0,0,1160
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Asiago Cheese Bagel,NA,113,300,57,3,11,3.5,11,1.5,0,5,660
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Blueberry Bagel,NA,108,270,57,3,9,1,3,0,0,0,470
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Plain Cream Cheese,NA,1 oz,80,1,0,1,8,90,5,0,30,115
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Plain Cream Cheese,NA,8 oz,670,12,0,12,64,86,39,3,255,930
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Reduced Fat Plain,NA,1 oz,60,2,0,2,5,75,3,0,20,130
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Reduced Fat Plain,NA,8 oz,490,14,1,17,41,75,25,2,155,1030
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Garden Vegetable,NA,1 oz,80,2,0,1,7,79,4.5,0,30,150
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Garden Vegetable,NA,8 oz,90,2,0,2,8,80,5,0,35,160
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Garden Vegetable Reduced Fat,NA,8 oz,60,2,0,2,5,75,3,0,20,190
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Strawberry Reduced Fat,NA,1 oz,80,4,0,1,7,79,4,0,25,100
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Strawberry Reduced Fat,NA,8 oz,510,38,NA,0,34,60,21,1.5,125,870
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Salted Butter,NA,1 tbsp,100,0,0,0,10,90,7,0,30,115
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Grape Jelly,NA,0.5 oz,35,9,0,0,0,0,0,0,0,0
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Strawberry Jelly,NA,0.5 oz,35,9,0,0,0,0,0,0,0,0
+Krispy-Kreme,break-fast,"Krispy-Kreme$s$Baked Bagels, Cream Cheese, Butter and Jelly",Mixed Fruit Jelly,NA,0.5 oz,35,9,0,0,0,0,0,0,0,0
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Whole Wheat Banana Nut Muffin with Oat Crisp Crunch Topping,NA,103,380,50,4,7,18,43,3,0,50,390
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Reduced Fat Triple Berry Muffin,NA,113,300,57,2,5,6,18,1.5,0,0,400
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Blueberry Muffin,NA,113,380,48,1,4,19,45,3.5,0,75,280
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Whole Wheat Blueberry Muffin with Oat Crisp Crunch Topping,NA,103,340,47,4,6,15,40,3,0,50,380
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Chocolate Chip Muffin with Oat Crisp CrunchTopping,NA,127,500,62,1,6,26,47,7,0,85,330
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Muffins,Whole Wheat Corn Muffin,NA,89,310,44,3,6,13,38,2,0,45,340
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Sweet Rolls,Cinnamon Roll,NA,170,670,76,3,7,38,51,18,1,15,65
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Sweet Rolls,Cinnamon Roll Lite,NA,85,330,38,2,3,19,52,9,0,5,35
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Sweet Rolls,Pecan Roll,NA,101,420,44,2,5,25,54,10,0,10,40
+Krispy-Kreme,break-fast,Krispy-Kreme$s$Sweet Rolls,Pecan Roll,NA,201,840,88,4,9,51,55,20,1,15,85
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Hamburger,3.5,100,250,31,2,12,9,32,3.5,0.5,25,520
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Cheeseburger,4,114,300,33,2,15,12,36,6,0.5,40,750
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Double Cheeseburger,5.8,165,440,34,2,25,23,47,11,1.5,80,1150
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,McDouble,5.3,151,390,33,2,22,19,44,8,1,65,920
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Quarter Pounder+,6,169,410,37,3,24,19,42,7,1,65,730
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Quarter Pounder with Cheese+,7,198,510,40,3,29,26,46,12,1.5,90,1190
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Double Quarter Pounder with Cheese++,9.8,279,740,40,3,48,42,51,19,2.5,155,1380
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Big Mac,7.5,214,540,45,3,25,29,48,10,1.5,75,1040
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Big N$ Tasty,7.2,206,460,37,3,24,24,47,8,1.5,70,720
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Big N$ Tasty with Cheese,7.7,220,510,38,3,27,28,49,11,1.5,85,960
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Angus$Bacon & Cheese,10.2,291,790,63,4,45,39,44,17,2,145,2070
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Angus$Deluxe,11.1,314,750,61,4,40,39,47,16,2,135,1700
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Angus$Mushroom & Swiss,10,283,770,59,4,44,40,47,17,2,135,1170
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Filet-O-Fish,5.1,142,380,38,2,15,18,43,3.5,0,40,640
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,McChicken,5,143,360,40,2,14,16,40,3,0,35,830
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,McRib,7.4,209,500,44,3,22,26,47,10,0,70,980
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Grilled Chicken Classic Sandwich,8,226,420,51,3,32,10,21,2,0,70,1190
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Crispy Chicken Classic Sandwich,8.1,230,530,59,3,28,20,34,3.5,0,50,1150
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Grilled Chicken Club Sandwich,8.8,250,530,52,4,39,17,29,6,0,95,1410
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Crispy Chicken Club Sandwich,9,254,630,60,4,35,28,38,7,0,75,1360
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Grilled Chicken Ranch BLT Sandwich,8.3,236,470,54,3,36,12,23,3,0,80,1440
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Premium Crispy Chicken Ranch BLT Sandwich,8.5,240,580,62,3,31,23,35,4.5,0,65,1400
+McDonald$s,Lunch/Dinner,McDonald$s$Burgers/Sandwiches,Southern Style Crispy Chicken Sandwich,8,161,400,39,1,24,17,38,3,0,45,1030
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Ranch Snack Wrap (Crispy),4.1,117,340,33,1,14,17,44,4.5,0,30,810
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Ranch Snack Wrap (Grilled),4.3,122,270,26,1,18,10,33,4,0,45,830
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Honey Mustard Snack Wrap with (Crispy),4.2,118,330,34,1,14,16,42,4.5,0,30,780
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Honey Mustard Snack Wrap (Grilled),4.4,124,260,27,1,18,9,31,3.5,0,45,800
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Chipotle BBQ Snack Wrap (Crispy),4.2,120,330,35,1,14,15,41,4.5,0,30,810
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Chipotle BBQ Snack Wrap (Grilled),4.4,125,260,28,1,18,9,31,3.5,0,45,830
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Angus$Bacon & Cheese Snack Wrap,5.1,145,390,28,1,21,21,48,9,1,75,1080
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Angus$Deluxe Snack Wrap,6,170,410,27,2,20,25,55,10,1.5,75,990
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Angus$Mushroom & Swiss$Snack Wrap,5.7,162,430,27,2,22,26,54,10,1.5,75,730
+McDonald$s,Lunch/Dinner,McDonald$s$Wraps,Mac Snack Wrap,4.4,126,330,26,1,15,19,52,7,1,45,690
+McDonald$s,Sides,McDonald$s$Fries,Small French Fries,2.5,71,230,29,3,3,11,47,1.5,0,0,160
+McDonald$s,Sides,McDonald$s$Fries,Medium French Fries,4.1,117,380,48,5,4,19,47,2.5,0,0,270
+McDonald$s,Sides,McDonald$s$Fries,Large French Fries,5.4,154,500,63,6,6,25,45,3.5,0,0,350
+McDonald$s,Condiments,McDonald$s$Condiments,Ketchup Packet,1,10,15,3,0,0,0,0,0,0,0,110
+McDonald$s,Condiments,McDonald$s$Condiments,Salt Packet,1,0.7,0,0,0,0,0,0,0,0,0,270
+McDonald$s,Sides,McDonald$s$Chicken,Chicken McNuggets$(4 piece),2.3,64,190,11,0,10,12,57,2,0,30,400
+McDonald$s,Sides,McDonald$s$Chicken,Chicken McNuggets$(6 piece),3.4,95,280,16,0,14,17,55,3,0,40,600
+McDonald$s,Sides,McDonald$s$Chicken,Chicken McNuggets$(10 piece),5.6,159,460,27,0,24,29,57,5,0,70,1000
+McDonald$s,Condiments,McDonald$s$Condiments,Barbeque Sauce,1,28,50,12,0,0,0,0,0,0,0,260
+McDonald$s,Condiments,McDonald$s$Condiments,Honey,1,14,50,12,0,0,0,0,0,0,0,0
+McDonald$s,Condiments,McDonald$s$Condiments,Hot Mustard Sauce,1,28,60,9,2,1,2.5,38,0,0,5,250
+McDonald$s,Condiments,McDonald$s$Condiments,Sweet N Sour Sauce,1,28,50,12,0,0,0,0,0,0,0,150
+McDonald$s,Lunch/Dinner,McDonald$s$Chicken,Breast Strips$(3 pc),4.6,131,400,23,0,23,24,54,3.5,0,50,1010
+McDonald$s,Lunch/Dinner,McDonald$s$Chicken,Breast Strips$(5 pc),7.7,219,660,39,0,39,38,52,6,0,85,1680
+McDonald$s,Condiments,McDonald$s$Condiments,Spicy Buffalo Sauce,1.3,35,60,1,1,0,6,90,1,0,0,800
+McDonald$s,Condiments,McDonald$s$Condiments,Creamy Ranch Sauce,1.3,35,170,2,0,0,18,95,3,0,10,270
+McDonald$s,Condiments,McDonald$s$Condiments,Tangy Honey Mustard Sauce,1.3,35,60,10,0,1,2,30,0,0,5,140
+McDonald$s,Condiments,McDonald$s$Condiments,Southwestern Chipotle Barbeque Sauce,1.3,35,60,15,1,0,0,0,0,0,0,210
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Southwest Salad with Grilled Chicken,12.3,350,320,30,6,30,9,25,3,0,70,960
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Southwest Salad with Crispy Chicken,12.5,353,430,38,6,26,20,42,4,0,55,920
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Bacon Ranch Salad with Grilled Chicken,11.3,321,260,12,3,33,9,31,4,0,90,1010
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Bacon Ranch Salad with Crispy Chicken,11.4,324,370,20,3,29,20,49,6,0,75,970
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Bacon Ranch Salad (without chicken),7.8,223,140,10,3,9,7,45,3.5,0,25,300
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Caesar Salad with Grilled Chicken,11,311,220,12,3,30,6,25,3,0,75,890
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Caesar Salad with Crispy Chicken,11,314,330,20,3,26,17,46,4.5,0,60,840
+McDonald$s,Lunch/Dinner,McDonald$s$Salads,Premium Caesar Salad (without chicken),7.5,213,90,9,3,7,4,70,2.5,0,10,180
+McDonald$s,Sides,McDonald$s$Salads,Side Salad,3.1,87,20,4,1,1,0,0,0,0,0,10
+McDonald$s,Sides,McDonald$s$Salads,Butter Garlic Croutons,0.5,14,60,10,1,2,1.5,23,0,0,0,140
+McDonald$s,Sides,McDonald$s$Salads,Snack Size Fruit & Walnut Salad,1,163,210,31,2,4,8,34,1.5,0,5,60
+McDonald$s,Condiments,McDonald$s$Condiments,Newman$s$Own Creamy Caesar Dressing,2,(59 ml),190,4,0,2,18,85,3.5,0,20,500
+McDonald$s,Condiments,McDonald$s$Condiments,Newman$s$Own Low Fat Balsamic Vinaigrette,1.5,(44 ml),40,4,0,0,3,68,0,0,0,730
+McDonald$s,Condiments,McDonald$s$Condiments,Newman$s$Own Low Fat Family Recipe Italian Dressing,1.5,(44 ml),60,8,0,1,2.5,38,0,0,0,730
+McDonald$s,Condiments,McDonald$s$Condiments,Newman$s$Own Ranch Dressing,2,(59 ml),170,9,0,1,15,79,2.5,0,20,530
+McDonald$s,Condiments,McDonald$s$Condiments,Newman$s$Own Creamy Southwest Dressing,1.5,(44 ml),100,11,0,1,6,54,1,0,20,340
+McDonald$s,break-fast,McDonald$s$break-fast,Egg McMuffin,7.1,139,300,30,2,18,12,36,5,0,260,820
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage McMuffin,6.2,111,370,29,2,14,22,54,8,0,45,850
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage McMuffin with Egg,8,162,450,30,2,21,27,54,10,0,285,920
+McDonald$s,break-fast,McDonald$s$break-fast,English Muffin,4.3,56,160,27,2,5,3,10,0.5,0,0,280
+McDonald$s,break-fast,McDonald$s$break-fast,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",4.9,140,420,37,2,15,27,58,10,0,285,920
+McDonald$s,break-fast,McDonald$s$break-fast,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",5.4,154,480,43,3,15,27,51,12,0,235,1270
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage Biscuit with Egg (Regular Size Biscuit),5.7,163,510,36,2,18,33,58,14,0,250,1170
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage Biscuit with Egg (Large Size Biscuit),6.2,177,570,42,3,18,37,58,15,0,250,1280
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage Biscuit (Regular Size Biscuit),4.1,117,430,34,2,11,27,61,12,0,30,1080
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage Biscuit (Large Size Biscuit),4.6,131,480,39,3,11,31,58,13,0,30,1190
+McDonald$s,break-fast,McDonald$s$break-fast,Southern Style Chicken Biscuit (Regular Biscuit),5,143,410,41,2,17,20,44,8,0,30,1180
+McDonald$s,break-fast,McDonald$s$break-fast,Southern Style Chicken Biscuit (Large Biscuit),5.5,157,470,46,3,17,24,46,9,0,30,1290
+McDonald$s,break-fast,McDonald$s$break-fast,"Steak, Egg & Cheese Bagel",9.2,231,660,56,3,33,33,45,12,1,300,1580
+McDonald$s,break-fast,McDonald$s$break-fast,"Bacon, Egg & Cheese McGriddles",6.3,164,420,48,2,15,18,39,8,0,240,1100
+McDonald$s,break-fast,McDonald$s$break-fast,"Sausage, Egg & Cheese McGriddles",7.6,201,560,48,2,20,32,51,12,0,265,1360
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage McGriddles,5,141,420,44,2,11,22,47,8,0,35,1030
+McDonald$s,break-fast,McDonald$s$break-fast,Big break-fast (Regular Size Biscuit),9.5,269,740,51,3,28,48,58,17,0,555,1560
+McDonald$s,break-fast,McDonald$s$break-fast,Big break-fast (Large Size Biscuit),10,283,800,56,4,28,52,58,18,0,555,1680
+McDonald$s,break-fast,McDonald$s$break-fast,Big break-fast with Hotcakes$(Regular Biscuit),14.8,420,1090,111,6,36,56,46,19,0,575,2150
+McDonald$s,break-fast,McDonald$s$break-fast,Big break-fast with Hotcakes$(Large Biscuit),15.3,434,1150,116,7,36,60,47,20,0,575,2260
+McDonald$s,break-fast,McDonald$s$break-fast,Sausage Burrito,3.9,111,300,26,1,12,16,48,7,0,115,830
+McDonald$s,break-fast,McDonald$s$break-fast,Hotcakes$and Sausage,6.8,192,520,61,3,15,24,42,7,0,50,930
+McDonald$s,break-fast,McDonald$s$break-fast,Hotcakes,5.3,151,350,60,3,8,9,23,2,0,20,590
+McDonald$s,break-fast,McDonald$s$break-fast,McSkillet Burrito with Sausage,8.4,238,610,44,3,27,36,53,14,0.5,410,1390
+McDonald$s,break-fast,McDonald$s$break-fast,Scrambled Eggs$(2),3.3,94,170,1,0,15,11,58,4,0,520,180
+McDonald$s,break-fast,McDonald$s$break-fast,Hash Browns,2,56,150,15,2,1,9,54,1.5,0,0,310
+McDonald$s,Condiments,McDonald$s$Condiments,Grape Jam,0.5,14,35,9,0,0,0,0,0,0,0,0
+McDonald$s,Condiments,McDonald$s$Condiments,Strawberry Preserves,0.5,14,35,9,0,0,0,0,0,0,0,0
+McDonald$s,break-fast,McDonald$s$break-fast,"Bacon, Egg & Cheese Bagel",6.5,185,560,56,3,24,27,43,9,0.5,260,1300
+McDonald$s,break-fast,McDonald$s$break-fast,Fruit & Maple Oatmeal,9.2,251,290,57,5,5,4.5,14,1.5,0,10,160
+McDonald$s,break-fast,McDonald$s$break-fast,Fruit & Maple Oatmeal without brown sugar,9.2,250,260,48,5,5,4.5,14,2,0,5,115
+McDonald$s,break-fast,McDonald$s$break-fast,Fruit n Yogurt Parfait,5.3,149,160,31,1,4,2,11,1,0,5,85
+McDonald$s,Condiments,McDonald$s$Condiments,Low Fat Caramel Dip,0.8,21,70,15,0,0,0.5,6,0,0,5,35
+McDonald$s,Dessert,McDonald$s$break-fast,Vanilla Reduced Fat Ice Cream Cone,3.2,90,150,24,0,4,3.5,21,2,0,15,60
+McDonald$s,Dessert,McDonald$s$break-fast,Kiddie Cone,1,29,45,8,0,1,1,20,0.5,0,5,20
+McDonald$s,Dessert,McDonald$s$Dessert,Strawberry Sundae,6.3,178,280,49,1,6,6,19,4,0,25,95
+McDonald$s,Dessert,McDonald$s$Dessert,Hot Caramel Sundae,6.4,182,340,60,1,7,8,21,5,0,30,160
+McDonald$s,Dessert,McDonald$s$Dessert,Hot Fudge Sundae,6.3,179,330,54,2,8,10,27,7,0,25,180
+McDonald$s,Dessert,McDonald$s$Dessert,Peanuts$(for Sundaes),0.3,7,45,2,1,2,3.5,70,0.5,0,0,0
+McDonald$s,Dessert,McDonald$s$Dessert,Baked Hot Apple Pie,2.7,77,250,32,4,2,13,47,7,0,0,170
+McDonald$s,Dessert,McDonald$s$Dessert,Cinnamon Melts,4,114,460,66,3,6,19,37,9,0,15,370
+McDonald$s,Dessert,McDonald$s$Dessert,McDonaldland Cookies,2,57,260,43,1,4,8,29,2.5,0,0,300
+McDonald$s,Dessert,McDonald$s$Dessert,Chocolate Chip Cookie,1,33,160,21,1,2,8,45,3.5,0,10,90
+McDonald$s,Dessert,McDonald$s$Dessert,Oatmeal Raisin Cookie,1,33,150,22,1,2,6,36,2.5,0,10,135
+McDonald$s,Dessert,McDonald$s$Dessert,Sugar Cookie,1,32,160,21,0,2,7,39,3,0,5,120
+McDonald$s,Dessert,McDonald$s$Dessert,Strawberry Triple Thick Shake,12,265,420,73,0,10,10,21,6,0.5,40,130
+McDonald$s,Dessert,McDonald$s$Dessert,Strawberry Triple Thick Shake,16,354,560,97,0,13,13,21,8,1,50,170
+McDonald$s,Dessert,McDonald$s$Dessert,Strawberry Triple Thick Shake,21,469,740,128,0,17,18,22,11,1,70,230
+McDonald$s,Dessert,McDonald$s$Dessert,Strawberry Triple Thick Shake,32,708,1110,194,0,25,26,21,16,2,100,350
+McDonald$s,Dessert,McDonald$s$Dessert,Vanilla Triple Thick Shake,12,266,420,72,0,9,10,21,6,0.5,40,140
+McDonald$s,Dessert,McDonald$s$Dessert,Vanilla Triple Thick Shake,16,354,550,96,0,13,13,21,8,1,50,190
+McDonald$s,Dessert,McDonald$s$Dessert,Vanilla Triple Thick Shake,21,470,740,128,0,17,18,22,11,1,70,250
+McDonald$s,Dessert,McDonald$s$Dessert,Vanilla Triple Thick Shake,32,708,1110,193,0,25,26,21,16,2,100,370
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,5-Meat,NA,143,370,39,0,18,16,39,7,0,45,910
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Big Murphy,NA,157,370,40,NA,17,16,39,7,0,40,890
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Chicago Style,NA,149,370,40,NA,17,16,39,7,0,45,850
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Chicken & Bacon,NA,151,370,39,0,20,15,36,7,0,50,820
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,5-Meat,NA,142,370,38,0,18,16,39,7,0,45,900
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Big Murphy,NA,152,360,39,NA,17,15,37,7,0,40,870
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Chicago Style,NA,145,370,39,NA,17,16,39,7,0,40,840
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Stuffed Pizzas$1 Serving = 1 Slice = 1/16th of the Pizza,Chicken & Bacon,NA,148,360,38,0,20,14,35,7,0,50,790
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,50/50,NA,118-158,320,31-33,NA,NA,15-18,45,9-Aug,0,40-50,710-940
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,All Meat,NA,141,360,31,0,19,18,45,9,0,55,900
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Barbeque Chicken,NA,144,340,37,0,19,13,34,7,0,50,720
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Cheese,NA,109,270,30,0,13,11,37,6,0,30,560
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Cowboy,NA,151,350,32,NA,17,18,46,8,0,45,900
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Forty-Niner,NA,136,370,31,NA,18,19,46,9,0,50,880
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Gourmet Chicken Garlic,NA,137,320,30,0,19,14,39,7,0,50,630
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Gourmet Classic Italian,NA,146,350,31,NA,17,18,46,8,0,45,790
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Gourmet Supreme,NA,123,310,33,2,15,13,38,7,0,35,680
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Gourmet Vegetarian,NA,144,300,31,1,14,14,42,7,0,35,700
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Hawaiian,NA,136,290,33,NA,15,11,34,6,0,35,670
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Herb Chicken Mediterranean,NA,128,340,35,3,17,14,37,7,0,40,630
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Meat Sampler,NA,118-130,280,31-32,NA,NA,16-Nov,42,8-Jun,0,35-45,670-840
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Murphy$s$Combo,NA,158,360,33,NA,18,18,45,9,0,50,940
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Papa-Roni,NA,125,350,31,0,16,18,46,9,0,45,810
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Papa$s$Favorite,NA,170,360,33,NA,18,18,46,8,0,50,910
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Pepperoni,NA,118,320,31,0,15,15,42,8,0,40,710
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Perfect,NA,118-136,290,30-34,NA,15,15-Nov,42,8-Jun,0,35-40,670-710
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Rancher,NA,140,330,31,NA,17,16,44,8,0,45,790
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Specialty of the House,NA,145,320,32,NA,16,15,42,7,0,40,800
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Taco Grande,NA,159,340,34,2,17,16,42,7,0,45,850
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Veggie Combo,NA,160,300,33,NA,14,13,39,6,0,30,670
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Family Size Original Crust Pizzas$1 Serving = 1 Slice = 1/12th of the Pizza,Veggie Mediterranean,NA,113,310,34,3,13,14,41,6,0,30,610
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,50/50,NA,106-141,290,27-29,NA,NA,14-17,46,8-Jul,0,35-45,640-850
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,All Meat,NA,125,320,28,0,17,16,45,8,0,50,790
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Barbeque Chicken,NA,134,310,35,0,17,11,32,6,0,45,680
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Cowboy,NA,137,320,29,NA,16,16,45,8,0,40,810
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Forty-Niner,NA,121,330,28,0,16,17,46,8,0,45,780
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Chicken Garlic,NA,124,290,27,0,17,13,40,6,0,45,560
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Classic Italian,NA,129,310,28,NA,15,16,46,7,0,40,700
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Supreme,NA,111,280,30,2,13,12,39,6,0,30,600
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Vegetarian,NA,127,270,28,1,13,12,40,6,0,30,610
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Herb Chicken Mediterranean,NA,113,300,31,2,15,13,39,6,0,35,560
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Murphy$s$Combo,NA,141,330,29,NA,16,17,46,8,0,45,850
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Papa$s$Favorite,NA,153,330,29,NA,16,17,38,8,0,45,820
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Pepperoni,NA,106,290,27,0,13,14,43,7,0,35,640
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Perfect,NA,106-124,270,27-30,NA,13,14-Oct,43,7-Jun,0,35,600-640
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Rancher,NA,125,300,28,0,16,14,42,7,0,40,700
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Specialty of the House,NA,154,300,29,NA,15,14,42,7,0,35,730
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Taco Grande,NA,143,310,30,1,16,14,41,6,0,40,760
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Vegetarian Combo,NA,153,270,30,NA,13,11,37,6,0,30,610
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size Original Crust Pizzas$1 Serving = 1 Slice = 1/10th of the Pizza,Veggie Mediterranean,NA,102,280,31,2,12,12,39,6,0,25,540
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,50/50,NA,97-131,260,25-27,NA,NA,13-15,45,7-Jun,0,35-40,580-780
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,All Meat,NA,113,290,25,0,15,14,43,7,0,40,710
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Barbeque Chicken,NA,117,280,30,0,16,10,31,6,0,40,590
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Cowboy,NA,125,290,26,0,14,15,47,7,0,40,740
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Forty-Niner,NA,109,290,25,0,14,15,47,7,0,40,690
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Gourmet Chicken Garlic,NA,112,260,25,0,15,12,42,6,0,40,510
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Gourmet Classic Italian,NA,125,280,26,NA,14,13,42,7,0,40,640
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Gourmet Supreme,NA,98,250,26,1,12,11,40,6,0,30,530
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Gourmet Vegetarian,NA,113,250,25,NA,12,11,40,6,0,30,550
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Hawaiian,NA,114,240,28,0,12,10,37,5,0,30,540
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Herb Chicken Mediterranean,NA,102,270,27,2,14,12,40,5,0,35,510
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Murphy$s$Combo,NA,131,300,27,NA,15,15,45,7,0,40,780
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Papa-Roni,NA,100,270,25,0,13,14,47,7,0,35,620
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Papa$s$Favorite,NA,138,300,27,NA,15,15,45,7,0,40,750
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Pepperoni,NA,97,260,25,0,12,13,45,6,0,35,580
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Rancher,NA,114,270,26,0,14,13,43,6,0,40,640
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Specialty of the House,NA,121,270,26,0,13,13,43,6,0,35,670
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Taco Grande,NA,101,220,23,NA,11,10,41,6,0,30,520
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Vegetarian Combo,NA,136,250,27,NA,11,11,40,5,0,25,560
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Medium Size Original Crust Pizzas$1 Serving = 1 Slice = 1/8th of the Pizza,Veggie Mediterranean,NA,92,260,27,2,11,11,38,5,0,25,490
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,50/50,NA,64-91,170,13-14,0,NA,12-Sep,54,6-May,0,30-35,320-490
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,All Meat,NA,76,190,13,0,11,11,52,5,0,35,430
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Barbeque Chicken,NA,79,180,17,0,12,8,40,4.5,0,30,340
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Cheese,NA,58,140,13,0,8,7,45,4,0,20,230
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Chicken Bacon Artichoke,NA,78,180,13,NA,12,9,45,4,0,35,400
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Cowboy,NA,86,190,14,0,11,11,52,5,0,30,460
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Chicken Garlic,NA,76,170,13,0,11,9,48,4.5,0,30,270
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Classic Italian,NA,85,190,14,NA,11,10,47,5,0,30,380
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Supreme,NA,64,160,14,1,8,8,45,4,0,20,290
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Gourmet Vegetarian,NA,76,160,12,NA,9,9,51,4.5,0,20,300
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Hawaiian,NA,77,160,15,0,9,7,39,4,0,25,290
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Herb Chicken Mediterrranean,NA,68,180,15,2,10,9,45,4,0,25,270
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Meat,NA,76,190,13,0,11,11,52,5,0,35,400
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Murphy$s$Combo,NA,91,200,14,0,11,12,54,6,0,35,490
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Papa$s$Favorite,NA,96,200,15,NA,11,12,54,5,0,30,460
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Pepperoni,NA,64,170,13,0,9,9,48,5,0,30,320
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Rancher,NA,77,180,14,0,10,10,50,5,0,30,370
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Specialty of the House,NA,82,180,14,0,10,10,50,5,0,30,400
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Vegetarian Combo,NA,72,160,15,NA,8,8,45,4,0,20,310
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Veggie,NA,72,160,13,NA,8,9,51,4,0,20,250
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Large Size deLITE Thin Crust Pizzas$- 1 Serving = 1 Slice = 1/10th of the Pizza,Veggie Mediterranean,NA,59,170,15,2,8,9,48,4,0,20,260
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Family Size - 1 Serving = 1 Slice = 1/8th of the Calzone (WITHOUT the Marinara),Chicken Florentine,NA,218,470,46,1,26,20,38,9,0,65,1050
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Family Size - 1 Serving = 1 Slice = 1/8th of the Calzone (WITHOUT the Marinara),Combo,NA,184,450,46,NA,21,21,42,11,0,60,1030
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Family Size - 1 Serving = 1 Slice = 1/8th of the Calzone (WITHOUT the Marinara),Italian,NA,209,470,47,NA,23,21,40,10,0,60,1170
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Family Size - 1 Serving = 1 Slice = 1/8th of the Calzone (WITHOUT the Marinara),Veggie,NA,197,410,46,2,19,17,37,9,0,45,970
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Large Size - 1 Serving = 1 Slice = 1/6th of the Calzone (WITHOUT the Marinara),Chicken Florentine,NA,215,460,46,1,26,19,37,9,0,65,1040
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Large Size - 1 Serving = 1 Slice = 1/6th of the Calzone (WITHOUT the Marinara),Combo,NA,182,450,45,NA,21,20,40,10,0,60,1020
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Large Size - 1 Serving = 1 Slice = 1/6th of the Calzone (WITHOUT the Marinara),Italian,NA,196,450,46,NA,22,20,40,10,0,55,1090
+Papa-Murphy$s,Lunch/Dinner,Papa-Murphy$s$Calzones$Large Size - 1 Serving = 1 Slice = 1/6th of the Calzone (WITHOUT the Marinara),Veggie,NA,186,400,46,1,18,16,36,9,0,45,920
+Papa-Murphy$s,Condiments,Papa-Murphy$s$Condiments,Marinara Sauce Cup,NA,14,10,2,0,0,0,0,0,0,0,60
+Papa-Murphy$s,Sides,Papa-Murphy$s$Sides,Lasagna - 1 Serving = 1/8th of the Lasagna,NA,184,330,26,2,17,18,49,9,0,70,760
+Papa-Murphy$s,Sides,Papa-Murphy$s$Sides,Cheesy Bread (without Sauce),NA,75,220,31,0,7,7,29,3,0,5,480
+Papa-Murphy$s,Condiments,Papa-Murphy$s$Condiments,Marinara Sauce Cup for Cheesy Bread,NA,14,10,2,0,0,0,0,0,0,0,60
+Papa-Murphy$s,Desserts,Papa-Murphy$s$Desserts,Cookie Dough with Hershey$s$Chocolate Chips,NA,28,120,17,0,1,6,45,2,1,NA,115
+Papa-Murphy$s,Desserts,Papa-Murphy$s$Desserts,Apple Dessert Pizza,NA,97,240,46,NA,4,4.5,16,1,1,0,340
+Papa-Murphy$s,Desserts,Papa-Murphy$s$Desserts,Cherry Dessert Pizza,NA,97,240,44,NA,4,4.5,16,1,1,0,330
+Papa-Murphy$s,Desserts,Papa-Murphy$s$Desserts,Cinnamon Wheel,NA,82,250,42,0,5,7,25,2,0,0,410
+Papa-Murphy$s,Desserts,Papa-Murphy$s$Desserts,Cream Cheese Frosting,NA,11,50,4,0,0,3,16,2,0,5,40
+Papa-Murphy$s,Salads,Papa-Murphy$s$Salads,Caesar Salad,NA,120,50,4,2,4,13,23,1,0,10,210
+Papa-Murphy$s,Salads,Papa-Murphy$s$Salads,Club Salad,NA,189,140,6,3,13,14,90,1,0,10,170
+Papa-Murphy$s,Salads,Papa-Murphy$s$Salads,Garden Salad,NA,206,100,8,3,6,0.5,4.5,0,0,0,280
+Papa-Murphy$s,Salads,Papa-Murphy$s$Salads,Italian Salad,NA,186,140,7,3,7,3.5,22,0,0,0,140
+Papa-Murphy$s,Condiments,Papa-Murphy$s$Condiments,Buttermilk Ranch Salad Dressing,NA,30,120,2,0,0,13,97,1,0,10,210
+Papa-Murphy$s,Condiments,Papa-Murphy$s$Condiments,Caesar Salad Dressing,NA,30,140,2,0,1,14,90,1,0,10,170
+Papa-Murphy$s,Condiments,Papa-Murphy$s$Condiments,Low Calorie Italian Salad Dressing,NA,30,10,1,0,0,0.5,45,0,0,0,280
+Papa-Murphy$s,Salads,Papa-Murphy$s$Salads,Croutons,NA,17.7,90,11,0,2,3.5,35,0,0,0,140
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Cheese Only,NA,91,240,27,1,11,11,41,4.5,0,25,530
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Pepperoni,NA,90,250,26,1,11,12,43,4.5,0,25,590
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Supreme,NA,112,290,27,2,12,14,43,5,0,30,650
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Pepperoni & Mushroom,NA,97,240,27,1,10,10,37,4,0,20,520
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Italian Sausage & Red Onion,NA,106,270,28,1,11,13,43,4.5,0,25,560
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Ham & Pineapple,NA,97,230,28,1,10,9,35,3.5,0,20,520
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Veggie Lover$s,NA,107,230,28,2,9,9,35,3.5,0,15,500
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Meat Lover$s,NA,113,330,27,1,14,18,49,7,0,40,830
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Hawaiian Luau,NA,104,260,28,1,11,12,42,4.5,0,25,610
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Dan$s$Original,NA,110,280,27,1,12,14,45,5,0,30,630
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Triple Meat Italiano,NA,103,290,27,1,13,15,47,5,0,30,700
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pan Pizza,Spicy Sicilian,NA,106,270,27,2,11,13,43,5,0,25,700
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Cheese Only,NA,65,190,22,1,9,8,38,4,0,25,550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Pepperoni,NA,63,200,21,1,9,9,40,4,0,25,610
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Supreme,NA,88,240,23,1,10,12,45,5,0,30,670
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Pepperoni & Mushroom,NA,73,190,22,1,9,8,38,3.5,0,20,540
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Italian Sausage & Red Onion,NA,81,220,23,1,9,10,41,4,0,25,580
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Ham & Pineapple,NA,73,180,23,1,8,6,30,3,0,20,540
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Veggie Lover$s,NA,86,180,23,1,8,6,30,3,0,15,530
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Meat Lover$s,NA,85,280,22,1,13,16,51,6,0,40,860
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Hawaiian Luau,NA,81,220,24,1,10,10,41,4,0,25,650
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Dan$s$Original,NA,85,240,22,1,11,12,45,5,0,30,650
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Triple Meat Italiano,NA,76,240,22,1,11,12,45,5,0,30,720
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Thin Pizza,Spicy Sicilian,NA,81,220,22,1,9,10,41,4.5,0,25,750
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Cheese Only,NA,84,220,26,1,10,8,33,4.5,0,25,560
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Pepperoni,NA,83,230,25,1,10,10,39,4.5,0,25,620
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Supreme,NA,106,260,26,2,11,12,42,5,0,30,690
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Pepperoni & Mushroom,NA,91,210,26,2,10,8,34,4,0,20,550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Italian Sausage & Red Onion,NA,99,240,27,2,10,11,41,4.5,0,25,590
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Ham & Pineapple,NA,91,200,27,1,9,7,31,3.5,0,20,560
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Veggie Lover$s,NA,102,200,27,2,9,7,31,3.5,0,15,540
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Meat Lover$s,NA,105,300,25,1,14,16,48,7,0,40,870
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Hawaiian Luau,NA,98,240,27,1,10,10,37,4.5,0,25,650
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Dan$s$Original,NA,103,260,26,2,12,12,42,5,0,30,670
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Triple Meat Italiano,NA,96,260,25,1,12,12,42,5,0,30,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Spicy Sicilian,NA,99,250,26,2,10,11,40,5,0,25,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Cheese Only,NA,84,220,26,1,10,8,33,4.5,0,25,560
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Pepperoni,NA,83,230,25,1,10,10,39,4.5,0,25,620
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Supreme,NA,106,260,26,2,11,12,42,5,0,30,690
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,3/29/2011,NA,91,210,26,2,10,8,34,4,0,20,550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Italian Sausage & Red Onion,NA,99,240,27,2,10,11,41,4.5,0,25,590
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Ham & Pineapple,NA,91,200,27,1,9,7,31,3.5,0,20,560
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Veggie Lover$s,NA,102,200,27,2,9,7,31,3.5,0,15,540
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Meat Lover$s,NA,105,300,25,1,14,16,48,7,0,40,870
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Hawaiian Luau,NA,98,240,27,1,10,10,37,4.5,0,25,650
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Dan$s$Original,NA,103,260,26,2,12,12,42,5,0,30,670
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Triple Meat Italiano,NA,96,260,25,1,12,12,42,5,0,30,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Medium Pizza,Spicy Sicilian,NA,99,250,26,2,10,11,40,5,0,25,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Chicken, Red Onion & Green Pepper",NA,95,180,23,1,11,4.5,22,2,0,20,510
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Chicken, Mushrooms$& Jalapeno",NA,93,170,22,1,11,4.5,24,1.5,0,20,720
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Ham, Red Onion & Mushroom",NA,84,160,23,1,8,4.5,25,1.5,0,15,550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Ham, Pineapple & Diced Red Tomato",NA,84,160,24,1,7,4.5,25,1.5,0,15,550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Green Pepper, Red Onion & Diced Red Tomato",NA,89,150,24,2,6,4,24,1.5,0,10,400
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Fit n Delicious$Pizza,"Diced Red Tomato, Mushroom & Jalapeno",NA,87,150,23,2,6,4,3.6,1.5,0,10,610
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Pizza Mia Pizza,Cheese Only,NA,74,200,24,1,9,7,31,4,0,15,490
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$12 in Pizza Mia Pizza,Pepperoni,NA,72,200,24,1,8,8,36,3.5,0,15,510
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Cheese Only,NA,129,360,37,2,15,17,42,7,0,35,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Pepperoni,NA,128,380,36,2,15,19,45,7,0,35,840
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Supreme,NA,158,420,38,2,17,23,49,8,0,45,920
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Pepperoni & Mushroom,NA,136,350,37,2,14,17,44,6,0,30,730
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Italian Sausage & Red Onion,NA,148,390,38,2,15,20,46,7,0,35,770
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Ham & Pineapple,NA,137,340,39,2,14,15,39,5,0,25,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Veggie Lover$s,NA,149,330,38,2,13,15,41,5,0,20,690
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Meat Lover$s,NA,160,480,37,2,20,28,52,10,0.5,60,1180
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Hawaiian Luau,NA,145,380,39,2,15,18,43,6,0,35,860
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Dan$s$Original,NA,154,420,37,2,17,22,47,8,0,40,880
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Triple Meat Italiano,NA,146,420,37,2,18,23,49,8,0,45,1000
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pan Pizza,Spicy Sicilian,NA,148,400,38,2,16,21,47,7,0,35,960
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Cheese Only,NA,88,260,29,1,12,11,38,6,0,35,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Pepperoni,NA,87,280,28,1,13,13,42,6,0,35,850
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Supreme,NA,120,330,30,2,15,17,46,7,0,45,930
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Pepperoni & Mushroom,NA,99,260,29,1,12,11,38,5,0,30,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Italian Sausage & Red Onion,NA,110,300,30,1,13,14,42,6,0,35,780
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Ham & Pineapple,NA,100,240,31,1,11,9,34,4,0,25,750
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Veggie Lover$s,NA,117,240,30,2,10,9,34,4,0,20,710
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Meat Lover$s,NA,117,390,28,1,18,23,53,9,0.5,60,1210
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Hawaiian Luau,NA,110,300,31,1,13,14,42,6,0,35,900
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Dan$s$Original,NA,115,320,29,1,15,16,45,7,0,40,890
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Triple Meat Italiano,NA,103,320,28,1,15,17,48,7,0,45,1000
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Thin Pizza,Spicy Sicilian,NA,110,300,30,2,13,15,45,6,0,35,1020
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Cheese Only,NA,123,320,38,2,15,12,34,6,0,35,820
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Pepperoni,NA,121,340,37,2,15,14,37,6,0,35,920
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Supreme,NA,152,380,38,2,17,18,43,8,0.5,45,1000
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Pepperoni & Mushroom,NA,131,310,38,2,14,12,35,6,0,30,810
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Italian Sausage & Red Onion,NA,142,350,39,2,15,15,39,7,0,35,850
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Ham & Pineapple,NA,131,300,39,2,13,10,30,5,0,25,820
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Veggie Lover$s,NA,144,290,39,3,12,10,31,4.5,0,20,770
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Meat Lover$s,NA,153,440,38,2,20,23,47,10,0.5,60,1270
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Hawaiian Luau,NA,140,340,40,2,15,14,37,6,0,35,940
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Dan$s$Original,NA,147,380,38,2,17,18,43,8,0,40,960
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Triple Meat Italiano,NA,139,380,38,2,17,18,43,8,0,45,1080
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Pizza,Spicy Sicilian,NA,142,360,38,2,15,16,40,7,0,35,1050
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Cheese Only,NA,132,350,39,2,16,14,36,8,0,40,910
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Pepperoni,NA,134,380,38,2,17,17,40,8,0,45,1050
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Supreme,NA,163,420,40,2,18,21,45,10,0.5,55,1140
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Pepperoni & Mushroom,NA,142,350,39,2,16,15,39,7,0,40,940
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Italian Sausage & Red Onion,NA,153,390,40,2,17,18,42,8,0,45,980
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Ham & Pineapple,NA,143,340,41,2,15,13,34,7,0,35,950
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Veggie Lover$s,NA,155,330,40,3,14,13,35,7,0,35,900
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Meat Lover$s,NA,165,480,39,2,22,26,49,12,0.5,70,1390
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Hawaiian Luau,NA,151,380,41,2,17,16,39,8,0,45,1070
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Dan$s$Original,NA,159,420,39,2,19,21,45,9,0,50,1090
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Triple Meat Italiano,NA,151,420,39,2,19,21,45,10,0,55,1210
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$14 in Large Stuffed Crust Pizza,Spicy Sicilian,NA,153,400,40,2,17,19,43,9,0.5,50,1170
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Cheese Only,NA,207,590,69,3,26,24,37,10,0.5,55,1290
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Pepperoni,NA,201,610,67,3,26,26,38,10,0.5,55,1410
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Supreme,NA,256,720,69,4,30,36,45,14,1,80,1680
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Pepperoni & Mushroom,NA,214,570,68,4,24,23,36,9,0,45,1250
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Italian Sausage & Red Onion,NA,244,690,71,4,28,32,42,12,0,65,1440
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Ham & Pineapple,NA,215,550,71,3,23,20,33,8,0,45,1260
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Veggie Lover$s,NA,233,550,70,4,22,20,33,8,0,35,1190
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Meat Lover$s,NA,263,830,68,3,36,46,50,17,1,100,2110
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Hawaiian Luau,NA,227,620,71,3,26,25,36,10,0,55,1440
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Dan$s$Original,NA,251,720,69,4,31,36,45,13,0.5,75,1600
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Triple Meat Italiano,NA,239,730,68,3,32,36,44,13,0.5,80,1770
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$6 in Personal Pan Pizza,Spicy Sicilian,NA,245,680,69,4,29,32,42,12,1,70,1730
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$P$Zone Pizza 1/2 Order,Classic,NA,235,630,77,3,28,23,33,11,0.5,65,1460
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$P$Zone Pizza 1/2 Order,Pepperoni,NA,219,630,76,2,29,24,34,11,0.5,70,1570
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$P$Zone Pizza 1/2 Order,Meaty,NA,246,710,76,2,32,31,39,14,1,85,1800
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$P$Zone Pizza 1/2 Order,Marinara Dipping Sauce (3 oz),NA,85,60,12,2,2,0,0,0,0,0,440
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Tuscani Pastas$1/2 Order,Lasagna,NA,321,600,43,5,31,33,49,14,1.5,100,1600
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Tuscani Pastas$1/2 Order,Chicken Alfredo,NA,323,630,56,4,27,33,47,11,0.5,70,1180
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Tuscani Pastas$1/2 Order,Meaty Marinara,NA,315,520,50,6,26,24,42,10,1,80,1310
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Tuscani Pastas$1/2 Order,Bacon Mac N Cheese,NA,324,520,54,4,24,22,38,12,0.5,60,1170
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Cheese Only,NA,402,1100,124,6,48,45,37,19,1,105,2400
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Pepperoni,NA,387,1100,121,6,47,48,39,18,1,100,2540
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Supreme,NA,488,1270,125,7,54,62,44,24,1.5,130,2920
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Pepperoni & Mushroom,NA,419,1050,123,7,45,42,36,16,1,85,2290
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Italian Sausage & Red Onion,NA,464,1210,128,7,50,56,42,21,1,110,2550
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Ham & Pineapple,NA,421,1020,128,6,43,37,33,14,0.5,80,2300
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Veggie Lover$s,NA,463,1010,127,8,42,38,34,14,0.5,70,2240
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Meat Lover$s,NA,491,1470,123,6,64,80,49,30,1.5,175,3670
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Hawaiian Luau,NA,446,1150,129,6,49,49,38,18,1,105,2670
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Dan$s$Original,NA,477,1270,124,7,55,62,44,23,1,125,2810
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Triple Meat Italiano,NA,447,1280,123,6,56,62,44,23,1,135,3070
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$9 in Personal PANormous$Pizza,Spicy Sicilian,NA,463,1220,126,7,51,57,42,22,1.5,115,3150
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Stuffed Pizza Rollers,Stuffed Pizza Rollers,NA,76,230,24,1,9,10,39,4.5,0,25,590
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Stuffed Pizza Rollers,Ranch Dipping Sauce (1.5 oz),NA,43,220,2,0,0,23,94,3.5,0,10,420
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Stuffed Pizza Rollers,Marinara Dipping Sauce (3 oz),NA,85,60,12,2,2,0,0,0,0,0,440
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Baked Hot Wings$(2 pieces),NA,44,100,1,0,10,6,54,2,0,55,430
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Baked Mild Wings$(2 pieces),NA,44,110,1,0,10,7,57,2,0,55,430
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Wing Ranch Dipping Sauce (1.5 oz),NA,43,220,2,0,0,23,94,3.5,0,10,420
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Wing Blue Cheese Dipping Sauce (1.5 oz),NA,43,230,2,0,1,24,94,4.5,0,20,420
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Breadsticks$(each),NA,44,150,19,1,5,7,42,2,0,0,250
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Cheese Breadsticks$(each),NA,56,180,20,1,7,7,35,3.5,0,15,370
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Appetizers,Marinara Dipping Sauce (3 oz),NA,85,60,12,2,2,0,0,0,0,0,440
+Pizza-Hut,Desserts,Pizza-Hut$s$Desserts,Cinnamon Sticks$(2 pieces),NA,55,170,26,1,4,6,32,1.5,0,0,200
+Pizza-Hut,Desserts,Pizza-Hut$s$Desserts,White Icing Dipping Cup (2 oz),NA,57,170,44,0,0,0,0,0,0,0,5
+Pizza-Hut,Desserts,Pizza-Hut$s$Desserts,HERSHEY$s$Chocolate Dunkers,2,60,200,26,1,5,9,40,4,0,0,210
+Pizza-Hut,Desserts,Pizza-Hut$s$Desserts,HERSHEY$s$Chocolate Sauce (1.5 oz),NA,43,120,24,1,1,2.5,19,1,0,0,75
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,All American,NA,54,150,11,1,10,8,48,1.5,0,20,490
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Buffalo Mild,NA,73,190,18,1,10,9,43,1.5,0,20,1020
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Buffalo Medium,NA,73,190,18,1,10,9,43,1.5,0,20,990
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Buffalo Burnin Hot,NA,73,190,18,1,10,8,38,1.5,0,20,1000
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Honey BBQ,NA,82,220,27,1,10,8,33,1.5,0,20,720
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Spicy Asian,NA,80,210,24,1,10,8,34,1.5,0,20,690
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Garlic Parmesan,NA,71,260,11,1,11,19,66,3.5,0,20,710
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Spicy BBQ,NA,81,200,21,1,10,8,36,1.5,0,25,940
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Bone Out Wings$2 pieces,Cajun,NA,77,200,21,1,10,8,36,1.5,0,20,790
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,All American,NA,55,200,8,1,9,14,63,2.5,0,45,500
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Buffalo Mild,NA,75,230,16,1,9,15,59,3,0,45,1040
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Buffalo Medium,NA,75,230,16,2,9,15,59,3,0,45,1010
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Buffalo Burnin Hot,NA,75,230,16,1,9,15,59,3,0,45,1020
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Honey BBQ,NA,83,260,24,1,10,14,48,3,0,45,740
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Spicy Asian,NA,82,250,21,1,10,14,50,2.5,0,45,710
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Garlic Parmesan,NA,72,300,9,1,10,25,75,5,0,45,730
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Spicy BBQ,NA,82,240,19,1,9,14,52,2.5,0,50,950
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Crispy Bone In Wings,Cajun,NA,79,240,19,2,10,14,52,3,0,45,810
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,All American,NA,39,80,0,0,7,5,56,1.5,0,40,290
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Buffalo Mild,NA,59,110,8,1,8,6,49,1.5,0,40,830
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Buffalo Medium,NA,59,110,8,1,8,6,49,1.5,0,40,800
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Buffalo Burnin Hot,NA,59,110,8,1,8,6,49,1.5,0,40,810
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Honey BBQ,NA,67,140,16,0,8,5,32,1.5,0,40,530
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Spicy Asian,NA,65,130,13,0,8,5,35,1.5,0,40,500
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Garlic Parmesan,NA,56,180,1,0,8,16,80,3.5,0,45,520
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Spicy BBQ,NA,66,120,11,0,8,5,37,1.5,0,45,750
+Pizza-Hut,Lunch/Dinner,Pizza-Hut$s$Traditional Wings,Cajun,NA,63,120,11,1,8,5,37,1.5,0,40,600
+Pizza-Hut,Sides,Pizza-Hut$s$Sides,Apple Pie (2 pies),NA,87,330,40,2,2,17,46,5,0,0,190
+Pizza-Hut,Sides,Pizza-Hut$s$Sides,Fried Cheese Sticks$(4 pcs),NA,119,380,29,2,13,24,57,9,2,40,1020
+Pizza-Hut,Sides,Pizza-Hut$s$Sides,Wedge Fries$(1/2 order),NA,123,320,35,3,4,18,51,3.5,0,0,530
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Mountain Dew,NA,16oz,220,58,0,0,0,0,0,0,0,70
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Mountain Dew,NA,22oz,300,80,0,0,0,0,0,0,0,100
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Mountain Dew,NA,32oz,440,116,0,0,0,0,0,0,0,140
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Pepsi,NA,16oz,200,56,0,0,0,0,0,0,0,50
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Pepsi,NA,22oz,280,77,0,0,0,0,0,0,0,70
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Pepsi,NA,32oz,400,112,0,0,0,0,0,0,0,100
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Diet Pepsi,NA,16oz,0,0,0,0,0,0,0,0,0,50
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Diet Pepsi,NA,22oz,0,0,0,0,0,0,0,0,0,70
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Diet Pepsi,NA,32oz,0,0,0,0,0,0,0,0,0,100
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Sierra Mist,NA,16oz,200,54,0,0,0,0,0,0,0,40
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Sierra Mist,NA,22oz,275,74,0,0,0,0,0,0,0,60
+Pizza-Hut,Beverages,Pizza-Hut$s$Beverages,Sierra Mist,NA,32oz,400,108,0,0,0,0,0,0,0,80
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Black Forest Ham",NA,219,290,47,5,18,4.5,14,1,0,25,1200
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Oven Roasted Chicken",NA,233,320,49,5,23,4.5,13,1,0,25,750
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Roast Beef",NA,233,310,45,5,26,4.5,13,1.5,0,25,800
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Subway Club",NA,240,320,47,5,26,5,14,1.5,0,35,1140
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Sweet Onion Chicken Teriyaki",NA,276,380,60,5,26,4.5,11,1,0,50,1010
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Turkey Breast",NA,219,280,47,5,18,3.5,11,1,0,20,920
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Turkey Breast & Black Forest Ham",NA,228,300,47,5,19,4,12,1,0,25,1140
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Veggie Delite",NA,162,230,45,5,8,2.5,10,0.5,0,0,410
+Subway,Lunch/Dinner,Subway$s$Sandwich,Black Forest Ham on Flatbread,NA,228,300,43,3,18,7,21,1.5,0,25,1240
+Subway,Lunch/Dinner,Subway$s$Sandwich,Oven Roasted Chicken on Flatbread,NA,242,330,45,3,23,7,19,1.5,0,25,780
+Subway,Lunch/Dinner,Subway$s$Sandwich,Roast Beef on Flatbread,NA,242,320,42,3,26,7,20,2,0,25,840
+Subway,Lunch/Dinner,Subway$s$Sandwich,Subway Club on Flatbread,NA,258,330,44,3,26,7,19,1.5,0,35,1180
+Subway,Lunch/Dinner,Subway$s$Sandwich,Sweet Onion Chicken Teriyaki on Flatbread,NA,284,390,56,3,26,7,16,1.5,0,50,1050
+Subway,Lunch/Dinner,Subway$s$Sandwich,Turkey Breast on Flatbread,NA,228,300,43,3,18,6,18,1,0,20,950
+Subway,Lunch/Dinner,Subway$s$Sandwich,Turkey Breast & Black Forest Ham on Flatbread,NA,237,310,44,3,19,7,20,1.5,0,25,1180
+Subway,Lunch/Dinner,Subway$s$Sandwich,Veggie Delite on Flatbread,NA,171,240,41,3,8,5,19,1,0,0,450
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Black Forest Ham,NA,438,570,94,10,35,9,14,2.5,0,50,2400
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Oven Roasted Chicken,NA,466,640,97,11,46,9,13,2.5,0,45,1490
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Roast Beef,NA,466,630,91,11,52,9,13,3,0,55,1600
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Subway Club,NA,481,640,94,10,52,10,14,3,0,65,2270
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Sweet Onion Chicken Teriyaki,NA,551,760,120,10,51,9,11,2.5,0,100,2020
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Turkey Breast,NA,438,570,94,10,35,7,11,1.5,0,40,1830
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Turkey Breast & Black Forest Ham,NA,457,590,95,10,38,8,12,2,0,50,2280
+Subway,Lunch/Dinner,Subway$s$Sandwich,Footlong Veggie Delite,NA,325,460,90,10,17,5,10,1,0,0,830
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Big Philly Cheesesteak",NA,304,520,53,6,39,18,31,9,1,90,1570
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" BLT",NA,164,360,45,5,17,13,32,6,0,30,990
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Chicken & Bacon Ranch",NA,292,570,48,5,35,28,44,10,0.5,95,1190
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Cold Cut Combo",NA,244,410,48,5,21,16,35,6,0.5,60,1450
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Italian B.M.T.",NA,237,450,48,5,22,20,40,8,0.5,55,1730
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Meatball Marinara",NA,372,580,70,9,24,23,36,9,1,45,1530
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Spicy Italian",NA,233,520,47,5,22,28,48,11,0.5,65,1830
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Steak & Cheese",NA,245,380,50,5,26,10,24,4.5,0,50,1230
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Subway Melt",NA,249,380,48,5,25,11,26,5,0,45,1530
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Tuna",NA,245,530,45,5,21,30,51,6,0.5,45,930
+Subway,Kids,Subway$s$Kids$Sandwich,Veggie Delite,NA,108,150,30,3,6,1.5,9,0,0,0,280
+Subway,Kids,Subway$s$Kids$Sandwich,Black Forest Ham,NA,136,180,31,3,10,2.5,12,0.5,0,10,670
+Subway,Kids,Subway$s$Kids$Sandwich,Roast Beef,NA,146,200,30,4,15,3,13,1,0,15,480
+Subway,Kids,Subway$s$Kids$Sandwich,Turkey Breast,NA,146,190,31,3,12,2.5,12,0.5,0,15,610
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Barbecue Rib Patty",NA,240,430,48,5,19,18,38,6,0,50,730
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Barbecue Chicken",NA,233,310,53,6,15,5,14,1.5,0,35,1010
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Buffalo Chicken (with regular Ranch dressing)",NA,268,420,47,5,25,15,32,3,0,55,1290
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" The Feast",NA,324,540,50,5,39,22,37,9,0.5,85,2450
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" LOW FAT Buffalo Chicken (with light Ranch)",NA,268,370,54,5,25,6,15,1.5,0,55,1300
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Chicken Pizziola (includes$cheese)",NA,291,450,51,6,31,15,30,6,0,75,1360
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Pastrami, Big (includes$cheese)",NA,297,580,50,5,31,28,50,9,0,65,1810
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Subway Seafood Sensation (includes$cheese)",NA,245,460,52,5,15,22,43,5,0.5,25,1050
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Turkey Bacon Avocado (includes$cheese)",NA,268,420,51,7,24,15,32,5,0,40,1310
+Subway,Lunch/Dinner,Subway$s$Sandwich,"6"" Veggie Patty",NA,247,390,57,8,23,7,16,1,0,10,930
+Subway,Salad,Subway$s$Salad,Black Forest Ham,NA,328,110,11,4,12,3,24,1,0,25,850
+Subway,Salad,Subway$s$Salad,Oven Roasted Chicken Breast,NA,342,130,9,4,19,2.5,17,0.5,0,50,270
+Subway,Salad,Subway$s$Salad,Roast Beef,NA,342,140,10,4,20,3.5,22,1,0,25,450
+Subway,Salad,Subway$s$Salad,Subway Club,NA,359,140,11,4,20,3.5,22,1,0,35,790
+Subway,Salad,Subway$s$Salad,Sweet Onion Chicken Teriyaki,NA,385,200,24,4,20,3,13,1,0,50,660
+Subway,Salad,Subway$s$Salad,Turkey Breast,NA,328,110,11,4,12,2,16,0.5,0,20,570
+Subway,Salad,Subway$s$Salad,Turkey Breast & Ham,NA,338,120,12,4,13,3,22,0.5,0,25,790
+Subway,Salad,Subway$s$Salad,Veggie Delite,NA,271,50,9,4,3,1,18,0,0,0,65
+Subway,Condiments,Subway$s$Condiments,Fat Free Italian,NA,57,35,35,0,1,0,0,0,0,0,720
+Subway,Condiments,Subway$s$Condiments,Ranch,NA,57,290,290,0,1,30,93,4.5,0.5,15,540
+Subway,break-fast,Subway$s$break-fast,Egg (White) & Cheese,NA,105,140,18,5,12,3.5,22,1,1,5,490
+Subway,break-fast,Subway$s$break-fast,"Black Forest Ham, Egg (White) & Cheese",NA,119,160,18,5,15,4,22,1.5,1.5,10,680
+Subway,break-fast,Subway$s$break-fast,break-fast BMT (with Egg White),NA,142,210,19,5,17,8,34,3,3,20,920
+Subway,break-fast,Subway$s$break-fast,"Double Bacon, Egg (White) & Cheese",NA,115,190,18,5,16,7,33,3,3,15,670
+Subway,break-fast,Subway$s$break-fast,Mega**,NA,138,290,18,5,18,17,53,7,7,30,840
+Subway,break-fast,Subway$s$break-fast,"Sausage, Egg (White) & Cheese**",NA,134,270,18,5,16,15,50,6,6,25,750
+Subway,break-fast,Subway$s$break-fast,"Steak, Egg (White) & Cheese",NA,122,170,19,5,16,4.5,24,1.5,1.5,15,630
+Subway,break-fast,Subway$s$break-fast,Sunrise Subway Melt (with Egg White),NA,154,200,20,5,19,6,27,2.5,2.5,23,940
+Subway,break-fast,Subway$s$break-fast,Western Egg (White) with Cheese,NA,124,160,19,5,15,4,22,1.5,1.5,10,680
+Subway,break-fast,Subway$s$break-fast,Egg & Cheese,NA,105,170,18,5,13,6,32,2,0,85,450
+Subway,break-fast,Subway$s$break-fast,"Black Forest Ham, Egg & Cheese",NA,119,180,18,5,15,7,35,2,0,95,650
+Subway,break-fast,Subway$s$break-fast,break-fast BMT,NA,142,230,19,6,17,11,43,4,0,105,890
+Subway,break-fast,Subway$s$break-fast,"Double Bacon, Egg & Cheese",NA,115,220,18,5,16,10,41,3.5,0,95,640
+Subway,break-fast,Subway$s$break-fast,Mega**,NA,138,310,18,5,18,20,58,7,0,110,810
+Subway,break-fast,Subway$s$break-fast,"Sausage, Egg & Cheese**",NA,134,290,18,5,16,18,56,7,0,105,710
+Subway,break-fast,Subway$s$break-fast,"Steak, Egg & Cheese",NA,122,190,19,6,16,7,33,2.5,0,95,600
+Subway,break-fast,Subway$s$break-fast,Sunrise Subway Melt,NA,154,230,20,6,20,9,35,3,0,105,910
+Subway,break-fast,Subway$s$break-fast,"Western, Egg & Cheese",NA,124,180,19,6,15,7,35,2,0,95,650
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)",Egg & Cheese,NA,105,170,18,5,13,6,32,2,0,85,450
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","Black Forest Ham, Egg & Cheese",NA,119,180,18,5,15,7,35,2,0,95,650
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)",break-fast BMT,NA,142,230,19,6,17,11,43,4,0,105,890
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","Double Bacon, Egg & Cheese",NA,115,220,18,5,16,10,41,3.5,0,95,640
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)",Mega**,NA,138,310,18,5,18,20,58,7,0,110,810
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","Sausage, Egg & Cheese**",NA,134,290,18,5,16,18,56,7,0,105,710
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","Steak, Egg & Cheese",NA,122,190,19,6,16,7,33,2.5,0,95,600
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)",Sunrise Subway Melt,NA,154,230,20,6,20,9,35,3,0,105,910
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Egg & Cheese",NA,189,420,45,4,18,8,17,3,0,10,1040
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Black Forest Ham, Egg & Cheese",NA,216.9,450,46,4,23,9,18,3.5,0,25,1430
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" break-fast BMT",NA,275.2,560,48,5,28,18,29,7,0,45,1920
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Double Bacon, Egg & Cheese",NA,207,520,46,4,25,15,26,6,0,30,1420
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Mega**",NA,255,710,46,4,29,35,44,14,0,55,1750
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Sausage, Egg & Cheese**",NA,245,670,45,4,25,31,42,12,0,45,1560
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Steak, Egg & Cheese",NA,231,490,47,4,27,10,18,4,0,35,1410
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Sunrise Subway Melt",NA,299,540,49,4,33,13,22,5,0,45,1960
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwich (with Egg White)","6"" Western, Egg & Cheese",NA,226,450,47,4,23,9,18,3.5,0,25,1430
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Egg & Cheese",NA,189,420,46,5,22,18,39,7,0,190,1060
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Black Forest Ham, Egg & Cheese",NA,216.9,450,47,5,27,19,38,7,0,200,1450
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" break-fast BMT",NA,275.2,560,49,6,32,28,45,11,0.5,220,1940
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Double Bacon, Egg & Cheese",NA,207,520,47,5,29,25,43,11,0,210,1430
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Mega**",NA,255,710,47,5,33,45,57,18,0,235,1770
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Sausage, Egg & Cheese**",NA,245,670,46,5,30,41,55,16,0,225,1580
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Steak, Egg & Cheese",NA,231,490,48,5,31,20,37,8,0.5,210,1430
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Sunrise Subway Melt",NA,299,540,50,5,37,23,38,9,0.5,225,1980
+Subway,break-fast,"Subway$s$break-fast 6"" Omelet Sandwiches$(with Regular Egg)","6"" Western, Egg & Cheese",NA,226,450,47,5,27,19,38,7,0,200,1450
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)",Egg (White) & Cheese on Flatbread,NA,183,330,41,2,18,10,27,3,0,10,1080
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)","Black Forest Ham, Egg (White) & Cheese on Flatbread",NA,211,360,42,2,23,11,27,3.5,0,25,1470
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)",break-fast BMT (with Egg White) on Flatbread,NA,270,470,45,2,28,20,38,7,0,45,1960
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)","Double Bacon, Egg (White) & Cheese on Flatbread",NA,202,430,42,2,25,17,35,7,0,30,1450
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)",Mega** on Flatbread,NA,249,620,42,2,29,37,54,14,0,60,1780
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)","Sausage, Egg (White) & Cheese** on Flatbread",NA,240,580,42,2,25,34,53,12,0,50,1600
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)","Steak, Egg (White) & Cheese on Flatbread",NA,225,400,44,2,27,13,29,4,0,35,1450
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)",Sunrise Subway Melt (with Egg White),NA,293,450,46,2,33,16,32,5,0,45,1990
+Subway,break-fast,"Subway$s$break-fast Omelet on 6"" Flatbread (with Egg White)",Western Egg (White) with Cheese on Flatbread,NA,221,370,43,2,23,11,27,3.5,0,25,1470
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),Egg & Cheese on Flatbread,NA,197,440,42,3,22,20,41,7,0,190,1100
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),"Black Forest Ham, Egg & Cheese on Flatbread",NA,225,460,43,3,27,21,41,8,0,200,1490
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),break-fast BMT on Flatbread,NA,284,570,45,3,32,30,47,11,0.5,220,1970
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),"Double Bacon, Egg & Cheese on Flatbread",NA,216,530,43,3,29,27,46,11,0,210,1470
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),Mega** on Flatbread on Flatbread,NA,263,730,43,3,33,47,58,18,0,235,1800
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),"Sausage, Egg & Cheese** on Flatbread",NA,254,680,43,3,30,44,58,17,0,230,1620
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),"Steak, Egg & Cheese on Flatbread",NA,240,500,44,3,31,23,41,8,0.5,210,1460
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),Sunrise Subway Melt on Flatbread,NA,307,550,46,3,37,26,42,10,1,225,2010
+Subway,break-fast,Subway$s$break-fast Omelet on Flatbread (with Regular Egg),"Western, Egg & Cheese on Flatbread",NA,235,470,44,3,27,21,40,8,0,200,1490
+Subway,break-fast,Subway$s$break-fast,Hash Browns$(4 pc)**,NA,74,150,17,2,1,9,54,1,0,0,440
+Subway,Lunch/Dinner,Subway$s$Pizza,Cheese,NA,293,680,96,4,32,22,29,9,0,40,1070
+Subway,Lunch/Dinner,Subway$s$Pizza,Cheese & Veggies,NA,381,740,100,5,36,25,30,11,0,50,1270
+Subway,Lunch/Dinner,Subway$s$Pizza,Pepperoni,NA,323,790,96,4,38,32,36,13,0,60,1350
+Subway,Lunch/Dinner,Subway$s$Pizza,Sausage,NA,336,820,97,4,39,34,37,14,0,70,1420
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Italian (White) Bread",NA,71,200,38,1,7,2,9,0.5,0,0,390
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" 9-Grain Wheat Bread",NA,78,210,41,4,8,2,8,0.5,0,0,410
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Parmesan Oregano Bread",NA,75,220,41,2,8,2.5,10,1,0,0,620
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Honey Oat",NA,89,260,49,5,9,3,10,0.5,0,0,430
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Hearty Italian Bread**",NA,75,220,41,2,8,2,8,1,0,0,390
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Monterey Cheddar**",NA,82,240,39,1,10,5,18,3,0,10,460
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Italian Herbs$& Cheese",NA,82,250,41,2,10,5,18,2,0,10,590
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Roasted Garlic**",NA,82,230,45,2,8,2.5,10,0.5,0,0,1360
+Subway,Lunch/Dinner,Subway$s$Breads,"6"" Flatbread",NA,87,230,38,2,8,4.5,18,0.5,0,0,450
+Subway,Lunch/Dinner,Subway$s$Breads,English Muffin,NA,57,90,16,5,7,0.5,5,0,0,0,170
+Subway,Lunch/Dinner,Subway$s$Breads,Mini Italian Bread,NA,47,130,26,1,5,1.5,10,0,0,0,260
+Subway,Lunch/Dinner,Subway$s$Breads,Mini Wheat Bread,NA,52,140,28,3,5,1.5,10,0,0,0,270
+Subway,Lunch/Dinner,Subway$s$Breads,Wrap**,NA,103,310,51,1,8,8,23,2.5,0,0,610
+Subway,Condiments,Subway$s$Condiments,Bacon (2 strips),NA,9,45,0,0,3,3.5,70,1.5,0,10,190
+Subway,Condiments,Subway$s$Condiments,Chipotle Southwest Sauce,NA,21,100,1,0,0,10,90,1.5,0,10,220
+Subway,Condiments,Subway$s$Condiments,"Honey Mustard Sauce, Fat Free",NA,21,30,7,0,0,0,0,0,0,0,120
+Subway,Condiments,Subway$s$Condiments,Light Mayonnaise (1 T),NA,15,50,NA,0,0,5,90,1,0,5,100
+Subway,Condiments,Subway$s$Condiments,Mayonnaise (1 T),NA,15,110,0,0,0,12,98,2,0,10,80
+Subway,Condiments,Subway$s$Condiments,Mustard yellow or deli brown,2,10,5,NA,0,0,0,0,0,0,0,115
+Subway,Condiments,Subway$s$Condiments,Olive Oil Blend (1 tsp),NA,5,45,0,0,0,5,1,0,0,0,0
+Subway,Condiments,Subway$s$Condiments,"Pepperoni, 3 slices",NA,18,70,1,0,3,6,77,2,0,15,320
+Subway,Condiments,Subway$s$Condiments,Ranch Dressing,NA,21,110,1,0,0,11,90,1.5,0,5,200
+Subway,Condiments,Subway$s$Condiments,"Red Wine Vinaigrette, Fat Free**",NA,21,30,6,0,0,0,0,0,0,0,340
+Subway,Condiments,Subway$s$Condiments,"Sweet Onion Sauce, Fat Free",NA,21,40,9,0,0,0,0,0,0,0,85
+Subway,Condiments,Subway$s$Condiments,Vinegar (1 tsp),NA,8,0,0,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Vegetables,Banana Peppers$(3 rings),NA,4,0,0,0,0,0,0,0,0,0,20
+Subway,Sides,Subway$s$Vegetables,Cucumbers$(3 slices),NA,17,NA,NA,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Vegetables,Green Peppers$(3 strips),NA,7,0,0,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Vegetables,Jalapeno Peppers$(3 rings),NA,4,NA,0,0,0,0,0,0,0,0,70
+Subway,Sides,Subway$s$Vegetables,Lettuce,NA,21,NA,0,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Vegetables,Onions,NA,7,NA,1,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Vegetables,Pickles$(3 chips),NA,9,0,0,0,0,0,0,0,0,0,115
+Subway,Sides,Subway$s$Vegetables,Olives$(3 rings),NA,3,NA,0,0,0,0,0,0,0,0,25
+Subway,Sides,Subway$s$Vegetables,Tomatoes$(3 wheels),NA,34,5,2,0,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Cheeses,"American, Processed",NA,11,40,1,0,2,3.5,78,2,0,10,200
+Subway,Sides,Subway$s$Cheeses,"Monterey Cheddar, Shredded",NA,14,50,1,0,3,4.5,81,3,0,15,90
+Subway,Sides,Subway$s$Cheeses,"Mozzarella, Shredded",NA,14,40,0,0,3,3,67,2,0,10,100
+Subway,Sides,Subway$s$Cheeses,Natural Cheddar**,NA,15,60,0,0,4,5,75,3,0,15,100
+Subway,Sides,Subway$s$Cheeses,Pepperjack**,NA,14,50,0,0,3,4,72,2.5,0,15,140
+Subway,Sides,Subway$s$Cheeses,Provolone**,NA,14,50,0,0,4,4,72,2,0,10,125
+Subway,Sides,Subway$s$Cheeses,Swiss**,NA,14,50,0,0,4,4.5,81,2.5,0,15,30
+Subway,Sides,Subway$s$Meats,"Chicken Patty, Roasted",NA,71,90,4,0,15,2.5,25,0.5,0,25,330
+Subway,Sides,Subway$s$Meats,Chicken Strips,NA,71,80,0,0,16,1.5,17,0.5,0,50,210
+Subway,Sides,Subway$s$Meats,Cold Cut Combo Meats,NA,71,140,2,0,10,11,71,3.5,0,50,830
+Subway,Sides,Subway$s$Meats,Egg Patty (regular),NA,85,110,3,1,9,8,65,2,0,160,360
+Subway,Sides,Subway$s$Meats,Egg White Patty,NA,85,70,3,0,8,2,26,0,0,0,430
+Subway,Sides,Subway$s$Meats,Ham,NA,57,60,2,0,9,2,30,0.5,0,25,790
+Subway,Sides,Subway$s$Meats,Italian B.M.T. Meats,NA,64,180,2,0,11,14,70,5,0,45,1120
+Subway,Sides,Subway$s$Meats,Meatballs,NA,198,310,25,4,13,17,49,6,0.5,30,910
+Subway,Sides,Subway$s$Meats,Roast Beef,NA,71,80,1,0,18,2.5,28,1,0,25,430
+Subway,Sides,Subway$s$Meats,"Sausage, break-fast",NA,57,240,1,0,7,24,90,9,0,35,520
+Subway,Sides,Subway$s$Meats,Seafood Sensation**,NA,71,190,7,0,5,16,76,2.5,0,15,430
+Subway,Sides,Subway$s$Meats,Steak (no cheese),NA,71,110,4,0,15,4,33,2,0,35,560
+Subway,Sides,Subway$s$Meats,Subway Club Meats,NA,78,90,2,0,17,2.5,25,1,0,35,750
+Subway,Sides,Subway$s$Meats,Tuna,NA,71,260,0,0,10,24,83,4,0,35,310
+Subway,Sides,Subway$s$Meats,Turkey Breast,NA,57,50,2,0,9,1,18,0,0,20,500
+Subway,Sides,Subway$s$Meats,Veggie Patty**,NA,85,160,12,3,15,5,28,0.5,0,10,520
+Subway,Desserts,Subway$s$Desserts,Chocolate Chip,NA,45,210,30,1,2,10,43,6,0,15,150
+Subway,Desserts,Subway$s$Desserts,Chocolate Chunk**,NA,45,220,30,NA,2,10,41,5,0,10,100
+Subway,Desserts,Subway$s$Desserts,Double Chocolate Chip**,NA,45,210,30,1,2,10,43,6,0,15,170
+Subway,Desserts,Subway$s$Desserts,M & M**,NA,45,210,32,NA,2,10,43,5,0,10,100
+Subway,Desserts,Subway$s$Desserts,Oatmeal Raisin,NA,45,200,30,1,3,8,36,4,0,15,170
+Subway,Desserts,Subway$s$Desserts,Peanut Butter**,NA,45,220,26,1,4,12,49,5,0,15,190
+Subway,Desserts,Subway$s$Desserts,Sugar**,NA,45,220,28,NA,2,12,49,6,0,15,140
+Subway,Desserts,Subway$s$Desserts,White Chip Macadamia Nut,NA,45,220,29,NA,2,11,45,5,0,15,160
+Subway,Desserts,Subway$s$Desserts,Apple Pie**,NA,71,250,37,1,0,10,36,2,n/a,0,290
+Subway,Sides,Subway$s$Sides,Apple Slices$- 1 package,NA,71,35,9,2,0,0,0,0,0,0,0
+Subway,Sides,Subway$s$Sides,Yogurt Dannon Light & Fit,NA,170,80,16,0,5,0,0,0,0,NA,80
+Subway,Sides,Subway$s$Sides,Baked Lay$s,NA,32,130,23,2,2,2,14,0,0,0,200
+Subway,Sides,Subway$s$Sides,Baked Lay$s** Sour Cream & Onion,NA,32,140,24,2,3,3.5,22,0.5,0,0,240
+Subway,Sides,Subway$s$Sides,Doritos$Nacho,NA,50,250,30,2,4,13,47,2.5,0,NA,310
+Subway,Sides,Subway$s$Sides,Lays$Classic,NA,43,230,23,2,3,15,59,1.5,0,0,270
+Subway,Sides,Subway$s$Sides,Sunchips$Harvest Cheddar,NA,43,210,29,3,4,9,39,1.5,0,0,240
+Subway,Sides,Subway$s$Sides,"Chips, 1 bag",NA,25-57,75,13-36,0-3,NA,0-22,58,0-4.5,0,0-35,150-940
+Subway,Drinks,Subway$s$Drinks,Bottled Juice/Drink,NA,15,0,54-68,0,0,0,0,0,0,0,40-160
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink/Sweetened Tea, Regular - 16 oz, no ice",NA,16,120,34-66,0,0,0,0,0,0,0,0-110
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink, Diet/Unsweetened Tea - 16 oz, no ice",NA,16,0,0,0,0,0,0,0,0,0,0-60
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink/Sweetened Tea, Regular - 21 oz, no ice",NA,21,160,45-87,0,0,0,0,0,0,0,0-140
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink, Diet/Unsweetened Tea - 21 oz, no ice",NA,21,0,0,0,0,0,0,0,0,0,0-80
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink/Sweetened Tea, Regular - 32 oz, no ice",NA,32,250,69-132,0,0,0,0,0,0,0,0-210
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink, Diet/Unsweetened Tea - 32 oz, no ice",NA,32,0,0,0,0,0,0,0,0,0,0-60
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink/Sweetened Tea, Regular - 44 oz, no ice",NA,44,340,95-182,0,0,0,0,0,0,0,0-290
+Subway,Drinks,Subway$s$Drinks,"Fountain Drink, Diet/Unsweetened Tea - 44 oz, no ice",NA,44,0,0,0,0,0,0,0,0,0,0-110
+Subway,Drinks,Subway$s$Drinks,Juice Box,NA,6,100,24,0,0,0,0,0,0,0,15
+Subway,Drinks,Subway$s$Drinks,"Milk, Low Fat***",NA,12,160,19,0,12,3.5,20,2.5,0,20,180
+Subway,Drinks,Subway$s$Drinks,"Milk, Chocolate Flavored Reduced F Fat***",NA,12,300,43,NA,15,8,24,5,0,35,300
+Subway,Drinks,Subway$s$Drinks,"Milk, Strawberry Flavored Reduced Fat**",NA,12,300,44,0,15,7,21,4.5,0,35,220
+Subway,Sides,Subway$s$Soups,Chicken Tortilla,NA,10,110,11,3,6,1.5,12,0.5,0,10,440
+Subway,Sides,Subway$s$Soups,Chipotle Chicken Corn Chowder,NA,10,140,22,2,6,3,19,1.5,0,15,900
+Subway,Sides,Subway$s$Soups,Chicken & Dumpling,NA,10,170,23,2,8,5,26,2,0,35,810
+Subway,Sides,Subway$s$Soups,Chili Con Carne,NA,10,340,35,10,20,11,29,5,0,60,950
+Subway,Sides,Subway$s$Soups,Cream of Potato with Bacon,NA,10,240,26,3,5,13,49,5,0,15,870
+Subway,Sides,Subway$s$Soups,Fire-Roasted Tomato Orzo,NA,10,130,24,2,6,1,7,0.5,0,5,410
+Subway,Sides,Subway$s$Soups,Golden Broccoli & Cheese,NA,10,180,16,4,5,11,55,5,0,25,990
+Subway,Sides,Subway$s$Soups,Minestrone,NA,10,90,17,3,4,1,10,0,0,NA,910
+Subway,Sides,Subway$s$Soups,New England Style Clam Chowder,NA,10,150,20,4,6,5,30,1,0,10,990
+Subway,Sides,Subway$s$Soups,Roasted Chicken Noodle,NA,10,80,12,1,6,2,22,0.5,0,15,950
+Subway,Sides,Subway$s$Soups,Rosemary Chicken and Dumpling,NA,10,90,14,1,6,1.5,15,0.5,0,25,810
+Subway,Sides,Subway$s$Soups,Spanish Style Chicken & Rice with Pork,NA,10,110,16,1,6,2.5,20,1,0,5,980
+Subway,Sides,Subway$s$Soups,Tomato Garden Vegetable w/ Rotini,NA,10,90,20,3,3,0.5,5,0,0,0,820
+Subway,Sides,Subway$s$Soups,Vegetable Beef,NA,10,100,17,3,5,2,18,0.5,0,10,960
+Subway,Sides,Subway$s$Soups,Wild Rice with Chicken,NA,10,230,26,1,6,11,43,3.5,0,50,900
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,1/2 lb.* Cheesy Potato Burrito,NA,248,550,59,7,19,26,43,8,0.5,50,1500
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,1/2 lb.* Combo Burrito,NA,241,460,52,10,22,18,35,7,0.5,50,1520
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,1/2 lb.* Nacho Crunch Burrito,NA,234,520,54,7,19,25,43,8,0.5,50,1290
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,7-Layer Burrito,NA,283,510,69,13,18,18,32,6,0,20,1300
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Bean Burrito,NA,198,370,56,11,14,10,24,3.5,0,5,1150
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Beefy 5-Layer Burrito,NA,248,560,70,10,20,22,35,8,0,35,1470
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Beefy Crunch Burrito,NA,220,510,61,5,15,22,39,6,0,30,1250
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Burrito Supreme - Beef,NA,248,420,53,9,17,15,32,6,0,35,1260
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Burrito Supreme - Chicken,NA,248,400,52,8,21,12,27,5,0,40,1300
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Burrito Supreme - Steak,NA,248,390,51,8,18,13,30,5,0,30,1230
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Cheesy Bean and Rice Burrito,NA,227,490,60,8,13,21,39,5,0,10,1260
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Cheesy Double Beef Burrito,NA,227,470,54,6,18,20,38,6,0.5,40,1460
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Chili Cheese Burrito,NA,156,380,41,5,16,17,40,8,0.5,35,930
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Fresco Bean Burrito,NA,213,350,56,12,13,8,21,2.5,0,0,1170
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Grilled Chicken Burrito,NA,177,430,49,3,18,18,38,5,0,40,1160
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Grilled Stuft Burrito - Beef,NA,325,700,80,13,27,30,39,10,1,60,1930
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Grilled Stuft Burrito - Chicken,NA,325,660,77,9,34,24,33,7,0,70,2010
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Enchiladas,Grilled Stuft Burrito - Chicken Enchilada,NA,337,690,79,6,36,26,34,10,0.5,85,1970
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Burritos,Grilled Stuft Burrito - Steak,NA,325,640,76,9,29,25,35,8,0,50,1860
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Baja - Beef,NA,153,410,31,5,13,26,58,5,0.5,35,730
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Baja - Chicken,NA,153,390,29,3,16,23,54,4,0,35,760
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Baja - Steak,NA,153,380,29,3,13,23,54,4,0,30,690
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Nacho Cheese - Beef,NA,153,370,31,4,12,22,56,3.5,0,20,730
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Nacho Cheese - Chicken,NA,153,340,30,3,15,18,48,2,0,25,770
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Nacho Cheese - Steak,NA,153,330,30,3,12,19,52,2.5,0,15,700
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Supreme - Chicken,NA,153,350,30,3,17,18,46,4,0,35,640
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Supreme - Steak,NA,153,340,29,3,14,18,48,4,0,30,570
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,Chalupa Supreme - Beef,NA,153,370,31,4,13,21,51,5,0.5,35,600
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Chalupas,XXL Chalupa,NA,266,650,53,7,23,39,54,9,1,55,1300
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Border Sauce - Fire,NA,7,0,0,0,0,0,0,0,0,0,60
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Border Sauce - Hot,NA,7,0,0,0,0,0,0,0,0,0,45
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Border Sauce - Mild,NA,7,0,0,0,0,0,0,0,0,0,35
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Creamy Jalapeno Sauce,NA,14,70,1,0,0,7,90,1,0,5,50
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Fiesta Salsa,NA,21,5,1,1,0,0,0,0,0,0,60
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Fire Roasted Salsa,NA,6,0,1,0,0,0,0,0,0,0,45
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Green Tomatillo Sauce,NA,28,10,2,0,0,0,0,0,0,0,170
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Guacamole,NA,21,35,2,1,0,3,77,0,0,0,85
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Pepper Jack Sauce,NA,14,70,1,0,0,7,90,1,0,5,85
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Pizza Sauce,NA,28,10,2,0,0,0,0,0,0,0,90
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Red Sauce,NA,28,10,2,0,0,0,0,0,0,0,240
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Reduced Fat Sour Cream,NA,21,30,2,0,1,2,60,1,0,5,20
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Salsa,NA,21,5,1,0,0,0,0,0,0,0,80
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Salsa Verde,NA,6,0,1,0,0,0,0,0,0,0,55
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Spicy Avocado Ranch Dressing,NA,14,80,1,0,0,8,90,1,0,10,120
+Taco-Bell,Condiments,Taco-Bell$s$Condiments,Zesty Dressing,NA,43,200,3,0,1,20,90,3.5,0,0,250
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Drive Thru Diet Food,Fresco Bean Burrito,NA,213,350,56,12,13,8,21,2.5,0,0,1170
+Taco-Bell,Lunch/DInner,Taco-Bell$s$Drive Thru Diet Food,Fresco Burrito Supreme - Chicken,NA,241,350,50,8,19,8,21,2.5,0,25,1290
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Drive Thru Diet Food,Fresco Burrito Supreme - Steak,NA,241,340,50,8,16,8,21,2.5,0,15,1220
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Drive Thru Diet Food,Fresco Chicken Soft Taco,NA,135,170,22,3,12,4,21,1,0,25,680
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Fresco Crunchy Taco,NA,92,150,13,3,7,7,42,2.5,0,20,350
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Fresco Grilled Steak Soft Taco,NA,128,160,21,2,9,4.5,25,1.5,0,15,550
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Fresco Soft Taco,NA,113,190,22,4,8,7,33,3,0,20,580
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Cheesy Gordita Crunch,NA,174,500,40,5,20,28,50,10,0.5,55,880
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Baja - Beef,NA,153,340,30,4,13,18,48,5,0,35,710
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Baja - Chicken,NA,153,320,29,3,16,15,42,3.5,0,35,750
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Baja - Steak,NA,153,310,28,3,14,15,44,3.5,0,30,680
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Nacho Cheese - Beef,NA,153,290,31,4,12,14,43,3,0,20,720
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Nacho Cheese - Chicken,NA,153,270,30,2,15,10,33,1.5,0,25,760
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Nacho Cheese - Steak,NA,153,260,29,2,12,11,38,2,0,15,690
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Supreme - Beef,NA,153,300,31,4,13,13,39,5,0,35,590
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Supreme - Chicken,NA,153,270,29,2,17,10,33,3.5,0,35,630
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Gordita Supreme - Steak,NA,153,270,29,2,14,11,37,4,0,30,550
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Cheesy Nachos,NA,71,280,28,2,4,17,55,1.5,0,0,300
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Nachos,NA,99,330,31,2,4,21,57,2,0,0,520
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Nachos$BellGrande,NA,305,770,78,15,20,42,49,7,0.5,30,1300
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Nachos$Supreme,NA,191,440,42,8,13,24,50,5,0,30,800
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Triple-Layer Nachos,NA,142,350,39,7,7,18,46,1.5,0,0,740
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Cuisine,Volcano Nachos,NA,354,980,88,16,22,61,56,9,0.5,40,1870
+Taco-Bell,Desserts,Taco-Bell$s$Desserts,Caramel Apple Empanada,NA,85,310,39,2,3,15,44,2.5,0,0,310
+Taco-Bell,Sides,Taco-Bell$s$Sides,Cheesy Fiesta Potatoes,NA,135,270,28,3,4,16,53,2.5,0,5,840
+Taco-Bell,Desserts,Taco-Bell$s$Desserts,Cinnamon Twists,NA,35,170,26,1,1,7,37,0,0,0,200
+Taco-Bell,Sides,Taco-Bell$s$Sides,Mexican Rice,NA,85,130,21,1,2,3.5,24,0,0,0,410
+Taco-Bell,Sides,Taco-Bell$s$Sides,Pintos$$n Cheese,NA,128,170,19,9,10,6,32,2.5,0,10,750
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Cheese Quesadilla,NA,142,480,40,4,19,27,51,11,0.5,50,1000
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Cheese Roll-Up,NA,64,200,19,2,9,10,45,5,0,20,480
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Chicken Flatbread Sandwich,NA,109,290,23,2,15,15,47,3.5,0,35,720
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Chicken Quesadilla,NA,184,530,41,4,28,28,48,12,0.5,75,1320
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Chili Cheese Burrito,NA,156,380,41,5,16,17,40,8,0.5,35,930
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Crunchwrap Supreme,NA,254,540,71,7,17,21,35,7,0,30,1220
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Enchirito - Beef,NA,213,370,35,9,19,17,41,8,0.5,45,1380
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Enchirito - Chicken,NA,213,350,34,7,22,14,36,7,0,50,1410
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Enchirito - Steak,NA,213,340,34,7,20,14,37,7,0,45,1340
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Express$Taco Salad w/ Chips,NA,447,660,66,11,24,33,45,10,1,60,1490
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Grilled Chicken Taquitos,NA,128,320,38,3,18,11,31,4.5,0,40,880
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Grilled Steak Taquitos,NA,128,310,37,3,15,11,32,5,0,30,810
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Mexican Pizza,NA,213,540,47,8,21,30,50,8,0.5,45,1030
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,MexiMelt,NA,128,280,23,4,15,14,45,7,0.5,45,820
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Mini Quesadilla,NA,60,190,18,2,9,9,43,5,0,20,450
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Steak Quesadilla,NA,184,520,41,4,25,28,48,12,1,65,1250
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Specialties,Tostada,NA,170,250,29,10,11,10,36,3.5,0,15,730
+Taco-Bell,Salads,Taco-Bell$s$Salads,Chicken Ranch Taco Salad,NA,420,910,70,9,34,55,54,10,0.5,70,1560
+Taco-Bell,Salads,Taco-Bell$s$Salads,Chipotle Steak Taco Salad,NA,420,900,68,8,28,57,57,11,0.5,65,1600
+Taco-Bell,Salads,Taco-Bell$s$Salads,Express$Taco Salad w/ Chips,NA,447,660,66,11,24,33,45,10,1,60,1490
+Taco-Bell,Salads,Taco-Bell$s$Salads,Fiesta Taco Salad,NA,463,770,73,12,27,42,49,10,1,60,1550
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Chicken Soft Taco,NA,99,190,20,2,14,6,28,2.5,0,30,600
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Crispy Potato Soft Taco,NA,106,280,33,3,6,14,45,3,0,10,560
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Crunchy Taco,NA,78,170,12,3,8,10,53,3.5,0,30,330
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Double Decker Taco,NA,156,330,39,8,14,13,35,5,0,30,760
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Double Decker Taco Supreme,NA,191,360,41,9,15,16,40,6,0,35,780
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Fresco Crunchy Taco,NA,92,150,13,3,7,7,42,2.5,0,20,350
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Grilled Steak Soft Taco,NA,128,260,21,2,11,14,48,4,0,30,650
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Soft Taco Supreme - Beef,NA,135,240,24,4,11,11,41,5,0,35,590
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Soft Taco-Beef,NA,99,210,21,3,10,9,39,4,0,30,560
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Tacos,Taco Supreme,NA,113,200,15,3,9,12,54,5,0,35,350
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Vocano Items,Volcano Burrito,NA,303,790,81,9,24,41,47,12,1,70,1770
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Vocano Items,Volcano Nachos,NA,354,980,88,16,22,61,56,9,0.5,40,1870
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Vocano Items,Volcano Taco,NA,92,230,14,3,8,16,63,5,0,35,440
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Bean Burrito,NA,198,370,56,11,14,10,24,3.5,0,5,1150
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Beefy 5-Layer Burrito,NA,248,560,70,10,20,22,35,8,0,35,1470
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Caramel Apple Empanada,NA,85,310,39,2,3,15,44,2.5,0,0,310
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Cheese Roll-Up,NA,64,200,19,2,9,10,45,5,0,20,480
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Cheesy Nachos,NA,71,280,28,2,4,17,55,1.5,0,0,300
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Cinnamon Twists,NA,35,170,26,1,1,7,37,0,0,0,200
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Crispy Potato Soft Taco,NA,106,280,33,3,6,14,45,3,0,10,560
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Crunchy Taco,NA,78,170,12,3,8,10,53,3.5,0,30,330
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Fresco Bean Burrito,NA,213,350,56,12,13,8,21,2.5,0,0,1170
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Fresco Crunchy Taco,NA,92,150,13,3,7,7,42,2.5,0,20,350
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Grilled Chicken Burrito,NA,177,430,49,3,18,18,38,5,0,40,1160
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Mini Quesadilla,NA,60,190,18,2,9,9,43,5,0,20,450
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Soft Taco - Beef,NA,99,210,21,3,10,9,39,4,0,30,560
+Taco-Bell,Lunch/Dinner,Taco-Bell$s$Why Pay More! Items,Triple-Layer Nachos,NA,142,350,39,7,7,18,46,1.5,0,0,740
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Single with Everything,NA,241,470,43,2,26,21,42,8,1,75,880
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Double with Everything & Cheese,NA,337,750,44,2,49,42,50,18,2.5,155,1370
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Triple with Everything & Cheese,NA,434,1030,44,2,71,63,55,29,3.5,240,1860
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Jr. Hamburger,NA,98,230,26,1,12,8,28,3,0,30,480
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Jr. Cheeseburger,NA,109,270,27,1,15,11,37,5,0. 5,40,690
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Jr. Bacon Cheeseburger,NA,140,330,26,1,18,17,43,7,0. 5,50,800
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Double Stack,NA,143,360,27,1,23,18,45,8,1,70,760
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Baconator Single,NA,200,610,43,1,32,34,50,14,1.5,105,1170
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Baconator Double,NA,312,980,46,2,58,63,58,27,2.5,205,1830
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Baconator Triple,NA,424,1360,49,2,84,91,60,40,4,305,2490
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Bacon Deluxe Single,NA,275,650,46,2,34,37,51,15,1.5,110,1380
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Bacon Deluxe Double,NA,354,870,46,2,53,52,54,22,2.5,180,1550
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Bacon Deluxe Triple,NA,450,1150,47,2,76,73,57,32,3.5,265,2030
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Ultimate Grill Chicken Sandwich,NA,230,370,42,2,34,7,19,1.5,0,90,1050
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Spicy Chicken Sandwich,NA,231,470,53,3,30,16,31,3,0,55,1440
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Homestyle Chicken Sandwich,NA,230,460,53,1,27,16,32,3,0,50,1140
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Chicken Club Sandwich,NA,265,620,55,2,35,30,43,9,0,85,1400
+Wendy$s,Lunch/Dinner,Wendy$s$Sandwiches,Crispy Chicken Sandwich,NA,140,350,39,2,14,16,41,3,0,30,710
+Wendy$s,Kids,Wendy$s$Kids$ Meal,"Hamburger, Kids$Meal",NA,92,220,26,1,12,8,30,3,0,30,480
+Wendy$s,Kids,Wendy$s$Kids$ Meal,"Crispy Chicken Sandwich, Kids$ Meal",NA,135,330,38,2,13,14,38,2.5,0,25,680
+Wendy$s,Kids,Wendy$s$Kids$ Meal,Cheeseburger Kids$Meal,NA,103,270,26,1,14,11,37,5,0.5,40,690
+Wendy$s,Kids,Wendy$s$Kids$ Meal,Kids$Meal French Fries,NA,71,210,27,2,3,10,43,1.5,0,0,170
+Wendy$s,Kids,Wendy$s$Kids$ Meal,4 Piece Kid$s$Meal Nuggets,NA,60,190,8,1,10,13,58,2.5,0,30,340
+Wendy$s,Salads,Wendy$s$Salads,Apple Pecan Chicken Salad,NA,354,350,29,5,37,12,31,7,0,110,1210
+Wendy$s,Salads,Wendy$s$Salads,Roasted Pecans,NA,17,110,5,1,1,9,74,1,0,0,60
+Wendy$s,Salads,Wendy$s$Salads,Pomegranate Vinaigrette Dressing,NA,62,120,16,0,0,6,45,1,0,0,320
+Wendy$s,Salads,Wendy$s$Salads,Baja Salad,NA,529,550,36,12,33,33,54,14,1,85,1610
+Wendy$s,Salads,Wendy$s$Salads,Seasoned Tortilla Strips,NA,17,80,11,1,1,4.5,51,1.5,0,0,105
+Wendy$s,Salads,Wendy$s$Salads,Creamy Red Jalapeno Dressing,NA,31,100,2,0,1,10,90,2,0,10,270
+Wendy$s,Salads,Wendy$s$Salads,BLT Cobb Salad,NA,397,450,10,3,49,23,46,11,0,275,1840
+Wendy$s,Salads,Wendy$s$Salads,Avocado Ranch Dressing,NA,62,200,3,0,1,21,95,3.5,0,15,430
+Wendy$s,Salads,Wendy$s$Salads,Spicy Chicken Caesar Salad,NA,340,460,23,6,37,25,49,11,0.5,95,1400
+Wendy$s,Salads,Wendy$s$Salads,Gourmet Croutons,NA,18,80,12,0,2,3,34,0,0,0,220
+Wendy$s,Salads,Wendy$s$Salads,Lemon Garlic Caesar Dressing,NA,62,210,3,0,3,21,99,4,0,25,350
+Wendy$s,Dessert,Wendy$s$Frosty Treats,Vanilla Frosty Small,NA,227,310,52,0,8,8,22,5,0,30,150
+Wendy$s,Dessert,Wendy$s$Frosty Treats,Chocolate Frosty Small,NA,227,310,52,0,8,8,22,5,0,25,140
+Wendy$s,Dessert,Wendy$s$Frosty Treats,Vanilla Frosty w/Pepsi,NA,467,390,76,0,7,7,16,5,0,30,135
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Chocolate Fudge Frosty Shake, Sm",NA,328,410,69,1,8,11,24,7,0,69,190
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Chocolate Fudge Frosty Shake, Lg",NA,451,540,94,1,11,13,22,8,0.5,40,270
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Vanilla Bean Frosty Shake, Sm",NA,321,380,64,0,7,11,26,7,0,35,140
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Vanilla Bean Frosty Shake, Lg",NA,447,510,88,0,9,13,23,8,0.5,40,180
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Strawberry Frosty Shake, Sm",NA,324,390,66,0,7,11,25,7,0,35,140
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Strawberry Frosty Shake, Large",NA,447,510,89,1,9,13,23,8,0.5,40,180
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Frosty Cino, Small",NA,313,380,63,0,7,11,26,7,0,35,140
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Frosty Cino, Large",NA,443,510,87,0,9,13,23,8,0.5,40,180
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Nestle Toll House Cookie Dough Twisted Frosty, Chocolate",NA,257,480,77,1,9,16,30,10,0,30,200
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Nestle Toll House Cookie Dough Twisted Frosty, Vanilla",NA,257,480,77,1,9,16,30,10,0,35,210
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"M&M Twisted Frosty, Chocolate",NA,269,550,86,1,10,19,31,12,0,35,170
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"M&M Twisted Frosty, Vanilla",NA,269,560,87,1,10,19,31,12,0,40,170
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Oreo Twisted Frosty, Chocolate",NA,247,440,72,1,9,14,29,7,0,25,290
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Oreo Twisted Frosty, Vanilla",NA,247,440,72,1,9,14,29,7,0,30,290
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Coffee Toffee Twisted Frosty, Chocolate",NA,293,540,83,1,9,20,33,15,0,35,230
+Wendy$s,Dessert,Wendy$s$Frosty Treats,"Coffee Toffee Twisted Frosty, Vanilla",NA,293,540,83,1,8,20,33,15,0.5,40,230
+Wendy$s,Sides,Wendy$s$Sides,Garden Salad,NA,98,25,5,2,1,0,0,0,0,0,30
+Wendy$s,Sides,Wendy$s$Sides,Caesar Side Salad,NA,106,60,5,2,4,3.5,50,2,0,10,95
+Wendy$s,Sides,Wendy$s$Sides,Gourmet Croutons,NA,18,80,12,0,2,3,28,0,0,0,220
+Wendy$s,Sides,Wendy$s$Sides,Lemon Garlic Caesar Dressing,NA,31,110,2,0,2,11,90,2,0,10,180
+Wendy$s,Sides,Wendy$s$Sides,Small Chili,NA,227,220,22,6,18,7,27,3,0,35,870
+Wendy$s,Sides,Wendy$s$Sides,Saltine Crackers,NA,6,25,5,0,0,0.5,20,0,0,0,80
+Wendy$s,Sides,Wendy$s$Sides,Value French Fries,NA,71,210,27,2,3,10,43,1.5,0,0,170
+Wendy$s,Sides,Wendy$s$Sides,Small French Fries,NA,128,340,43,4,4,17,43,2. 5,1,0,280
+Wendy$s,Sides,Wendy$s$Sides,Medium French Fries,NA,142,420,53,5,5,21,43,3,1,0,340
+Wendy$s,Sides,Wendy$s$Sides,Large French Fries,NA,184,550,69,6,7,27,44,4,0,0,450
+Wendy$s,Sides,Wendy$s$Sides,5 Piece Chicken Nuggets,NA,75,240,10,1,13,16,61,3,0,35,420
+Wendy$s,Sides,Wendy$s$Sides,10 Piece Nuggets,NA,150,480,20,2,25,33,62,6,0,75,840
+Wendy$s,Sides,Wendy$s$Sides,Honey BBQ Boneless$Wings,NA,259,620,71,0,37,21,30,3.5,0,85,1810
+Wendy$s,Sides,Wendy$s$Sides,Sweet & Spicy Asian Boneless$Wings,NA,259,600,64,1,37,21,32,3.5,0,85,2350
+Wendy$s,Sides,Wendy$s$Sides,Spicy Chipotle Boneless$Wings,NA,234,550,50,1,37,23,38,4,0,85,1510
+Wendy$s,Condiments,Wendy$s$Condiments,Barbecue Nugget Sauce,NA,28,45,11,0,0,0,0,0,0,0,120
+Wendy$s,Condiments,Wendy$s$Condiments,Sweet & Sour Sauce,NA,28,50,12,0,0,0,0,0,0,0,120
+Wendy$s,Condiments,Wendy$s$Condiments,Honey Mustard Sauce,NA,28,130,6,0,0,12,84,2,0,10,220
+Wendy$s,Condiments,Wendy$s$Condiments,Heartland Ranch Dipping Sauce,NA,28,120,3,0,0,12,90,1. 5,0,10,240

@@ -1,0 +1,117 @@
+## **Data Model**
+
+
+# **Transformations & Visualizations**
+
+## McDonald's Menu Items with the Most Fat
+
+McDonald's is often known for being one of the most unhealthy food choices, fast food or regular food, period. I thought it would be interesting to figure out which items contained the most amount of fat. To do so, I transformed our data using dplyr's filter, arrange, and select functions. I selected the restaurant as McDonald's, descended the food items by fat content and then selected the relevant rows (restaurant, meal type, food item and fat content).
+
+```{r}
+require(dplyr)
+mcD <- filter(df, restaurant == "McDonald's")
+mcD_fat <- arrange(mcD, desc(fat_g))
+dplyr::select(mcD_fat, restaurant, meal_type, food_item, fat_g)
+```
+
+From the table that is output, it is clear that one should stay clear from the Big Breakfast with or without Hotcakes as they lead the menu in fat content by grams. Breakfast items also account for half of the items on the list with entrees, reasonably, making up the other half. It was interesting to note that Angus appeared in 3 of the 5 top entrees by fat content.
+
+To visualize this, a bar chart was created to show this table in visual form. The chart can be seen below.
+
+```{r}
+
+renderPlot({
+  
+ggplot(data = mcD_fat) +
+  geom_bar(stat="identity", mapping = aes(x=food_item, y=fat_g, fill = food_types)) + facet_wrap(~meal_type, nrow = 4)
+  
+})
+```
+
+## Arranging Fat Contents (for each item) into Percentiles, Percent Ranks, Cumulative Distribution and Lead/Lag for McDonald's
+
+In this insight, we will be srranging Fat Contents, for each item, into Percentiles, Percent Ranks, Cumulative Distribution and Lead/Lag for McDonald's using the mutate function from DPLYR package.
+
+In order to use this effectively, we needed to convert data from our data frame into a vector first. All the fat data from McDonald's was put into a new vector.
+
+The first table splits the fat (g) from each item in McDonald's into four different percantiles. This is a rough rank of the fat(g), which breaks the input vector (fat content) into n (n =4 in our case) buckets.
+
+The second table choses a number between 0 and 1 computed by rescaling min_rank to [0, 1] for percent rank. This rank is assigned to each item based on the fat content.
+
+The third table creates a cumulative distribution function. Proportion of all values less than or equal to the current rank for the fat content of each item at McDonald's.
+
+The fourth table creates lag of the fat vector for the fat content of each item at McDonald's. (shows the previous item's fat value)
+
+The fifth table creates lead of the fat vector for the fat content of each item at McDonald's. (shows the next item's fat value)
+
+```{r}
+
+#get fat_g into a vector
+fats <- dplyr::select(mcD, fat_g)
+new_fats <- unname(unlist(fats))
+vector_fat <- c(new_fats)
+
+#split vector fats into 4 different percantiles
+percant <- mutate(mcD, ntile(vector_fat, 4))
+View(percant)
+
+# a number between 0 and 1 computed by rescaling min_rank to [0, 1] for percent rank
+prank <- mutate(mcD, percent_rank(vector_fat))
+View(prank)
+
+# a cumulative distribution function. Proportion of all values less than or equal to the current rank for the fat content of each item at mcdonalds
+cum_dist <- mutate(mcD, cume_dist(vector_fat))
+View(cum_dist)
+
+#lag of the fat vector (shows the previous fat value)
+lag_fat <- mutate(mcD, lag(vector_fat))
+View(lag_fat)
+
+#lead of the fat vector (shows the next fat value)
+lead_fat <- mutate(mcD, lead(vector_fat))
+View(lead_fat)
+```
+
+
+## Scatter Plots of Fat and Weight Content
+In the Scatter Plot of Fat vs Weight content, there appears to be a correlation between the two. Some restaurants, interestingly enough, have a certain range to their meals. Papa Murphy's menu items are especially concentrated around 10g to 20g of fat. One item that really caught my attention was how heavy one item from the McDonald's dessert item is at around 700g (a clear winner in terms of weight). Another interesting thing I found from this plot are how light some Burger King's breakfast items are, yet they contain a ton of fat (most in the 30-70 grams of fat range).
+
+```{r}
+inputPanel(
+  sliderInput("sFatMin", label = "Select Minimum Fat Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("sFatMax", label = "Select Maximum Fat Value",
+              min = 0, max = 95, value = 95, step = 5)
+)
+
+inputPanel(
+  sliderInput("sProMin", label = "Select Minimum Weight Value",
+              min = 0, max = 600, value = 0, step = 5),
+  sliderInput("sProMax", label = "Select Maximum Weight Value",
+              min = 0, max = 800, value = 800, step = 5)
+)
+
+renderPlot({ggplot(data = df) +
+  geom_point(mapping = aes(x = fat_g, y=weight_g, color = restaurant, shape = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$sFatMin, input$sFatMax) + 
+  xlim(input$sProMin, input$sProMax)
+})
+```
+
+One table calculation I thought may be really cool to see is the amount of fat over the amount of weight for an item. In other words, how much fat (g) is contained per gram of food. The table calculation is done below:
+
+```{r}
+names(df)
+fpw <- mutate(df, restaurant, food_item, fat_per_weight_g = fat_g/weight_g)
+View(fpw)
+```
+
+I then began to wonder if there are any items that have a fat to weight ratio of greater than 1, as that is really interesting. The results are shocking! See below:
+
+```{r}
+g_one <- filter(fpw, fat_per_weight_g > 1)
+View(g_one)
+```
+
+Burger King and Subway were the only restaurants to make the list. Burger King led the way with 12/16 items on the list and then subway with 4.
