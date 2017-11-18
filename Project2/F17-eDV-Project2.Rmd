@@ -1,0 +1,168 @@
+---
+title: "F17 eDV Project2"
+author: "Anna Kong"
+resource_files:
+- .Renviron
+- .Renviron
+output:
+  html_notebook:
+    code_folding: hide
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+require(data.world)
+knitr::opts_chunk$set(echo = TRUE)
+```
+  
+## **R Session Info**  
+```{r}
+sessionInfo()
+```
+
+```{r}
+#Connecting to data.world
+project <- "https://data.world/danielyangyiwen/fast-food-nutrition"
+data.world::set_config(cfg_env("DW_API"))
+df <- data.world::query(data.world::qry_sql("SELECT * FROM Fastfood_Data"), dataset = project)
+#regions = df %>% dplyr::distinct(region)
+#View(df)
+```
+
+
+# **Fat and Protein content in fast food restaurant menus - Anna Kong**
+
+## Boxplots of Fat and Protein Content
+As seen in the Boxplots of Fat and Protein Content, Denny's has the largest distribution of menu items with both very high and low protein content. On the other hand, Krispy Kreme's, which specializes almost exclusively in donuts, has the lowest protein content of all the restaurants, and a very small distribution. Likewise, Dunkin' Donuts also has a relatively narrow distribution. Interestingly, Papa Murphy's, which sells mostly pizza and pasta, has both very low fat and low protein content among its menu items.
+
+```{r}
+inputPanel(
+  sliderInput("boxplotMin", label = "Select Minimum Fat/Protein Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("boxplotMax", label = "Select Maximum Fat/Protein Value",
+              min = 0, max = 100, value = 100, step = 5)
+)
+
+#fat boxplot
+renderPlot({ggplot(data = df) +
+  geom_boxplot(mapping = aes(x=restaurant, y=fat_g)) + 
+  geom_point(mapping = aes(x = restaurant, y = fat_g, color = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$boxplotMin, input$boxplotMax) +
+  coord_flip()
+})
+  
+# protein boxplot  
+renderPlot({ggplot(data = df) +
+  geom_boxplot(mapping = aes(x=restaurant, y=protein_g)) + 
+  geom_point(mapping = aes(x = restaurant, y = protein_g, color = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$boxplotMin, input$boxplotMax) +
+  coord_flip()
+})
+```
+
+## Histograms of Fat and Protein Content
+In the Histograms, you can see which restaurant menus, with all their items added up, have the highest aggregate protein and fat contents. Denny's has the most by far, likely because it has a larger amount of menu items as well as large portion sizes of foods high in protein and fat content.
+
+```{r}
+inputPanel(
+  sliderInput("histMax", label = "Select Maximum Fat/Protein Value",
+              min = 0, max = 5000, value = 5000, step = 100)
+)
+
+renderPlot({ggplot(data = df) +
+  geom_histogram(stat = "identity", mapping = aes(x=restaurant, y= fat_g, fill = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(0, input$histMax) +
+  coord_flip()
+})
+```
+```{r}
+renderPlot({ggplot(data = df) +
+  geom_histogram(stat = "identity", mapping = aes(x=restaurant, y=protein_g, fill = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(0, input$histMax) +
+  coord_flip()
+})
+```
+
+## Scatter Plots of Fat and Protein Content
+In the Scatter Plot of Fat vs Protein content, there appears to be a slight correlation between the two, especially among certain restaurants. While Denny's has a spread out distrubution across the graph, Pizza Hut and Wendy's distribution almost looks linear, likely due to the ingredients of their menu items. Portion size is also likely a contributor this correlation as well. Again, interestingly, Papa Murphy's menu items are especially concentrated around 10g to 20g of protein and fat.
+
+```{r}
+inputPanel(
+  sliderInput("sFatMin", label = "Select Minimum Fat Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("sFatMax", label = "Select Maximum Fat Value",
+              min = 0, max = 95, value = 95, step = 5)
+)
+
+inputPanel(
+  sliderInput("sProMin", label = "Select Minimum Protein Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("sProMax", label = "Select Maximum Protein Value",
+              min = 0, max = 95, value = 95, step = 5)
+)
+
+renderPlot({ggplot(data = df) +
+  geom_point(mapping = aes(x = protein_g, y=fat_g, color = restaurant, shape = meal_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$sFatMin, input$sFatMax) + 
+  xlim(input$sProMin, input$sProMax)
+})
+```
+
+# Calories and Nutrition in Fast Food restaurant menus - Daniel Yang
+
+## **Calories for each restaurant (Boxplot)**
+Here shows the vast array of ranges of calories for each restaurant and it's outliers. Denny's reigns supreme with the highest calories as a restaurant possibly indicating larger portions for each dish they serve.
+
+```{r}
+renderPlot({
+boxplot(calories~restaurant, data = df, main = "Calories for Restaurant Items", xlab = "Restaurant", ylab = "Calories")
+})
+```
+
+## **Calories from Fat vs Calories for each item (Scatterplot)**
+Here is not a clear trend but there is a significant % of calories from fat with lower calorie items. This indicates that those types of foods/items are very fatty and possibly not good for a healthy diet/lifestyle. Generally food falls in the 40-60 calories from fat and ranging from 0 to 1500 calorie for a food item. In the end, Denny's seems to have large portions in terms of calories but is also heavy in proteins and other nutritional values that can be detrimental for one's health but may feed the soul meaning it tastes really good!
+
+```{r}
+renderPlot({
+ggplot(df, aes(calories, cals_from_fat)) + geom_point(aes(colour = cut(cals_from_fat,c(-Inf,40,45,Inf))), size = 5, shape = 1) + 
+  scale_color_manual(name = "cals_from_fat",values = c("(-Inf,40]" = "green",
+                                                       "(40,45]" = "grey",
+                                                       "(45, Inf]" = "red"),
+                     labels = c("<= 40", "40 < cals_from_fat <= 45", "> 58"))
+})
+```
+
+## **Nutrition Bar total values for meal types**
+What is interesting that almost every single breakfast food for all the restaurants have a large amount of calories and cholesterol. Though breakfast foods do taste very good, it is most likely not recommended for a healthy diet/lifestyle. It beats the average calorie count for all the restaurants and the average calorie count for individual restaurant. Cholesterol is much the same.
+
+```{r}
+renderPlot({
+ggplot(df, aes(x=restaurant, y=calories, fill=meal_type)) + geom_bar(stat = "identity", position=position_dodge())
+})
+```
+```{r}
+renderPlot({
+ggplot(df, aes(x=restaurant, y=fiber_g, fill=meal_type)) + geom_bar(stat = "identity", position=position_dodge())
+})
+```
+```{r}
+renderPlot({
+ggplot(df, aes(x=restaurant, y=cholesterol_mg, fill=meal_type)) + geom_bar(stat = "identity", position=position_dodge())
+})
+```
+```{r}
+renderPlot({
+ggplot(df, aes(x=restaurant, y=protein_g, fill=meal_type)) + geom_bar(stat = "identity", position=position_dodge())
+})
+```
+
+

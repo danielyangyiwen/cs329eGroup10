@@ -1,0 +1,328 @@
+---
+title: "F17 eDV Project3"
+author: 'Group 10: Nikhil Bhargava, Anna Kong, Daniel Yang'
+resource_files:
+- .Renviron
+output:
+  html_notebook:
+    code_folding: hide
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+require(data.world)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **R Session Info**  
+
+```{r}
+sessionInfo()
+```
+
+```{r}
+#Connecting to data.world
+project <- "https://data.world/danielyangyiwen/f-17-edv-project-3"
+data.world::set_config(cfg_env("DW_API"))
+df <- data.world::query(data.world::qry_sql("SELECT * FROM Fastfood_Data"), dataset = project)
+df2 <- data.world::query(data.world::qry_sql("SELECT * FROM FastfoodData2"), dataset = project)
+inspectionData <- data.world::query(data.world::qry_sql("SELECT * FROM austin_food_inspection_QueryResult"), dataset = project)
+joinedData <- data.world::query(data.world::qry_sql("SELECT * FROM FastfoodData2 join austin_food_inspection_QueryResult ON FastfoodData2.restaurant = austin_food_inspection_QueryResult.restaurant_name_shortened"), dataset = project)
+#regions = df %>% dplyr::distinct(region)
+#View(df)
+#View(df2)
+#View(joinedData)
+#View(inspectionData)
+```
+
+## **Link to Data.world project**  
+###[Project 3 Group 10 Data.world Link](https://data.world/danielyangyiwen/f-17-edv-project-3 "F17 eDV Project 3 Data.world")
+
+
+
+
+
+## **Nikhil's Visualizations and Findings on Fast Food Nutrition Data** 
+
+
+
+### **Fat vs. Protein, is it correlated?**
+
+#### [Insight Link: Tableau and R Scatterplots on Fat and Protein](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/3950010c-d351-474a-8075-36d93d337841)
+
+Playing around with scatter plots, I noticed that it seemed as though Fat vs. Protein looked relatively correlated. This was interesting to me as I did not expect these two categories to be highly correlated as one usually tries to avoid fat when eating protein.
+
+```{r}
+require(ggplot2)
+
+inputPanel(
+  sliderInput("sFatMin", label = "Select Minimum Fat Value",
+              min = 0, max = 100, value = 0, step = 10),
+  sliderInput("sFatMax", label = "Select Maximum Fat Value",
+              min = 0, max = 100, value = 100, step = 10)
+)
+
+inputPanel(
+  sliderInput("sProMin", label = "Select Minimum Protein Value",
+              min = 0, max = 100, value = 0, step = 10),
+  sliderInput("sProMax", label = "Select Maximum Protein Value",
+              min = 0, max = 100, value = 100, step = 10)
+)
+
+renderPlot({ggplot(data = df) +
+  geom_point(mapping = aes(x = protein_g, y=fat_g, color = meal_type, shape = restaurant)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$sFatMin, input$sFatMax) + 
+  xlim(input$sProMin, input$sProMax) + scale_shape_manual(values = 0:13)
+})
+
+renderPlot({ggplot(data =df, aes(x=protein_g, y=fat_g)) +
+    geom_point(shape=1) +
+    geom_smooth(method=lm,se=FALSE)
+})
+fit1 = lm(fat_g~protein_g, data = df)
+fit1
+summary(fit1)
+```
+
+The R squared value for these two nutrition facts was determined to be 0.4164. Although the R squared value is not very close to 1, it is still pretty correlated for such a large data sample. It is worth noting, however, that this correlation is based off of fast food data and is probably why these two categories are this highly correlated.
+
+
+
+### **What two (fast food) nutrition facts are most correlated?**
+
+#### [Insight Link: Tableau and R Scatterplots on the Correlation of Nutritional Values](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/bcae5e77-4e4f-4953-90c6-8c289130f46f)
+
+In the Histograms, you can see which restaurant menus, with all their items added up, have the highest aggregate protein and fat contents. Denny's has the most by far, likely because it has a larger amount of menu items as well as large portion sizes of foods high in protein and fat content.
+
+```{r}
+require(dplyr)
+summary(df)
+attach(df)
+sdf = dplyr::select(df, weight_g, calories, carbs_g, fiber_g, protein_g, fat_g, cals_from_fat,trans_fat_g, cholesterol_mg, sodium_mg)
+
+renderPlot({pairs(sdf)})
+
+renderPlot({ggplot(data =df, aes(x=calories, y=fat_g)) +
+    geom_point(shape=1) +
+    geom_smooth(method=lm,se=FALSE)
+})
+fit2 = lm(fat_g~calories, data = df)
+fit2
+summary(fit2)
+
+renderPlot({ggplot(data =df, aes(x=calories, y=fat_g)) +
+    geom_point(shape=1) +
+    geom_smooth(method=lm,se=FALSE) + facet_wrap(~ restaurant, nrow = 3)
+})
+```
+
+An R^2 value .784 is extremely correlated for our data set. This means that for fast food data, calories are heavily correlated with fat content which makes sense.
+
+The facet wrap visualization shows the linear correlation for the same two factors split by restaurant.
+
+This correlation is strongest in the food served by Pizza Hut with an R^2 value of 0.875, which is significantly higher than the average. Surprisingly, at Dunkin' Donuts, the two features are not that correlated with an R^2 of only .420.
+
+
+
+### **Why are calories from fat and fat not more correlated?**
+
+#### [Insight Link: Tableau and R Plots on Fat from Calories and Fat](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/548653ef-5d18-4c22-b1c3-939594023942)
+
+When playing around with correlations, I noticed something very strange. I was expecting calories from fat and fat to have a very direct and strong correlation, however when I created the linear regression it was not. The figure is shown below:
+
+```{r}
+renderPlot({ggplot(data =df, aes(x=cals_from_fat, y=fat_g)) +
+    geom_point(shape=1) +
+    geom_smooth(method=lm,se=FALSE)
+})
+fit3 = lm(fat_g~cals_from_fat, data = df)
+fit3
+summary(fit3)
+
+renderPlot({ggplot(data =df, aes(x=cals_from_fat, y=fat_g)) +
+    geom_point(shape=1) +
+    geom_smooth(method=lm,se=FALSE) + facet_wrap(~ restaurant, nrow = 3)
+})
+```
+
+There seems to be many outliers in this data set which is very interesting. The R^2 value of this regression is a measly 0.2114, which would suggest not a high degree of correlation. One would think that calories from fat would have a direct correlation with fat. To investigate further, I created this same chart, except facet wrapped, to see if there was certain data that was causing this linear fit to be so skewed.
+
+Denny's, Krispy Kreme, Papa John's, Taco Bell and Wendy's had notable results, as they all had R^2 values of less than 2, which heavily skewed the data. The R^2 value of this graph improved to about 0.275 without these restaurants, yet is still very low and unusual.
+
+
+
+### **Tableau Visualization Insights on Heaviest Foods and Fast Food HQ Locations** 
+
+#### [Insight Link: Heaviest Foods](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/21965c16-ca72-49d9-8b39-56368703cb3e)
+
+Examining the average weight of different types of Fast Food Menu items.
+
+#### [Insight Link: Geographic information on fast food restaurants](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/f7bab131-d2f6-4777-9ae1-7443e14d00de)
+
+Joining new location data and mapping Fast Food Restaurant HQ locations with Revenue. A look into the business side of Fast Food.
+
+_________________________
+
+
+
+## **Anna's Visualizations and Findings on Fast Food Restaurant Ratings, Inspection Scores, and Stock Value** 
+
+
+### **Cholesterol Content - Packed Bubbles**
+
+#### [Insight Link: Tableau Packed Bubbles plot of Cholesterol Content ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/1c10ff06-0c33-4131-8312-231ce6c03b3a)
+
+In this packed bubbles plot made in Tableau, you can page through various fat food restaurants to see a visual representation of their cholesterol content related to the size of the bubbles. The highest levels of Cholesterol are concentrated in Breakfast items, especially with Denny's. On the other hand, Taco Bell and Papa Murphy's have relatively low levels of cholesterol among their entree menu items.
+
+
+
+### **Finding and Joining new Data**
+
+#### [Insight Link: Joining New Data ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/f0c6db97-b1ee-4d7c-8145-02f1a9e887fd)
+
+We spent some time finding and compiling a new dataset with business data on the Fast Food Restaurants and joined the data in tableau. We joined this in Tableau as well with an SQL Query in the project files.
+
+#### [Insight Link: SQL Queries ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/3364f5b1-bbd9-44aa-bc6d-9bc2b6c0794e)
+
+We found a dataset on Austin Food Inspection scores. We used an SQL Query to find the names of the restaurants that match the ones in our Fast Food Dataset, then changed the names to match exactly so that the two would be joinable / blendable.
+
+
+
+### **Inspection Scores, Ratings, and Business of Fast Food**
+
+#### [Insight Link: Exploring Inspection Scores, Yelp Ratings, and Stock value of Fast Food Chains ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/70e050bd-8fee-4342-9c91-9a350d49a516)
+
+I Blended data from the SQL Query of Austin Restaurant Inspection Scores with our set of joined Fast Food Data. I then created a histogram, crosstab, and boxplot in Tableau to visualize comparisons between each restaurant's inspection scores, Yelp ratings, and stock values. 
+
+
+
+### **Restaurant Ratings, Scores, and Values Visualized in R**
+
+#### [Insight Link: R Visualizations of Restaurant Ratings and Scores ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/fb985f39-2ad4-4c42-8800-e6f61cea2e14)
+
+
+First, I joined the Inspection Dataset with FastFoodData2 with the following SQL Query:
+
+"joinedData <- data.world::query(data.world::qry_sql("SELECT * FROM FastfoodData2 join austin_food_inspection_QueryResult ON FastfoodData2.restaurant = austin_food_inspection_QueryResult.restaurant_name_shortened"), dataset = project)
+"
+
+#### **Boxplot**
+
+This Boxplot Maps Inspection Score Against Yelp Rating
+
+```{r}
+inputPanel(
+  sliderInput("boxplotMin", label = "Select Minimum Inspection Score",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("boxplotMax", label = "Select Maximum Inspection Score",
+              min = 0, max = 100, value = 100, step = 5)
+)
+
+
+renderPlot({ggplot(data = joinedData) +
+  geom_boxplot(mapping = aes(x=restaurant_name_shortened, y=score)) + 
+  geom_point(mapping = aes(x = restaurant_name_shortened, y = score, color = avg_yelp_rating)) +
+  #theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$boxplotMin, input$boxplotMax) +
+  coord_flip()
+})
+```
+#### **Histogram**
+This Histogram maps Inspection Score and shows the frequency of each Score Level. It is also colored by restaurant, showing the distribution of scores amongts various Fast Food Establishments.
+
+```{r}
+inputPanel(
+  sliderInput("histMin", label = "Select Minimum Inspection Score",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("histMax", label = "Select Maximum Inspection Score",
+              min = 0, max = 100, value = 100, step = 5)
+)
+
+renderPlot({ggplot(data = joinedData) +
+  geom_histogram(mapping = aes(x=score, fill = restaurant)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  xlim(input$histMin, input$histMax)
+})
+```
+#### **Findings**
+It appears that the company brand and value of fast food restaurants have little to do with the Ratings and Inspection scores of individual restaurant locations across Austin.
+
+_________________________
+
+## **Daniel's Visualizations and Findings on Fast Food Nutrition Data** 
+
+
+### **Saltiest Restaurants and Food Types**
+
+#### [Insight Link: Tableau BarChart of Sodium Content ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/38fca4aa-a977-4496-b86b-f248f7ea0e48)
+
+I wanted to see which restaurant and the various meal types were the saltiest haha. What I found was that Arby's had the highest average sodium count compared to the other Restaurants. Surprisingly, KFC and McDonald's were less than the whole average of all the Restaurants.
+
+
+### **Fattiest Restaurants**
+
+#### [Insight Link: Tableau Pie charts of Fat Content ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/4630bd5a-a752-43bc-852f-abf0b1184845)
+
+Comparing Saturated Fat, Fat, and Trans Fat levels between Fast Food Restaurants in a set of 3 pie charts.
+
+
+### **Meal Type Counts for Restaurants**
+
+#### [Insight Link: Tableau Histogram on Restaurant Meal Type Ratios ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/6741974c-52ba-4a53-85a3-803fb8cce8cb)
+
+This histogram shows the counted distribution of different meal types for each restaurant. Entrees dominate most of the number of meal types. The histogram is labled with the calculated field of % of amount of the meal type of the total count of meal types for each restaurant. It is also labeled with the calculated field of sum of calories for each meal type of each restaurant.
+
+
+### **Cholesterol and Meal Types**
+
+#### [Insight Link: Tableau Treemap of Cholesterol and MealType ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/6741974c-52ba-4a53-85a3-803fb8cce8cb)
+
+Tree Map of different Restaurants displaying size as the sum of Cholesterol and color for average Cholesterol for each Meal Type
+
+
+_________________________
+
+
+## **Interesting Findings, Conclusions, and Thoughts**
+
+#### [Insight Link: Group 10's Interesting Findings, Thoughts and Conclusions ](https://data.world/danielyangyiwen/f-17-edv-project-3/insights/9b5cb3d4-c274-4605-a0fe-60b1be7b74e4)
+
+
+
+### **Thoughts From Nikhil on Fat, Protein, and Calories from fat**
+
+  Playing around with scatter plots of Fat and Protein, I noticed that it seemed as though Fat vs. Protein looked relatively correlated. This was interesting to me as I did not expect these two categories to be highly correlated as one usually tries to avoid fat when eating protein.
+  
+  When playing around with correlations, I noticed something very strange. I was expecting calories from fat and fat to have a very direct and strong correlation, however when I created the linear regression it was not, as shown in "Why are calories from fat and fat not more correlated?" There seems to be many outliers in this data set which is very interesting. The R^2 value of this regression is a measly 0.2114, which would suggest not a high degree of correlation. One would think that calories from fat would have a direct correlation with fat. To investigate further, I created this same chart, except facet wrapped, to see if there was certain data that was causing this linear fit to be so skewed.
+
+Denny's, Krispy Kreme, Papa John's, Taco Bell and Wendy's had notable results, as they all had R^2 values of less than 2, which heavily skewed the data. The R^2 value of this graph improved to about 0.275 without these restaurants, yet is still very low and unusual.
+
+### **Thoughts From Anna on Fast Food restaurant ratings, stock values, and inspection scores**
+
+
+  Considering how Fast Food Restaurant Ratings, Stock Values, and Inspection scores had little correllation between them, It is possible that the performance of each restaurant depends more on its manager and staff than the performance of its parent company. Since these are big franchises that are managed by individuals, it might be worth looking into data on each restaurant's employees.
+
+  It is also noteworthy to consider that most people would not go on Yelp to give a positive review of a Fast Food Restaurant Chain. It is more likely that those who have had a particularly bad experience will use Yelp to vent their frustrations to the public. People generally have certain expectations for Fast Food Restaurants, most of all that the items they order will taste the same among all establishments of the brand name. It's likely someone would only leave a positive review if they had an especially good experience with the service, which is rare in the Fast Food Industry since employees are usually working for minimum wage not expecting tips. This might be a contributing factor to the all-around low Yelp Ratings.
+  
+  Another Factor to keep in mind, is that establishments of a fast food franchise are extremely uniform with clearly defined standards and procedures. This might be a reason why all the Insepction Scores were generally high, since these establishents are designedto run efficiently and safely.
+
+ 
+### **Interesting conclusions From Daniel on fat and sodium contents**
+
+It was interesting to see in the "Fatty Circles of Different Restaurants" that Kentucky Fried Chicken had relatively low fat content across its menu, considering how their main item is deep fried in fat. 
+
+On another unhealthy topic, In the bargraphs of "Sodium of restaurants and their various Food Types"", it was surprising to see that KFC and McDonald's were less than the whole average of all the Restaurants. Taco Bell's salads also contained an astonishingly high level of sodium, suggesting that they might be more loaded with seasonings, cheeses, and meat, rather than the leafy greens you might need in your diet.
+
+
+
+
+
+
+
+
+
