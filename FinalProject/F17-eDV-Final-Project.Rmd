@@ -1,0 +1,53 @@
+---
+title: "F17-eDV-Final-Project: InstaCart and Nutritional Data"
+author: "Group 10: Nikhil Bhargava, Anna Kong, Daniel Yang"
+resource_files:
+- .Renviron
+output:
+  html_notebook:
+    code_folding: hide
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+require(data.world)
+knitr::opts_chunk$set(echo = TRUE)
+```
+## **R Session Info**  
+
+```{r}
+sessionInfo()
+```
+
+## Link to Data.World project
+###[Project 5 Group 10 Data.world Link](https://data.world/nikhilbhargava/f-17-edv-project-5)
+
+```{r}
+#Connecting to data.world
+project <- "https://data.world/nikhilbhargava/f-17-edv-project-5"
+data.world::set_config(cfg_env("DW_API"))
+```
+
+## **Daniel Yang's Insights**
+
+###Most popular Products
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Mostpopularproductsalltime?publish=yes"/>
+
+###Distinct users throughout the day
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Distinctusersthroughtheday?publish=yes"/>
+
+###Number of Products for each Department and Aisle
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/ofproductsforeachdeptandaisle?publish=yes"/>
+
+###Sugar vs Total Carbs
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/CorrelationTotalCarbsandSugars?publish=yes"/>
+
+
+## **Anna Kong's Insights**
+
+
+## **Nikhil Bhargava's Insights**
