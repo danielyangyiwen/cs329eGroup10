@@ -4,8 +4,8 @@ author: "Group 10: Nikhil Bhargava, Anna Kong, Daniel Yang"
 resource_files:
 - .Renviron
 output:
-  html_notebook:
-    code_folding: hide
+  html_document:
+    code_folding: show
     toc: yes
     toc_depth: 4
     toc_float: yes
@@ -15,8 +15,10 @@ runtime: shiny
 ```{r setup, include=FALSE}
 library(tidyverse)
 require(data.world)
+require(dplyr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 ## **R Session Info**  
 
 ```{r}
@@ -31,6 +33,90 @@ sessionInfo()
 project <- "https://data.world/nikhilbhargava/f-17-edv-project-5"
 data.world::set_config(cfg_env("DW_API"))
 ```
+
+_________________________
+
+## **Step 1: Input(CSV)** 
+
+###Starting with "Dirty" Data
+
+We began in Project 1 by downloading a data set on fast food nutritional data. Initially, the data was riddled with special characters, blank spaces, and unfriendly formatting. 
+
+Below is the code for the data input from the CSV file.
+```{r}
+dfDirty <- (read_csv("f-17-edv-project-5-final.csv", col_types = cols(
+  `calcium` = col_number(),
+  `calories` = col_number(),
+  `Caloriesfrom_Fat` = col_number(),
+  `chole-sterol_1` = col_number(),
+  `chole-sterol` = col_number(),
+  `dietary_fiber_1` = col_number(),
+  `dietary_fiber` = col_number(),
+  `food_type` = col_character(),
+  `food_and_serving` = col_character(),
+  `number_of_records` = col_number(),
+  `potassium_1` = col_number(),
+  `potassium` = col_number(),
+  `protein` = col_number(),
+  `saturated_fat_1` = col_character(),
+  `saturated_fat` = col_character(),
+  `serving_size` = col_character(),
+  `sodium_1` = col_number(),
+  `sodium` = col_number(),
+  `sugars` = col_number(),
+  `total_carbo_hydrate_1` = col_number(),
+  `total_carbo_hydrate` = col_number(),
+  `total_fat_1` = col_number(),
+  `total_fat` = col_number(),
+  `vitamin_a` = col_number(),
+  `vitamin_c` = col_number(),
+  `add_to_cart_order` = col_number(),
+  `aisle` = col_character(),
+  `aisle_id_asiles_csv` = col_number(),
+  `aisle_id` = col_number(),
+  `days_since_prior_order` = col_number(),
+  `department` = col_character(),
+  `department_id_departments_csv` = col_number(),
+  `department_id` = col_number(),
+  `eval_set` = col_character(),
+  `order_dow` = col_number(),
+  `order_hour_of_day` = col_number(),
+  `order_id_orders_reduced_csv` = col_number(),
+  `order_id` = col_number(),
+  `order_number` = col_number(),
+  `product_id_order_products_train_reduced_csv` = col_number(),
+  `product_id` = col_number(),
+  `product_name` = col_character(),
+  `reordered` = col_logical(),
+  `user_id` = col_number(),
+  `iron` = col_number()
+)))
+```
+
+_________________________
+
+
+## **Step 2: Clean**
+###Cleaning the dataset: R code, replacing special characters
+
+```{r}
+for(n in names(dfDirty)){
+  dfDirty[n] <- lapply(dfDirty[n], gsub, pattern="[^ -~]",replacement = "")
+}
+```
+
+_________________________
+
+
+## **Step 3: Export**
+### Exporting the cleaned CSV to to computer
+```{r}
+dfClean <- dfDirty
+write_csv(dfClean, "cleanFinalData.csv")
+```
+
+_________________________
+
 
 ## **Daniel Yang's Insights**
 
