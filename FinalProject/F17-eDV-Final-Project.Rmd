@@ -40,7 +40,7 @@ _________________________
 
 ###Starting with "Dirty" Data
 
-We began in Project 1 by downloading a data set on fast food nutritional data. Initially, the data was riddled with special characters, blank spaces, and unfriendly formatting. 
+We began in Project 5 by downloading a data set from instacart and nutritional fact data. Initially, the data was riddled with special characters, blank spaces, and unfriendly formatting. 
 
 Below is the code for the data input from the CSV file.
 ```{r}
