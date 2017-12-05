@@ -114,26 +114,26 @@ _________________________
 ## **Daniel Yang's Insights**
 
 ###Most popular Products
-#### [Insight Link: Most popular prodcuts](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d32e288e-b194-458f-9bfa-2c2fb80a049a)
+
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Mostpopularproductsalltime?publish=yes"/>
 
 ###Distinct users throughout the day
-#### [Insight Link: Distinct users throughout a day and from department was ordered](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/b6fb6098-271b-4701-855c-408a2cd355c7)
+
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Distinctusersthroughtheday?publish=yes"/>
 
 ###Number of Products for each Department and Aisle
-#### [Insight Link: Number of Products for each Department and Aisle](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/7ba96095-d29f-41a1-ad07-e7b5687cc01f)
+
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/ofproductsforeachdeptandaisle?publish=yes"/>
 
 ###Sugar vs Total Carbs
-#### [Insight Link: Sugar vs. Total Carbohydrates](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d7d0ba68-8c58-4744-87f8-3f1fe538bf35)
+
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/CorrelationTotalCarbsandSugars?publish=yes"/>
 
 ## **Anna Kong's Insights**
 
 ### **Cleaning our Nutitional Data** 
 
-#### [Insight Link: Cleaning Nutritional Data](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/f4c8ed41-a443-4d43-889a-d41a3d6114b4)
+
 
 
 The Nutritional Data we found had some issues with its column names and text format, so we had to do some cleaning before working with it.

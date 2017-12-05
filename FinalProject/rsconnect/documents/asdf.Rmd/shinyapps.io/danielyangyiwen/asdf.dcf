@@ -1,0 +1,12 @@
+name: asdf
+title: asdf
+username:
+account: danielyangyiwen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 244453
+bundleId: 1115996
+url: https://danielyangyiwen.shinyapps.io/asdf/
+when: 1512459472.25072
+asMultiple: FALSE
+asStatic: FALSE
