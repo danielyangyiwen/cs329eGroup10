@@ -11,12 +11,13 @@ output:
     toc_float: yes
 runtime: shiny
 ---
-rm(list=ls())
+
 ```{r setup, include=FALSE}
 library(tidyverse)
 require(data.world)
 require(dplyr)
 knitr::opts_chunk$set(echo = TRUE)
+#rm(list=ls())
 ```
 
 ## **R Session Info**  
@@ -99,10 +100,7 @@ dfDirty <- (read_csv("f-17-edv-project-5-final.csv", col_types = cols(
 ```{r}
 # Cleaning up special characters
 for(n in names(dfDirty)) {
-  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~Ã]", replacement= ""))
-  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="ServingSize", replacement= "Serving Size"))
-  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="eweight", replacement= "e weight"))
-  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="mweight", replacement= "m weight"))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~]", replacement= ""))
 }
 ```
 
@@ -181,7 +179,7 @@ We clean up the dataset's column names.
 ```{r}
 # Cleaning up special characters
 for(n in names(dfDirty)) {
-  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~Ã]", replacement= ""))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~]", replacement= ""))
   dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="ServingSize", replacement= "Serving Size"))
   dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="eweight", replacement= "e weight"))
   dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="mweight", replacement= "m weight"))
