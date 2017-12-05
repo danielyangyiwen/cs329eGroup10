@@ -97,8 +97,12 @@ dfDirty <- (read_csv("f-17-edv-project-5-final.csv", col_types = cols(
 ###Cleaning the dataset: R code, replacing special characters
 
 ```{r}
-for(n in names(dfDirty)){
-  dfDirty[n] <- lapply(dfDirty[n], gsub, pattern="[^ -~]",replacement = "")
+# Cleaning up special characters
+for(n in names(dfDirty)) {
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~Ã]", replacement= ""))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="ServingSize", replacement= "Serving Size"))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="eweight", replacement= "e weight"))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="mweight", replacement= "m weight"))
 }
 ```
 
