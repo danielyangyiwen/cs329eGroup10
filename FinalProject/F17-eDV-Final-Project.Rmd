@@ -178,7 +178,11 @@ We clean up the dataset's column names.
 # Cleaning up special characters
 for(n in names(dfDirty)) {
   dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="[^ -~Ã]", replacement= ""))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="ServingSize", replacement= "Serving Size"))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="eweight", replacement= "e weight"))
+  dfDirty[n] <- data.frame(lapply(dfDirty[n], gsub, pattern="mweight", replacement= "m weight"))
 }
+
 
 # Cleaning up column names
 colnames(dfDirty) <- gsub(pattern = "sae", replacement = "s_", colnames(dfDirty))
