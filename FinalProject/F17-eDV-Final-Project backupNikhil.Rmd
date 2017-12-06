@@ -258,7 +258,7 @@ Both the produce and dairy eggs department are the dominant reordered department
 
 At this point, it would also be necessary to understand our reordered item data on a per aisle basis. This can be seen below:
 
-![Top Reordered Aisles](Top_reordered_items_by aisle.png)
+![Top Reordered Aisles](Top_reordered_items_by_aisle.png)
 
 Unsurprisingly, aisles that are in the produce and dairy eggs department are the most reordered aisles. However, it is interesting to see such a mixture of aisles by department after the first six aisles. This may suggest that there is a pretty even distribution of reordered items outside of the aisles that are contained in the two dominant departments.
 
