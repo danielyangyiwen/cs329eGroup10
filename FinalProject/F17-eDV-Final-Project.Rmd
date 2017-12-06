@@ -36,6 +36,27 @@ df <- data.world::query(data.world::qry_sql("SELECT * FROM f_17_edv_project_5_fi
 
 dfNutrition <- data.world::query(data.world::qry_sql("SELECT * FROM cleanNutritionData"), dataset = project)
 
+dfFreshFrozen <- data.world::query(data.world::qry_sql("WITH
+    temp AS (SELECT * FROM f_17_edv_project_5_finaljoined
+    WHERE aisle like '%frozen produce%'
+    OR (aisle LIKE '%fresh%'
+        AND aisle NOT LIKE '%fresheners%'
+        AND aisle NOT LIKE '%dips%'
+        AND aisle NOT LIKE '%pasta%'
+        )
+    ),
+    
+    produceData AS (SELECT department, aisle, product_name, count(product_name) as num_orders, avg(order_hour_of_day) as avg_order_hour, CASE
+    when department = 'produce' then 'fresh produce'
+    when department = 'frozen' then 'frozen produce'
+    else department
+    end category
+    from temp
+    GROUP BY product_name)
+
+    
+select * from produceData"), dataset = project)
+
 require(ggplot2)
 require(shiny)
 ```
@@ -330,9 +351,61 @@ At a glance, it's clear that among these fruits, vegetables, and seafoods, predo
 
 Avodado and Sweet Corn are not that surprising to see with a high percentage of calories from fat. However, it was interesting to find that Kiwis and Nectarines also had some fat!
 
+### Fresh vs Frozen Produce Orders on Instacart
+
+[Insight Link: Fresh vs Frozen Produce Orders on Instacart Fat](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/aaa3a6f8-5000-4129-8375-061660a8663b)
+
+Curious whether Instacart users preferred to order more Fresh or Frozen Produce, I wrote an SQL query to select products from the Frozen Produce and Fresh Vegetables/Fruits/Herbs departments and relevant data columns.
+
+![Frozen and Fresh Produce SQL Query](frozenFreshSQL.png)
+
+First, I ran a query to compare the count of distinct Fresh Produce items vs. the count of distinct Frozen Produce items. The Results were:
 
 
-dplyr crosstab
+Fresh Produce: 380 Distinct Items Ordered
+
+Frozen Produce: 64 Distinct Items Ordered
+
+Another query yielded the following results:
+
+
+Fresh Produce: 2,824 Orders
+
+Frozen Produce: 169 Orders
+
+At first, I was surprised to see  such a large discrepancy, but I realized there are many valid reasons for this large discrepancy. Frozen products last longer and do not need to be ordered as regularly and can be ordered in bulk. Fresh products may also just be more popular. Another likely possibility is that Instacart has a much smaller selection of Frozen Produce compared to Fresh Produce. We should keep these things in mind as we continue to examine the data.
+
+
+Below is a scatterplot of Produce orders on Instacart, based on total Number of Orders and Average Order Hour
+
+```{r}
+#View(dfFreshFrozen)
+inputPanel(
+  sliderInput("orderHourMin", label = "Select Minimum Order Hour",
+              min = 0, max = 24, value = 0, step = 1),
+  sliderInput("orderHourMax", label = "Select Maximum Order Hour",
+              min = 0, max = 24, value = 24, step = 1)
+)
+
+inputPanel(
+  sliderInput("orderNumMin", label = "Select Minimum Number of Orders",
+              min = 0, max = 160, value = 0, step = 5),
+  sliderInput("orderNumMax", label = "Select Maximum Number of Orders",
+              min = 0, max = 160, value =160, step = 5)
+)
+
+renderPlot({ggplot(data = dfFreshFrozen) +
+  geom_point(mapping = aes(x = avg_order_hour, y=num_orders, color = aisle, shape = category, size =1)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  labs(title = "Frozen and Fresh Produce: Number of Orders vs. Average Order Hour", x = "Average Order Hour", y = "Number of Orders") +
+    xlim(input$orderHourMin, input$orderHourMax) +
+    ylim(input$orderNumMin, input$orderNumMax) +
+    geom_text(aes(x = avg_order_hour, y = num_orders, label=ifelse(num_orders>input$orderNumMax*0.75,as.character(product_name),'')),hjust=0,vjust=0)
+})
+```
+It's interesting that Fresh Fruits are the most commonly ordered item, especially around 3pm. My guess is that would be about the time people start thinking about what to cook for dinner. Also, on Instacart's website, it says that they will deliver groceries "Within 2 hours". Around 3pm or after would be an optimal time for people at work to order, since they likely get home around when the groceries will arrive.
+
+What's more curious are the outliers: a large number of fresh fruit orders, especially bananas and strawberries. Among produce overall, fresh fruit have the highest number of orders, with fresh vegetables coming in next. Frozen produce are among the lowest. This makes sense as part of the appeal of Instacart is getting fresh groceries delivered. Frozen food can be bought in bulk, stored for long periods of time, and is generally less appealing. Bananas and strawberries are also very popular and common for healthy snacks and smoothies, so the rate of consumption and demand likely remains steadily high.
 
 ______________________________________
  
