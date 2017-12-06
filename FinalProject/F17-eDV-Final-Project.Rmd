@@ -28,8 +28,16 @@ sessionInfo()
 
 ```{r}
 #Connecting to data.world
+require(dplyr)
+require(data.world)
 project <- "https://data.world/nikhilbhargava/f-17-edv-project-5"
 data.world::set_config(cfg_env("DW_API"))
+df <- data.world::query(data.world::qry_sql("SELECT * FROM f_17_edv_project_5_finaljoined"), dataset = project)
+
+dfNutrition <- data.world::query(data.world::qry_sql("SELECT * FROM cleanNutritionData"), dataset = project)
+
+require(ggplot2)
+require(shiny)
 ```
 
 ## Link to Data.World project
@@ -112,7 +120,7 @@ write_csv(dfClean, "cleanFinalData.csv")
 
 ### **Cleaning our Nutitional Data** 
 
-#### [Insight Link: Cleaning Nutritional Data](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/f4c8ed41-a443-4d43-889a-d41a3d6114b4)
+[Insight Link: Cleaning Nutritional Data](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/f4c8ed41-a443-4d43-889a-d41a3d6114b4)
 
 
 The Nutritional Data we found had some issues with its column names and text format, so we had to do some cleaning before working with it.
@@ -181,9 +189,9 @@ write_csv(dfClean, "cleanNutritionData.csv")
 
 ## Data Model
 
-#### [Insight Link: Joining and reducing our data set: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/88190097-d6f5-4bee-aaec-4afe3a6d198d)
+[Insight Link: Joining and reducing our data set: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/88190097-d6f5-4bee-aaec-4afe3a6d198d)
 
-#### [Insight Link: Joining more (nutritional) data!: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/384eec66-af7f-44d6-8b94-9470ae68af5f)
+[Insight Link: Joining more (nutritional) data!: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/384eec66-af7f-44d6-8b94-9470ae68af5f)
 
 Our data set consists of five different CSV files, aisles, departments, order_products_train, orders and products. Since they are all related, it was necessary to create a data model to see how they could be joined together so that they could be used together. The following data model was created.
 
@@ -222,39 +230,79 @@ _________________________
 ## **Daniel Yang's Insights**
 
 ###Most popular Products
-#### [Insight Link: Most popular prodcuts](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d32e288e-b194-458f-9bfa-2c2fb80a049a)
+[Insight Link: Most popular prodcuts](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d32e288e-b194-458f-9bfa-2c2fb80a049a)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Mostpopularproductsalltime?publish=yes"/>
 
 ###Distinct users throughout the day
-#### [Insight Link: Distinct users throughout a day and from department was ordered](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/b6fb6098-271b-4701-855c-408a2cd355c7)
+[Insight Link: Distinct users throughout a day and from department was ordered](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/b6fb6098-271b-4701-855c-408a2cd355c7)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Distinctusersthroughtheday?publish=yes"/>
 
 ###Number of Products for each Department and Aisle
-#### [Insight Link: Number of Products for each Department and Aisle](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/7ba96095-d29f-41a1-ad07-e7b5687cc01f)
+[Insight Link: Number of Products for each Department and Aisle](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/7ba96095-d29f-41a1-ad07-e7b5687cc01f)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/ofproductsforeachdeptandaisle?publish=yes"/>
 
 ###Sugar vs Total Carbs
-#### [Insight Link: Sugar vs. Total Carbohydrates](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d7d0ba68-8c58-4744-87f8-3f1fe538bf35)
+[Insight Link: Sugar vs. Total Carbohydrates](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d7d0ba68-8c58-4744-87f8-3f1fe538bf35)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/CorrelationTotalCarbsandSugars?publish=yes"/>
 
 ###Department-Aisle Cross Tab
-#### [Insight Link: Dept-Aisle CrossTab](https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Dept-AisleCrossTab?publish=yes)
+[Insight Link: Dept-Aisle CrossTab](https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Dept-AisleCrossTab?publish=yes)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Dept-AisleCrossTab?publish=yes"/>
 
 ______________________________________
 
 ## **Anna Kong's Insights**
 
+### Iron Value Rankings Accross Various Fruits, Vegetables, and Seafoods
+
+[Insight Link: Iron Value Rankings Accross Various Fruits, Vegetables, and Seafoods](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/06a916a2-fff5-42fd-a25f-d727ee7afb51)
+
+Iron is a very important micromineral for human health, especially for women. At the 1990 World Summit for Children, iron deficiency was found to be one of the three most common issues posing public health risks. 
+
+I decided to look at the iron values in our Nutrition data set. I used dplyr to select the relevant data and dplyr::mutate to add a percentile_rank column for iron value. Below is a bar graph of foods and their Percent Daily Values of Iron per serving.
+
+```{r}
+dfIronRank <- dfNutrition %>% dplyr::select(food_and_serving, food_type, iron_dv) %>% dplyr::filter(!is.na(iron_dv)) %>% distinct %>% dplyr::mutate(iron_rank = percent_rank(iron_dv)) %>% dplyr::arrange(desc(iron_rank))
+
+inputPanel(
+  sliderInput("ironMax", label = "Select Maximum Iron % Daily Value",
+              min = 0, max = 50, value = 50, step =2)
+)
 
 
- 
+renderPlot({ggplot(data = dfIronRank) +
+  geom_bar(stat = "identity", mapping = aes(x = reorder(food_and_serving, iron_dv), y=iron_dv, fill = food_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  ylim(0, input$ironMax) +
+  labs(title = "Foods Arranged By Iron % Daily Value", x = "Food", y = "Iron % Daily Value")
+})
+```
+
+Below is a similar bar graph of the same foods and their Iron values ranked by percentile.
+
+```{r}
+inputPanel(
+  sliderInput("ironMaxRank", label = "Select Maximum Iron Value Ranking",
+              min = 0, max = 1, value = 1, step = 0.05)
+)
+
+renderPlot({ggplot(data = dfIronRank) +
+  geom_bar(stat = "identity", mapping = aes(x = reorder(food_and_serving, iron_rank), y=iron_rank, fill = food_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(0, input$ironMaxRank) +
+  labs(title = "Foods Arranged By Iron Value Ranking", x = "Food", y = "Iron Value Ranking")
+})
+```
+
+I was suprprised to learn that Oysters and Clams had much higher % Daily Value of iron per serving than the rest of the foods. I also found it very interesting that the Red colored fruits and vegetables (Red Potatoes, Watermelon, Sweet Potatoes, Tomatoes, Red Lettuce), tended to rank higher than the leafy greens. I had always thought greens like Spinach were the best for iron.
+
 ______________________________________
  
 ## **Nikhil Bhargava's Insights**
 
 ###Top Reordered Items
 
-#### [Insight Link: Exploratory Data Analysis | Top Reordered Items: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/8c790ebc-039e-4000-9c8f-d3bf542b5527)
+[Insight Link: Exploratory Data Analysis | Top Reordered Items: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/8c790ebc-039e-4000-9c8f-d3bf542b5527)
 
 While playing around with the data set, I wanted to know which items would be the most reordered. Using Tableau, I was able to visualize this by creating a bar chart of reordered items by produce id. First, in order to do this, a calculated field must be created. This was based off of the column reordered which was a boolean True/False. Every time an item was reordered (True), I wanted to create a numerical column of 1s and 0s to count the number of reordered items. The table calculation is shown below:
 
@@ -277,7 +325,7 @@ Unsurprisingly, aisles that are in the produce and dairy eggs department are the
 
 ###Number of products ordered by Hour
 
-#### [Insight Link: Number of orders by hour: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/5ca31782-246f-44da-97cd-c04c73589e6e)
+[Insight Link: Number of orders by hour: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/5ca31782-246f-44da-97cd-c04c73589e6e)
 
 In this insight we will be taking a look at a visualization of the number of orders Instacart receives during each hour of the day. The following chart was done in Tableau.
 
@@ -291,7 +339,7 @@ Although this chart looks almost identical to the one above it (which is extreme
 
 ###Average Days Since Prior Order by Department
 
-#### [Insight Link: Average Days Since Prior Order by Department: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/1660bd93-f318-4193-a28e-f75d9f34a88f)
+[Insight Link: Average Days Since Prior Order by Department: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/1660bd93-f318-4193-a28e-f75d9f34a88f)
 
 I thought it would be very interesting to see which departments are being reordered the most frequently.
 
@@ -301,20 +349,10 @@ Missing doesn't really give any interesting information although it is the most 
 
 ###Max Protein
 
-#### [Insight Link: Using SQL & DPLYR to understand our data | Protein: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/1f2b0b5a-39ea-40a5-8975-77ef65c619a8)
+[Insight Link: Using SQL & DPLYR to understand our data | Protein: ](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/1f2b0b5a-39ea-40a5-8975-77ef65c619a8)
 
 After creating a scatterplot of sodium vs. protein, I wanted to see which products had the most protein and what department and aisle they were in. I did this process using DPLYR in R. The code for this is shown below:
 
-```{r}
-require(dplyr)
-require(data.world)
-project <- "https://data.world/nikhilbhargava/f-17-edv-project-5"
-data.world::set_config(cfg_env("DW_API"))
-df <- data.world::query(data.world::qry_sql("SELECT * FROM f_17_edv_project_5_finaljoined"), dataset = project)
-
-require(ggplot2)
-require(shiny)
-```
 
 ```{r}
 require(dplyr)
@@ -336,12 +374,13 @@ Below is the respective SQL code:
 ![SQL Code](proteinsql.png)
 
 ###Sugar Box Plot
-#### [Insight Link: Sugar Box Plot](https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes)
+
+[Insight Link: Sugar Box Plot](https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes"/>
 
 ###Input Panel - Sodium vs. Protein
 
-#### [Insight Link: Correlation between protein and sodium?: ](hhttps://data.world/nikhilbhargava/f-17-edv-project-5/insights/4f2e5d77-2033-4307-beaf-2dd658f78b9b)
+[Insight Link: Correlation between protein and sodium?: ](hhttps://data.world/nikhilbhargava/f-17-edv-project-5/insights/4f2e5d77-2033-4307-beaf-2dd658f78b9b)
 
 ```{r}
 inputPanel(
