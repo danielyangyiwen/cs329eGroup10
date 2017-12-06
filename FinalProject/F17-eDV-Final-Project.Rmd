@@ -323,6 +323,35 @@ Below is the respective SQL code:
 #### [Insight Link: Sugar Box Plot](https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes"/>
 
+##Input Panel - Sodium vs. Protein
+
+```{r}
+attach(df)
+
+inputPanel(
+  sliderInput("sProMin", label = "Select Minimum Protein Value",
+              min = 0, max = 5, value = 0, step = 1),
+  sliderInput("sProMax", label = "Select Maximum Protein Value",
+              min = 0, max = 5, value = 5, step = 1)
+)
+
+inputPanel(
+  sliderInput("sSodMin", label = "Select Minimum Sodium Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("sSodMax", label = "Select Maximum Sodium Value",
+              min = 0, max = 100, value = 100, step = 5)
+)
+
+renderPlot({
+  ggplot(data = subset(df, !is.na(protein))) +
+  geom_point(mapping = aes(x = protein, y = sodium)) +
+  ylim(input$sProMin, input$sProMax) + 
+  xlim(input$sSodMin, input$sSodMax)
+  #xlim('0','3')
+})
+
+```
+
 ______________________________________
 
 ## **Interesting Findings/Summary**
