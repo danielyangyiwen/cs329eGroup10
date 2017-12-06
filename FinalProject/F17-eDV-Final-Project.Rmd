@@ -372,10 +372,22 @@ ______________________________________
 
 ### Daniel
 * Something interesting from the insights that I made was that people generally used Instacart to buy groceries, mostly produce, dairy and eggs. What was more intriguing was that snacks were among the more popular types of products that people ordered from instacart. This may be from the reason that snacks are easy to eat and require minimal preparation compared to cooking regular food. This sort of follows the relaxed or "lazy" trend with using instacart. Customers are not motivated enough to go to the grocery store themselves but instead use Instacart's services. Bananas were definitely the most common item ordered with Instacart.
+
 * Another finding was that there was a positive correlation between the amount of sugar and carbohydrates a product had. This data was mostly found from the produce and beverages departments. Essentially, products with high amounts of carbohydrates will likely come with high amounts of sugars which is not the healthiest option for a balanced diet.
+
 * Another trend was that people mostly used Instacart during the day which peaked at about 3pm. What was funny was that there was an order for pet products at 2am. This might be from an emergency that a customer had with a pet they owned. Produce, dairy, eggs, beverages, and snacks were the most common during the day though.
 
 ### Nikhil
+* Number of order by hour: I find it interesting that there is a lack of late night orders compared to the day time. I would think that this is the time people are more lazy and would want to use Instacart to get food. I found it interesting that the peak order time was 3pm as most people would probably still be at work during this time. The only explanation I had for this would be that people would want to order groceries and by the time they come home it was delivered. It was also very interesting how the number of distinct products ordered by hour vs the number of products ordered by hour was a relatively similar graph.
+
+*I found it surprising that the most frequently reordered item were baby supplies instead of produce. I also thought it was interesting how most departments were frequently reordered about the same amount (only about a 2 day difference. Household goods being reordered really surprised me.
+
+*It was interesting that broccoli had a higher protein count than red potatoes.
+
+*Unsurprisingly, aisles that are in the produce and dairy eggs department are the most reordered aisles. However, it is interesting to see such a mixture of aisles by department after the first six aisles. This may suggest that there is a pretty even distribution of reordered items outside of the aisles that are contained in the two dominant departments.
+
+*Bananas having the second most amount of sugar out of all the produce was interesting as I didn't think it contained very much.
+
 
 ### Anna
 
