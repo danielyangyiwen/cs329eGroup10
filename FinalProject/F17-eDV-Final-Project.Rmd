@@ -296,6 +296,44 @@ renderPlot({ggplot(data = dfIronRank) +
 
 I was suprprised to learn that Oysters and Clams had much higher % Daily Value of iron per serving than the rest of the foods. I also found it very interesting that the Red colored fruits and vegetables (Red Potatoes, Watermelon, Sweet Potatoes, Tomatoes, Red Lettuce), tended to rank higher than the leafy greens. I had always thought greens like Spinach were the best for iron.
 
+### Percentage of Calories From Fat
+
+[Insight Link: Percentage of Calories From Fat](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/6554cd0e-7574-4b05-82d4-a9f4f5af4d1d)
+
+I decided to look at which foods had the highest percentage of calories from fat. I did a simple calculation and added the percentage column to a data frame with dplyr::mutate
+
+Below is a bar graph of foods and their % Calories from Fat
+
+```{r}
+dfFatCal <- dfNutrition %>% dplyr::select(food_and_serving, food_type, calories, calories_from_fat) %>% dplyr::filter(!is.na(calories)) %>% distinct %>% dplyr::mutate(fatCalPercent = calories_from_fat/calories) %>% dplyr::arrange(desc(fatCalPercent))
+
+renderPlot({ggplot(data = dfFatCal) +
+  geom_bar(stat = "identity", mapping = aes(x = reorder(food_and_serving, fatCalPercent), y=fatCalPercent, fill = food_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  labs(title = "Foods Arranged By Percentage of Calories from Fat", x = "Food", y = "% Calories From Fat")
+})
+```
+
+Below is the same graph, but with zero value items trimmed from the data.
+
+```{r}
+dfFatCalTrimmed <- dfFatCal %>% dplyr::select(everything()) %>% dplyr::filter(fatCalPercent > 0)
+
+renderPlot({ggplot(data = dfFatCalTrimmed) +
+  geom_bar(stat = "identity", mapping = aes(x = reorder(food_and_serving, fatCalPercent), y=fatCalPercent, fill = food_type)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  labs(title = "Foods Arranged By Percentage of Calories from Fat (Trimmed)", x = "Food", y = "% Calories From Fat")
+})
+```
+
+At a glance, it's clear that among these fruits, vegetables, and seafoods, predominantly seafoods have the higher % calories from fat among, while most of the non-meat foods have zero percent, with a few exceptions.
+
+Avodado and Sweet Corn are not that surprising to see with a high percentage of calories from fat. However, it was interesting to find that Kiwis and Nectarines also had some fat!
+
+
+
+dplyr crosstab
+
 ______________________________________
  
 ## **Nikhil Bhargava's Insights**
