@@ -342,7 +342,7 @@ inputPanel(
 
 renderPlot({ggplot(data = df) +
   geom_point(mapping = aes(x = as.numeric(protein_g), y=as.numeric(sodium_g))) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  theme(axis.text.x = element_text(angle = 0, hjust = 7)) +           
   ylim(input$sodMin, input$sodMax) + 
   xlim(input$sProMin, input$sProMax)
 })
