@@ -318,6 +318,11 @@ Broccoli is the item that contains the most protein, then the red potatoes and t
 Below is the respective SQL code:
 
 ![SQL Code](proteinsql.png)
+
+##Sugar Box Plot
+#### [Insight Link: Sugar Box Plot](https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes)
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/nikhil.bhargava#!/vizhome/Instacart-BoxplotFinal/Sheet4?publish=yes"/>
+
 ______________________________________
 
 ## **Interesting Findings/Summary**
