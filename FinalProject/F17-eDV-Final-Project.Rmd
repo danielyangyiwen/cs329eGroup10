@@ -380,13 +380,13 @@ ______________________________________
 ### Nikhil
 * Number of order by hour: I find it interesting that there is a lack of late night orders compared to the day time. I would think that this is the time people are more lazy and would want to use Instacart to get food. I found it interesting that the peak order time was 3pm as most people would probably still be at work during this time. The only explanation I had for this would be that people would want to order groceries and by the time they come home it was delivered. It was also very interesting how the number of distinct products ordered by hour vs the number of products ordered by hour was a relatively similar graph.
 
-*I found it surprising that the most frequently reordered item were baby supplies instead of produce. I also thought it was interesting how most departments were frequently reordered about the same amount (only about a 2 day difference. Household goods being reordered really surprised me.
+* I found it surprising that the most frequently reordered item were baby supplies instead of produce. I also thought it was interesting how most departments were frequently reordered about the same amount (only about a 2 day difference. Household goods being reordered really surprised me.
 
-*It was interesting that broccoli had a higher protein count than red potatoes.
+* It was interesting that broccoli had a higher protein count than red potatoes.
 
-*Unsurprisingly, aisles that are in the produce and dairy eggs department are the most reordered aisles. However, it is interesting to see such a mixture of aisles by department after the first six aisles. This may suggest that there is a pretty even distribution of reordered items outside of the aisles that are contained in the two dominant departments.
+* Unsurprisingly, aisles that are in the produce and dairy eggs department are the most reordered aisles. However, it is interesting to see such a mixture of aisles by department after the first six aisles. This may suggest that there is a pretty even distribution of reordered items outside of the aisles that are contained in the two dominant departments.
 
-*Bananas having the second most amount of sugar out of all the produce was interesting as I didn't think it contained very much.
+* Bananas having the second most amount of sugar out of all the produce was interesting as I didn't think it contained very much.
 
 
 ### Anna
