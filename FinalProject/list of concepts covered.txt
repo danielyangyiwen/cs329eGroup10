@@ -1,0 +1,12 @@
+input panel
+ggplot
+tableau line graph
+bar chart
+scatter plot
+data joining
+data model
+SQL querying
+dplyr pipelines
+cross table
+level of detail calculated field
+data cleaning
