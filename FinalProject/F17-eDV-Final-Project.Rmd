@@ -326,7 +326,12 @@ Below is the respective SQL code:
 ##Input Panel - Sodium vs. Protein
 
 ```{r}
-attach(df)
+inputPanel(
+  sliderInput("sodMin", label = "Select Minimum Sodium Value",
+              min = 0, max = 100, value = 0, step = 5),
+  sliderInput("sodMax", label = "Select Maximum Sodium Value",
+              min = 0, max = 100, value = 100, step = 5)
+)
 
 inputPanel(
   sliderInput("sProMin", label = "Select Minimum Protein Value",
@@ -335,21 +340,12 @@ inputPanel(
               min = 0, max = 5, value = 5, step = 1)
 )
 
-inputPanel(
-  sliderInput("sSodMin", label = "Select Minimum Sodium Value",
-              min = 0, max = 100, value = 0, step = 5),
-  sliderInput("sSodMax", label = "Select Maximum Sodium Value",
-              min = 0, max = 100, value = 100, step = 5)
-)
-
-renderPlot({
-  ggplot(data = subset(df, !is.na(protein))) +
-  geom_point(mapping = aes(x = protein, y = sodium)) +
-  ylim(input$sProMin, input$sProMax) + 
-  xlim(input$sSodMin, input$sSodMax)
-  #xlim('0','3')
+renderPlot({ggplot(data = df) +
+  geom_point(mapping = aes(x = as.numeric(protein_g), y=as.numeric(sodium_g))) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +           
+  ylim(input$sodMin, input$sodMax) + 
+  xlim(input$sProMin, input$sProMax)
 })
-
 ```
 
 ______________________________________
