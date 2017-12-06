@@ -131,6 +131,10 @@ _________________________
 #### [Insight Link: Sugar vs. Total Carbohydrates](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/d7d0ba68-8c58-4744-87f8-3f1fe538bf35)
 <iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/CorrelationTotalCarbsandSugars?publish=yes"/>
 
+###Department-Aisle Cross Tab
+#### [Insight Link: Dept-Aisle CrossTab](https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Dept-AisleCrossTab?publish=yes)
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/daniel.yang#!/vizhome/InstaCartDVFinalProject/Dept-AisleCrossTab?publish=yes"/>
+
 ## **Anna Kong's Insights**
 
 ### **Cleaning our Nutitional Data** 
