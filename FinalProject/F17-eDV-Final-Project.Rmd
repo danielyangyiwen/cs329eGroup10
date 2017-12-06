@@ -352,6 +352,16 @@ ______________________________________
 
 ## **Interesting Findings/Summary**
 
+### Daniel
+* Something interesting from the insights that I made was that people generally used Instacart to buy groceries, mostly produce, dairy and eggs. What was more intriguing was that snacks were among the more popular types of products that people ordered from instacart. This may be from the reason that snacks are easy to eat and require minimal preparation compared to cooking regular food. This sort of follows the relaxed or "lazy" trend with using instacart. Customers are not motivated enough to go to the grocery store themselves but instead use Instacart's services. Bananas were definitely the most common item ordered with Instacart.
+* Another finding was that there was a positive correlation between the amount of sugar and carbohydrates a product had. This data was mostly found from the produce and beverages departments. Essentially, products with high amounts of carbohydrates will likely come with high amounts of sugars which is not the healthiest option for a balanced diet.
+* Another trend was that people mostly used Instacart during the day which peaked at about 3pm. What was funny was that there was an order for pet products at 2am. This might be from an emergency that a customer had with a pet they owned. Produce, dairy, eggs, beverages, and snacks were the most common during the day though.
+
+### Nikhil
+
+### Anna
+
+
 ______________________________________
 
 ## **Appendix: Concepts Covered**
