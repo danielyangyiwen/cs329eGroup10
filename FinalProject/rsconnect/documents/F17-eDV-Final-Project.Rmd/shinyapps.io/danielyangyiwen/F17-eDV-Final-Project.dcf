@@ -5,8 +5,8 @@ account: danielyangyiwen
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 241226
-bundleId: 1117743
+bundleId: 1117788
 url: https://danielyangyiwen.shinyapps.io/F17-eDV-Final-Project/
-when: 1512521090.36288
+when: 1512522731.38529
 asMultiple: FALSE
 asStatic: FALSE

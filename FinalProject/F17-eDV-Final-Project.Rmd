@@ -302,10 +302,10 @@ require(shiny)
 
 ```{r}
 require(dplyr)
-products <- filter(df, complete.cases(protein))
-unique_prods <- dplyr::distinct(products, product_name, aisle, department, protein)
-products_satfat <- arrange(unique_prods, desc(protein))
-final_protein <- dplyr::select(products_satfat, product_name, aisle, department, protein)
+products <- filter(df, complete.cases(protein_g))
+unique_prods <- dplyr::distinct(products, product_name, aisle, department, protein_g)
+products_satfat <- arrange(unique_prods, desc(protein_g))
+final_protein <- dplyr::select(products_satfat, product_name, aisle, department, protein_g)
 final_protein
 ```
 
