@@ -57,6 +57,21 @@ dfFreshFrozen <- data.world::query(data.world::qry_sql("WITH
     
 select * from produceData"), dataset = project)
 
+dfOrderDow <- data.world::query(data.world::qry_sql("SELECT count(number_of_records) AS num_orders, order_dow, CASE
+    when order_dow = 0 then 'Sunday'
+    when order_dow = 1 then 'Monday'
+    when order_dow = 2 then 'Tuesday'
+    when order_dow = 3 then 'Wednesday'
+    when order_dow = 4 then 'Thursday'
+    when order_dow = 5 then 'Friday'
+    when order_dow = 6 then 'Saturday'
+    else  order_dow
+    end order_dow_name
+FROM f_17_edv_project_5_finaljoined
+GROUP BY order_dow
+ORDER BY order_dow
+"), dataset = project)
+
 require(ggplot2)
 require(shiny)
 ```
@@ -407,6 +422,24 @@ It's interesting that Fresh Fruits are the most commonly ordered item, especiall
 
 What's more curious are the outliers: a large number of fresh fruit orders, especially bananas and strawberries. Among produce overall, fresh fruit have the highest number of orders, with fresh vegetables coming in next. Frozen produce are among the lowest. This makes sense as part of the appeal of Instacart is getting fresh groceries delivered. Frozen food can be bought in bulk, stored for long periods of time, and is generally less appealing. Bananas and strawberries are also very popular and common for healthy snacks and smoothies, so the rate of consumption and demand likely remains steadily high.
 
+### Number of Orders per Day of Week
+[Insight Link: Number of Orders per Day of Week Fat](https://data.world/nikhilbhargava/f-17-edv-project-5/insights/e7539e63-8cf3-41ca-bc75-16f926b1c019)
+
+After looking at how orders on Instacart peaked around 3pm, I was curious to see if number of orders peaked during a certain day of the week as well. Using an SQL Query, I selected the data I needed then created a visualization.
+
+![Number of Orders per Day of Week](orderDOWCount.png)
+
+```{r}
+renderPlot({ggplot(data = dfOrderDow) +
+  geom_bar(stat = "identity", mapping = aes(x = reorder(order_dow_name, order_dow), y= num_orders, fill = num_orders)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  labs(title = "Number of Orders per Day of Week", x = "Day of Week", y = "Number of Orders")
+})
+```
+
+Looking at the graph, it makes sense that customers would order their groceries predominantly around the beginning / end of each work week on Saturday, Sunday, and Monday. They would have more time to cook on the weekends as well. The majority of orders are on Sunday, where customers might just want to spend the day relaxing at home and not have to go grocery shopping when the stores are crowded. 
+
+
 ______________________________________
  
 ## **Nikhil Bhargava's Insights**
@@ -541,6 +574,13 @@ ______________________________________
 
 ### Anna
 
+* It was interesting to compare how some healthy foods (fruits, vegetables, seafood) compared in nutritional values. I chose to look at Iron values since iron deficiency is relatively common, especially for women. I was intrigued to find that clams and oysters had such high iron content. 
+
+* When looking at Calories From Fat percentages, it was interesting to discover that Kiwis and Nectarines had decent fat content, with higher percentages than some fish.
+
+* In exploring Instacart's data on Produce orders, I was surprised to see how popular Fresh Fruit orders were, especially in the afternoon. Although surprising at first, the data makes sense after some thought. The most commonly ordered produce were Bananas and strawberries, which are regularly consumed in snacks and smoothies, and thus have a consistently high rate of consumption and demand. It also makes sense that those ordering from instacart for the convenience of delivered groceries would prefer to order mostly fresh rather than frozen produce, and people just in general likely prefer fresh produce as well. The timing of orders is also expected, as most people have time to cook in the evenings. Customers will likely order a few hours before they return home from work or plan to start making dinner. After all, they would want to use their fresh groceries as soon as possible.
+
+* Considering the Data on Order Hour, I was very interested in seeing the distribution of Number of Orders across days of the week. As one might guess, the highest number of orders are on the weekends, when people typically restock on groceries. Customers can spend time at home instead and avoid busy stores by using Instacart's service. I had initially thought that order numbers might be higher on weekdays, when people typically work and have less time to go grocery shopping.
 
 ______________________________________
 
@@ -560,7 +600,4 @@ ______________________________________
 * level of detail calculated field
 * data cleaning
 * ETL
-
-###Anna's stuff
-* gather (Reformat)
-* dplyr mutation
+* data transform (dplyr: mutate, arrange, filter)
